@@ -1,0 +1,65 @@
+---
+import Button from "../Button.astro";
+import ArticleBlocks from "../ArticleBlocks.astro";
+
+const { page } = Astro.props;
+const prices = page.prices || [];
+const info = page.infoBox;
+const blocks = page.blocks || [];
+const description = page.description || [];
+---
+
+<section class="px-4 py-8 md:py-12">
+  <div class="mx-auto max-w-6xl">
+    <h1 class="mb-8 text-center text-2xl font-semibold text-text md:text-3xl lg:hidden">{page.heading}</h1>
+    <div class="grid gap-10 lg:grid-cols-2">
+      <div class="mx-auto w-full max-w-md lg:max-w-none">
+        {page.image && (
+          <img src={page.image} alt={page.heading} class="w-full border border-gray-300" />
+        )}
+        <div class="mt-6 hidden lg:block">
+          <Button variant="primary" class="w-full max-w-md">Add to Cart</Button>
+        </div>
+      </div>
+      <div>
+        <h1 class="mb-6 hidden text-2xl font-semibold text-text md:text-3xl lg:block">{page.heading}</h1>
+        {prices.length > 0 && (
+          <table class="mb-6 w-full max-w-md text-left">
+            <tbody>
+              {prices.map((p: { label: string; price: number; dimensions: string }) => (
+                <tr class="border-b border-gray-200">
+                  <td class="py-2 pr-4 font-medium">{p.label}</td>
+                  <td class="py-2 pr-4">${p.price}</td>
+                  <td class="py-2 text-sm text-gray-600">{p.dimensions}</td>
+                </tr>
+              ))}
+            </tbody>
+          </table>
+        )}
+        {blocks.length > 0 ? (
+          <ArticleBlocks blocks={blocks} />
+        ) : (
+          description.map((p: string) => <p class="mb-4 leading-relaxed text-text">{p}</p>)
+        )}
+        <div class="mt-6 lg:hidden">
+          <Button variant="primary" class="w-full max-w-md">Add to Cart</Button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  {info && (
+    <div class="mx-auto mt-12 max-w-6xl border border-brand bg-[#f8f8f8] p-8">
+      <h2 class="mb-2 text-lg font-bold text-text">Pricing</h2>
+      <p class="mb-6">{info.pricing}</p>
+      <h2 class="mb-2 text-lg font-bold text-text">Shipping Details</h2>
+      <p class="mb-6">{info.shipping}</p>
+      {info.prints && (
+        <>
+          <h2 class="mb-2 text-lg font-bold text-text">Fine Giclee Prints</h2>
+          <p>{info.prints}</p>
+        </>
+      )}
+    </div>
+  )}
+</section>

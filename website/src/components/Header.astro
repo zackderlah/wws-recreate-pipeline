@@ -1,0 +1,73 @@
+---
+import { site } from "../lib/cms";
+
+let mobileOpen = false;
+---
+
+<header class="border-b border-gray-200 bg-white sticky top-0 z-50">
+  <div class="mx-auto flex max-w-6xl items-center justify-between gap-4 px-4 py-3 md:px-6">
+    <a href="/" class="flex items-center gap-3 shrink-0">
+      {site.logo && (
+        <img src={site.logo} alt={site.name} class="h-12 w-12 object-contain" width="48" height="48" />
+      )}
+      <span class="sr-only">{site.name}</span>
+    </a>
+
+    <nav class="hidden lg:flex items-center gap-5 text-sm font-medium text-text">
+      {site.nav.map((item) => (
+        item.children ? (
+          <div class="relative group">
+            <a href={item.href} class="hover:text-brand transition-colors">{item.label}</a>
+            <div class="absolute left-0 top-full hidden group-hover:block pt-2">
+              <div class="min-w-[240px] rounded-md border border-gray-200 bg-white py-2 shadow-lg">
+                {item.children.map((child) => (
+                  <a href={child.href} class="block px-4 py-2 hover:bg-gray-50 hover:text-brand">
+                    {child.label}
+                  </a>
+                ))}
+              </div>
+            </div>
+          </div>
+        ) : (
+          <a href={item.href} class="hover:text-brand transition-colors">{item.label}</a>
+        )
+      ))}
+    </nav>
+
+    <a href="/gift-vouchers" class="hidden lg:inline-flex text-brand" aria-label="Shopping cart">
+      <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M3 3h2l.4 2M7 13h10l3-8H6.4M7 13L5.4 5M7 13l-1.6 8H19M10 21a1 1 0 100-2 1 1 0 000 2zm8 0a1 1 0 100-2 1 1 0 000 2z" />
+      </svg>
+    </a>
+
+    <button
+      type="button"
+      class="lg:hidden p-2 text-text"
+      aria-label="Open menu"
+      id="mobile-menu-btn"
+    >
+      <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16" />
+      </svg>
+    </button>
+  </div>
+
+  <nav id="mobile-menu" class="hidden lg:hidden border-t border-gray-200 bg-white px-4 py-4">
+    <div class="flex flex-col gap-3 text-sm font-medium">
+      {site.nav.map((item) => (
+        <>
+          <a href={item.href} class="hover:text-brand">{item.label}</a>
+          {item.children?.map((child) => (
+            <a href={child.href} class="pl-4 text-gray-600 hover:text-brand">{child.label}</a>
+          ))}
+        </>
+      ))}
+    </div>
+  </nav>
+</header>
+
+<script>
+  const btn = document.getElementById("mobile-menu-btn");
+  const menu = document.getElementById("mobile-menu");
+  btn?.addEventListener("click", () => menu?.classList.toggle("hidden"));
+</script>

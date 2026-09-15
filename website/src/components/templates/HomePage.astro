@@ -1,0 +1,89 @@
+---
+import Button from "../Button.astro";
+import { site } from "../../lib/cms";
+
+const { page } = Astro.props;
+const hero = page.hero;
+const sections = page.sections || [];
+const images = page.images || [];
+---
+
+<section class="px-4 py-16 text-center">
+  <div class="mx-auto max-w-4xl">
+    <h1 class="font-display text-4xl font-semibold text-text md:text-5xl">{hero.line1}</h1>
+    <p class="mt-2 text-3xl font-bold text-accent md:text-4xl">{hero.line2}</p>
+    <p class="mt-2 text-sm font-semibold uppercase tracking-wide text-text">{hero.line3}</p>
+    <div class="mt-8">
+      <Button href={hero.cta.href} variant="secondary">{hero.cta.label}</Button>
+    </div>
+  </div>
+</section>
+
+<section class="bg-[#f5f5f5] px-4 py-16">
+  <div class="mx-auto grid max-w-6xl gap-10 md:grid-cols-2 md:items-center">
+    <div>
+      <h2 class="mb-6 text-2xl font-bold text-text">Looking for someone to Draw Your House?</h2>
+      {sections.slice(0, 3).map((p: string) => (
+        <p class="mb-4 leading-relaxed text-text">{p}</p>
+      ))}
+      <div class="mt-8 flex flex-wrap gap-4">
+        <Button href={`tel:${site.phone}`} variant="primary">{site.phone}</Button>
+        <Button href="/contact+alison+greenway" variant="outline">Contact</Button>
+      </div>
+    </div>
+    {images[0] && (
+      <div class="text-center">
+        <img src={images[0].src} alt={images[0].alt || "House portrait artwork"} class="mx-auto border border-gray-300 shadow-sm" />
+        <p class="mt-4 text-sm font-medium text-text">Artwork is not AI generated</p>
+      </div>
+    )}
+  </div>
+</section>
+
+<section class="px-4 py-16 text-center">
+  <h2 class="text-2xl font-bold text-accent md:text-3xl">What Makes Alison's Art Special?</h2>
+  <p class="mt-2 font-semibold text-text">Why Clients Love These Portraits</p>
+  <div class="mx-auto mt-10 grid max-w-5xl gap-8 text-left md:grid-cols-2">
+    {sections.slice(3, 11).map((p: string) => (
+      <p class="leading-relaxed text-text">{p}</p>
+    ))}
+  </div>
+</section>
+
+<section class="px-4 py-16 text-center">
+  <h2 class="text-2xl font-bold text-text">Quality Fine Art Giclee Prints Available</h2>
+  <p class="mt-2 text-gray-600">Shop by Category</p>
+  <div class="mx-auto mt-10 grid max-w-5xl gap-8 sm:grid-cols-2 lg:grid-cols-4">
+    {[
+      { href: "/queensland-homes", label: "Queensland Homes", img: images[2] },
+      { href: "/queensland+cottage+art+collection", label: "Cottages", img: images[3] },
+      { href: "/painting-reproductions", label: "Painting Reproductions", img: images[4] },
+      { href: "/house-portrait-commissions", label: "Art Commissions", img: images[5] }
+    ].map((cat) => (
+      <a href={cat.href} class="group">
+        {cat.img && (
+          <img src={cat.img.src} alt={cat.label} class="mx-auto mb-4 border border-gray-300 transition group-hover:opacity-90" />
+        )}
+        <span class="inline-block w-full bg-brand px-4 py-3 text-sm font-semibold text-white group-hover:bg-brand-dark">
+          {cat.label}
+        </span>
+      </a>
+    ))}
+  </div>
+</section>
+
+<section class="bg-[#f5f5f5] px-4 py-16">
+  <div class="mx-auto grid max-w-6xl gap-10 md:grid-cols-2 md:items-center">
+    {images[6] && (
+      <img src={images[6].src} alt="Gift artwork collage" class="w-full" />
+    )}
+    <div>
+      <h2 class="mb-6 text-2xl font-bold text-text">
+        Finding the perfect gift can be difficult — especially when you want something personal and heartfelt.
+      </h2>
+      {sections.slice(11).map((p: string) => (
+        <p class="mb-4 leading-relaxed text-text">{p}</p>
+      ))}
+    </div>
+  </div>
+</section>

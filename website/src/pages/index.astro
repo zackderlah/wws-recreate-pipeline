@@ -1,0 +1,12 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import HomePage from "../components/templates/HomePage.astro";
+import { pages } from "../lib/cms";
+
+const page = pages["/"];
+if (!page) throw new Error("Home page data missing");
+---
+
+<BaseLayout title={page.seo.title} description={page.seo.description}>
+  <HomePage page={page} />
+</BaseLayout>

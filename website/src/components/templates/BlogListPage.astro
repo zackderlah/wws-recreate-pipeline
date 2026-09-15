@@ -1,0 +1,20 @@
+---
+const { page } = Astro.props;
+const posts = page.posts || [];
+---
+
+<section class="px-4 py-12">
+  <div class="mx-auto max-w-3xl">
+    <h1 class="mb-10 text-center text-2xl font-semibold text-text">{page.heading}</h1>
+    <div class="space-y-8">
+      {posts.map((post: { title: string; href: string }) => (
+        <article class="border-b border-gray-200 pb-8">
+          <h2 class="mb-2 text-lg font-semibold">
+            <a href={post.href} class="text-text hover:text-brand">{post.title}</a>
+          </h2>
+          <a href={post.href} class="text-sm text-link hover:underline">Read more ›</a>
+        </article>
+      ))}
+    </div>
+  </div>
+</section>

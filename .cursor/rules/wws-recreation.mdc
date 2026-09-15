@@ -1,0 +1,80 @@
+---
+description: Rules for all WWS website recreations
+alwaysApply: true
+---
+
+# WWS Website Recreation Rules
+
+Recreate the source site as a clean WWS-native codebase.
+
+## Source of truth
+- Reference screenshots are the visual source of truth.
+- `structure.json` and `dom.html` are supporting evidence.
+- Never redesign unless explicitly asked.
+
+## Target
+- Use Astro + TypeScript + Tailwind unless this repository specifies otherwise.
+- Keep layout/design in code.
+- Keep client-editable content in WWS CMS fields.
+- Do not recreate WebWave's generated DOM/CSS architecture.
+
+## Fidelity
+Preserve:
+- page hierarchy and URLs
+- text/content
+- images
+- typography
+- colors
+- spacing
+- section order
+- navigation
+- responsive behavior
+- meaningful interactions
+
+## Responsive QA
+Validate at:
+- 1440 px
+- 1024 px
+- 390 px
+
+## Components
+- Prefer shared WWS components where they match accurately.
+- Create custom components when required for fidelity.
+- Do not force every section into a generic component.
+
+## CMS
+Expose sensible non-structural content:
+- text
+- images
+- links/buttons
+- contact information
+- services
+- testimonials
+- blog posts
+- SEO metadata
+
+Do not expose:
+- arbitrary CSS
+- x/y positioning
+- responsive layout internals
+- raw HTML
+
+## Assets
+- Use assets from `recreation/source/assets` whenever available.
+- Never hotlink WebWave-hosted images in the final site.
+
+## Quality
+- semantic HTML
+- accessible navigation
+- alt text
+- no unnecessary dependencies
+- no huge monolithic page component
+- no silent loss of forms/integrations
+
+## Completion
+Before declaring completion:
+1. build successfully
+2. render generated screenshots at all target viewports
+3. compare against source
+4. fix meaningful differences
+5. produce `RECREATION_REPORT.md`

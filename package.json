@@ -1,0 +1,30 @@
+{
+  "name": "wws-recreate-pipeline",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "capture": "tsx src/capture.ts",
+    "compare": "tsx src/compare.ts",
+    "recreate": "tsx src/recreate.ts",
+    "prepare:site": "tsx scripts/prepare-site.ts",
+    "build:site": "npm run prepare:site && cd website && npm run build",
+    "preview:site": "cd website && npm run preview -- --host",
+    "screenshot": "tsx src/screenshot.ts",
+    "qa": "npm run build:site && cd website && npm run preview -- --host --port 4321",
+    "install:browsers": "playwright install chromium"
+  },
+  "dependencies": {
+    "chalk": "^5.4.1",
+    "fast-glob": "^3.3.3",
+    "pixelmatch": "^7.1.0",
+    "playwright": "^1.55.0",
+    "pngjs": "^7.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^24.3.0",
+    "@types/pngjs": "^6.0.5",
+    "tsx": "^4.20.5",
+    "typescript": "^5.9.2"
+  }
+}

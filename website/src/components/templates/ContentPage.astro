@@ -1,0 +1,25 @@
+---
+import ArticleBlocks from "../ArticleBlocks.astro";
+
+const { page } = Astro.props;
+const blocks = page.blocks || [];
+const body = page.body || [];
+---
+
+<section class="px-4 py-8 md:py-12">
+  <div class="mx-auto max-w-3xl">
+    <h1 class="mb-8 text-center text-2xl font-semibold text-text md:text-3xl">{page.heading}</h1>
+    {page.image && (
+      <img
+        src={page.image}
+        alt={page.imageAlt || page.heading}
+        class="mx-auto mb-8 w-full max-w-4xl object-contain"
+      />
+    )}
+    {blocks.length > 0 ? (
+      <ArticleBlocks blocks={blocks} />
+    ) : (
+      body.map((p: string) => <p class="mb-4 leading-relaxed text-text">{p}</p>)
+    )}
+  </div>
+</section>

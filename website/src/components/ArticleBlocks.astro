@@ -1,0 +1,33 @@
+---
+const { blocks = [], class: className = "" } = Astro.props;
+---
+
+<div class={className}>
+  {blocks.map((block: any) => {
+    if (block.type === "heading") {
+      return <h2 class="mb-4 mt-10 text-xl font-bold text-text">{block.text}</h2>;
+    }
+    if (block.type === "paragraph") {
+      return block.html
+        ? <p class="mb-4 leading-relaxed text-text" set:html={block.html} />
+        : <p class="mb-4 leading-relaxed text-text">{block.text}</p>;
+    }
+    if (block.type === "list") {
+      return (
+        <ul class="mb-6 list-disc space-y-2 pl-6 text-text">
+          {block.items.map((item: string) => <li class="leading-relaxed">{item}</li>)}
+        </ul>
+      );
+    }
+    if (block.type === "image") {
+      return (
+        <img
+          src={block.src}
+          alt={block.alt || ""}
+          class="mx-auto my-8 w-[90%] border-[20px] border-[#faf9f2]"
+        />
+      );
+    }
+    return null;
+  })}
+</div>

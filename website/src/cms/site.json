@@ -1,0 +1,89 @@
+{
+  "name": "Alison Greenway Art",
+  "phone": "0405 179 479",
+  "email": "alisongreenwayart@gmail.com",
+  "logo": "/assets/Greenway-Art-Logo-Transparent-lpw6c13y.png",
+  "social": {
+    "facebook": "https://www.facebook.com/AlisonGreenwayArt/",
+    "instagram": "https://www.instagram.com/alisongreenway_art"
+  },
+  "nav": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Quality Reproductions",
+      "href": "/queensland-homes",
+      "children": [
+        {
+          "label": "Queensland Homes Collection",
+          "href": "/queensland-homes"
+        },
+        {
+          "label": "Queensland Cottages Collection",
+          "href": "/queensland+cottage+art+collection"
+        },
+        {
+          "label": "Painting Reproductions",
+          "href": "/painting-reproductions"
+        }
+      ]
+    },
+    {
+      "label": "Art Commissions",
+      "href": "/house-portrait-commissions"
+    },
+    {
+      "label": "Gift Vouchers",
+      "href": "/gift-vouchers"
+    },
+    {
+      "label": "Alison's Blog",
+      "href": "/alisons-blog"
+    },
+    {
+      "label": "About",
+      "href": "/about+alison+greenway"
+    },
+    {
+      "label": "Contact",
+      "href": "/contact+alison+greenway"
+    }
+  ],
+  "footerNav": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Quality Reproductions",
+      "href": "/queensland-homes"
+    },
+    {
+      "label": "Commissions",
+      "href": "/house-portrait-commissions"
+    },
+    {
+      "label": "Gift Vouchers",
+      "href": "/gift-vouchers"
+    },
+    {
+      "label": "Alison's Blog",
+      "href": "/alisons-blog"
+    },
+    {
+      "label": "About",
+      "href": "/about+alison+greenway"
+    },
+    {
+      "label": "Contact",
+      "href": "/contact+alison+greenway"
+    }
+  ],
+  "integrations": {
+    "ecommerce": "WebWave store with Stripe checkout (requires WWS e-commerce integration)",
+    "video": "Embedded promotional video on homepage (YouTube - needs embed URL from live site)",
+    "analytics": "Google Tag Manager (not recreated in static build)"
+  }
+}

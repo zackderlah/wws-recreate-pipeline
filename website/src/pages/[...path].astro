@@ -1,0 +1,46 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import HomePage from "../components/templates/HomePage.astro";
+import ProductPage from "../components/templates/ProductPage.astro";
+import CollectionPage from "../components/templates/CollectionPage.astro";
+import ContentPage from "../components/templates/ContentPage.astro";
+import BlogListPage from "../components/templates/BlogListPage.astro";
+import BlogPostPage from "../components/templates/BlogPostPage.astro";
+import GiftVouchersPage from "../components/templates/GiftVouchersPage.astro";
+import ContactPage from "../components/templates/ContactPage.astro";
+import { getAllPaths, getPageByPath, pages } from "../lib/cms";
+
+export function getStaticPaths() {
+  return getAllPaths().map((pagePath) => ({
+    params: { path: pagePath.replace(/^\//, "") }
+  }));
+}
+
+const pathParam = Astro.params.path || "";
+const pagePath = `/${pathParam}`;
+const page = getPageByPath(pagePath);
+
+if (!page) {
+  return Astro.redirect("/");
+}
+
+const TemplateMap: Record<string, any> = {
+  home: HomePage,
+  product: ProductPage,
+  collection: CollectionPage,
+  "blog-list": BlogListPage,
+  "blog-post": BlogPostPage,
+  contact: ContactPage,
+  about: ContentPage,
+  terms: ContentPage,
+  commissions: ContentPage,
+  "gift-vouchers": GiftVouchersPage,
+  content: ContentPage
+};
+
+const Template = TemplateMap[page.type] || ContentPage;
+---
+
+<BaseLayout title={page.seo.title} description={page.seo.description}>
+  <Template page={page} />
+</BaseLayout>

@@ -1,0 +1,41 @@
+---
+import { site } from "../lib/cms";
+---
+
+<footer class="mt-auto bg-gradient-to-b from-[#f0eeec] to-[#e8e4e0] px-4 py-12 text-center">
+  <div class="mx-auto max-w-4xl">
+    {site.logo && (
+      <img src={site.logo} alt={site.name} class="mx-auto mb-4 h-16 w-16 object-contain" width="64" height="64" />
+    )}
+    <h2 class="mb-4 text-lg font-semibold text-text">{site.name}</h2>
+    <p class="mb-1">
+      <span class="font-medium">P:</span>
+      <a href={`tel:${site.phone}`} class="text-link hover:underline">{site.phone}</a>
+    </p>
+    <p class="mb-6">
+      <span class="font-medium">E:</span>
+      <a href={`mailto:${site.email}`} class="text-link hover:underline">{site.email}</a>
+    </p>
+
+    <div class="mb-6 flex justify-center gap-4">
+      <a href={site.social.facebook} class="text-brand hover:opacity-80" aria-label="Facebook" target="_blank" rel="noopener noreferrer">
+        <svg class="h-6 w-6" fill="currentColor" viewBox="0 0 24 24"><path d="M24 12.073C24 5.405 18.627 0 12 0S0 5.405 0 12.073C0 18.1 4.388 23.094 10.125 24v-8.437H7.078v-3.49h3.047V9.413c0-3.025 1.792-4.697 4.533-4.697 1.312 0 2.686.236 2.686.236v2.97H15.83c-1.49 0-1.954.93-1.954 1.887v2.262h3.328l-.532 3.49h-2.796V24C19.612 23.094 24 18.1 24 12.073z"/></svg>
+      </a>
+      <a href={site.social.instagram} class="text-brand hover:opacity-80" aria-label="Instagram" target="_blank" rel="noopener noreferrer">
+        <svg class="h-6 w-6" fill="currentColor" viewBox="0 0 24 24"><path d="M12 2.163c3.204 0 3.584.012 4.85.07 1.366.062 2.633.334 3.608 1.308.974.974 1.246 2.241 1.308 3.608.058 1.266.07 1.646.07 4.85s-.012 3.584-.07 4.85c-.062 1.366-.334 2.633-1.308 3.608-.974.974-2.241 1.246-3.608 1.308-1.266.058-1.646.07-4.85.07s-3.584-.012-4.85-.07c-1.366-.062-2.633-.334-3.608-1.308-.974-.974-1.246-2.241-1.308-3.608C2.175 15.747 2.163 15.367 2.163 12s.012-3.584.07-4.85c.062-1.366.334-2.633 1.308-3.608.974-.974 2.241-1.246 3.608-1.308C8.416 2.175 8.796 2.163 12 2.163zm0 1.802c-3.154 0-3.525.012-4.765.069-1.02.047-1.574.22-1.94.366-.488.19-.837.417-1.203.783-.366.366-.593.715-.783 1.203-.146.366-.319.92-.366 1.94-.057 1.24-.069 1.611-.069 4.765s.012 3.525.069 4.765c.047 1.02.22 1.574.366 1.94.19.488.417.837.783 1.203.366.366.715.593 1.203.783.366.146.92.319 1.94.366 1.24.057 1.611.069 4.765.069s3.525-.012 4.765-.069c1.02-.047 1.574-.22 1.94-.366.488-.19.837-.417 1.203-.783.366-.366.593-.715.783-1.203.146-.366.319-.92.366-1.94.057-1.24.069-1.611.069-4.765s-.012-3.525-.069-4.765c-.047-1.02-.22-1.574-.366-1.94-.19-.488-.417-.837-.783-1.203-.366-.366-.715-.593-1.203-.783-.366-.146-.92-.319-1.94-.366-1.24-.057-1.611-.069-4.765-.069zM12 7.378a4.622 4.622 0 100 9.244 4.622 4.622 0 000-9.244zm0 7.622a3 3 0 110-6 3 3 0 010 6zm5.804-8.885a1.08 1.08 0 11-2.16 0 1.08 1.08 0 012.16 0z"/></svg>
+      </a>
+    </div>
+
+    <nav class="mb-4 flex flex-wrap justify-center gap-x-4 gap-y-2 text-sm">
+      {site.footerNav.map((item) => (
+        <a href={item.href} class="hover:text-brand">{item.label}</a>
+      ))}
+    </nav>
+
+    <a href="/terms-and-conditions" class="text-sm text-link hover:underline">Terms and Conditions</a>
+
+    <p class="mt-8 text-xs text-gray-500">
+      Designed by <a href="https://www.workingwebsites.net.au/" class="text-link hover:underline" target="_blank" rel="noopener noreferrer">Working Websites</a>
+    </p>
+  </div>
+</footer>

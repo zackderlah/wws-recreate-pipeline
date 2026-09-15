@@ -1,0 +1,2705 @@
+{
+  "/": {
+    "slug": "home",
+    "path": "/",
+    "type": "home",
+    "seo": {
+      "title": "Alison Greenway Art | Artist in Toowoomba Queensland",
+      "description": "Step into the world of Alison Greenway's Queensland Homes Art Collection, where artistry meets the essence of Queensland living.Browse through a curated gallery that beautifully captures the spirit of homes in this vibrant Australian state. Explore each collection and let the visual narrative of each piece transport you to the heart of Queensland homes, celebrating the artistry that turns living spaces into timeless works of art."
+    },
+    "heading": "Custom Hand Drawn",
+    "hero": {
+      "line1": "Custom Hand Drawn",
+      "line2": "House Portrait Art",
+      "line3": "By Alison Greenway",
+      "cta": {
+        "label": "Commission a House Portrait",
+        "href": "/house-portrait-commissions"
+      }
+    },
+    "sections": [
+      "Custom Pen and Ink Home Portraits, Quality Reproductions and Commissions",
+      "Your home tells a story of milestones, memories, and moments worth preserving. Whether it's the family home, a cozy cottage, or your beachside holiday home, each building portrait is hand-drawn with care using traditional pencil and ink techniques and a keen eye for detail.",
+      "Artist Alison Greenway brings architecture to life with precision and heart, transforming your reference photos into a work of art you'll treasure forever.",
+      "Custom drawings can also be commissioned to feature your workplace building, business, office, stable complex, hotel or restaurant - these can be Tax Deductible.",
+      "Perfect for Gifting These portraits make ideal gifts for holidays, birthdays, anniversaries, weddings, retirements, housewarming parties, and for new homeowners or anyone who appreciates art. Gift Vouchers are also available.",
+      "Original Art Ownership You will own a physical piece of original art, a lasting treasure that captures the essence of your home.",
+      "Certificate of Authenticity You will receive a Certificate to verify your artwork's originality, provenance, and value, offering you assurance.",
+      "100% Hand-Drawn Art Meticulously crafted using quality COPIC Multi Liner pens and DERWENT Graphic pencils, Graphic Tint and Watercolour pencils, ensuring a unique, and authentic touch.",
+      "Personalised Features Tailored to reflect your home’s distinctive characteristics and landscaping, making every portrait one-of-a-kind.",
+      "No Digital Tricks My work is free from AI, filters, or digital alterations. It's about true craftsmanship and artistry.",
+      "Progress Updates You will receive updates throughout the creation process, allowing you to witness your artwork come to life step by step.",
+      "Commissioned artwork is a thoughtful way to celebrate life’s special moments. A detailed house portrait captures memories that last a lifetime.",
+      "Alison Greenway is a dedicated artist based in Toowoomba, specialising in custom house portraits and commissioned artwork across Queensland. Her pieces are known for their warmth, detail, and personal touch — making them perfect gifts for those you love.",
+      "A commissioned piece by Alison Greenway is more than art — it’s a lasting memory"
+    ],
+    "images": [
+      {
+        "src": "/assets/McKenzie.webp",
+        "alt": "McKenzie-1024px"
+      },
+      {
+        "src": "/assets/Majestic-Lady.webp",
+        "alt": "Majestic Lady-1024"
+      },
+      {
+        "src": "/assets/Bayrise-manor-BW-600px-webp.webp",
+        "alt": "Queensland Homes"
+      },
+      {
+        "src": "/assets/A-Little-Treasure-Colour-600px-webp.webp",
+        "alt": "Queensland Cottages Art Collection"
+      },
+      {
+        "src": "/assets/Spring-Garden-BA-600px-webp.webp",
+        "alt": "Painting Reproductions"
+      },
+      {
+        "src": "/assets/Commissions-gallery-6--1280px-webp.webp",
+        "alt": "Alison Greenway Art Commissions"
+      },
+      {
+        "src": "/assets/house-portrait-young-family-no-text.webp",
+        "alt": "Give a commissioned artwork as a gift. Alison Greenway Art"
+      },
+      {
+        "src": "/assets/Greenway-Art-Logo-Transparent-lpw6c13y.png",
+        "alt": "Alison Greenway Art Logo"
+      }
+    ]
+  },
+  "/queensland-homes": {
+    "slug": "queensland-homes",
+    "path": "/queensland-homes",
+    "type": "collection",
+    "seo": {
+      "title": "Queensland Homes Art Collection | Alison Greenway",
+      "description": "Dive into a gallery of captivating artworks, embodying the essence of Queensland living. Alison Greenway's skilled strokes and vivid compositions breathe life into the unique architectural charm of Queensland homes. Experience the fusion of art and lifestyle in this vibrant Australian state, where each piece narrates the beauty found within these homes."
+    },
+    "heading": "Queensland Homes Art Collection",
+    "groups": [
+      {
+        "name": "Black and White Collection",
+        "items": [
+          {
+            "title": "Double Gabled Suburban Home B & W",
+            "href": "/double-gabled-suburban-home-bw",
+            "slug": "double-gabled-suburban-home-bw",
+            "image": "/assets/Double-Gabled-Suburban-Home-BW-1280px-webp.webp"
+          },
+          {
+            "title": "Bayrise Manor B & W",
+            "href": "/bayrise-manor-bw",
+            "slug": "bayrise-manor-bw",
+            "image": "/assets/Bayrise-manor-BW-1280px-webp.webp"
+          },
+          {
+            "title": "Tudor Estate B & W",
+            "href": "/tudor-estate-bw",
+            "slug": "tudor-estate-bw",
+            "image": "/assets/Tudor-Estate-BW-BA-1280px-webp.webp"
+          }
+        ]
+      },
+      {
+        "name": "Sepia Collection",
+        "items": [
+          {
+            "title": "Double Gabled Suburban Home Sepia",
+            "href": "/double-gabled-suburban-home-sepia",
+            "slug": "double-gabled-suburban-home-sepia",
+            "image": "/assets/Double-Gabled-Suburban-Home-sepia-1280px-webp.webp"
+          },
+          {
+            "title": "Bayrise Manor Sepia",
+            "href": "/bayrise-manor-sepia",
+            "slug": "bayrise-manor-sepia",
+            "image": "/assets/Bayrise-Manor-Sepia-1280px-webp.webp"
+          },
+          {
+            "title": "Tudor Estate Sepia",
+            "href": "/tudor-estate-sepia",
+            "slug": "tudor-estate-sepia",
+            "image": "/assets/Tudor-Estate-sepia-FF-1280px-webp.webp"
+          }
+        ]
+      },
+      {
+        "name": "Colour Collection",
+        "items": [
+          {
+            "title": "Home Among the Gumtrees Colour",
+            "href": "/home-among-the-gumtrees-colour",
+            "slug": "home-among-the-gumtrees-colour",
+            "image": "/assets/Home-Among-the-Gumtrees-Colour-1280px-webp.webp"
+          },
+          {
+            "title": "Bayrise Manor Colour",
+            "href": "/bayrise-manor-colour",
+            "slug": "bayrise-manor-colour",
+            "image": "/assets/Bayrise-Manor-Colour-BA-1280px-webp.webp"
+          },
+          {
+            "title": "Tudor Estate Colour",
+            "href": "/tudor-estate-colour",
+            "slug": "tudor-estate-colour",
+            "image": "/assets/Stylish-Tudor-Estate-Colour-1280px-webp.webp"
+          }
+        ]
+      }
+    ],
+    "intro": [
+      "Quality Reproductions on 240 gsm Premium Textured Cotton Rag Paper"
+    ]
+  },
+  "/queensland+cottage+art+collection": {
+    "slug": "queensland-cottage-art-collection",
+    "path": "/queensland+cottage+art+collection",
+    "type": "collection",
+    "seo": {
+      "title": "Queensland Cottages Collection | Alison Greenway Art",
+      "description": "Discover the captivating essence of Alison Greenway's Queensland Cottages Art Collection. Immerse yourself in a gallery of artworks that intricately depict the allure and character of Queensland's charming cottages. Uncover the fusion of art and cottage living within the collection, where each piece narrates a visual tale of the timeless beauty woven into Queensland's cottage landscapes."
+    },
+    "heading": "Queensland Cottages Art Collection",
+    "groups": [
+      {
+        "name": "Black and White Collection",
+        "items": [
+          {
+            "title": "Maple Grove - Timber Vista Cottage B & W",
+            "href": "/maple-grove-timber-vista-cottage-bw",
+            "slug": "maple-grove-timber-vista-cottage-bw",
+            "image": "/assets/Maple-Grove-BW-1280px-webp.webp"
+          },
+          {
+            "title": "Louvered Cottage B & W",
+            "href": "/louvered-cottage-bw",
+            "slug": "louvered-cottage-bw",
+            "image": "/assets/Louvered-Cottage-BW-BA-1280px-webp.webp"
+          },
+          {
+            "title": "Jill's Getaway B & W",
+            "href": "/jills-getaway-bw",
+            "slug": "jills-getaway-bw",
+            "image": "/assets/Jills-Getaway-BW-BA-1280px-webp.webp"
+          }
+        ]
+      },
+      {
+        "name": "Sepia Collection",
+        "items": [
+          {
+            "title": "Maple Grove – Timber Vista Cottage Sepia",
+            "href": "/maple-grove-timber-vista-cottage-sepia",
+            "slug": "maple-grove-timber-vista-cottage-sepia",
+            "image": "/assets/Maple-Grove-Sepia-1280px-webp.webp"
+          },
+          {
+            "title": "Jill's Getaway Sepia",
+            "href": "/jills-getaway-sepia",
+            "slug": "jills-getaway-sepia",
+            "image": "/assets/Jills-Getaway-Sepia-BA-1280px-webp.webp"
+          },
+          {
+            "title": "Louvered Cottage Sepia",
+            "href": "/louvered-cottage-sepia",
+            "slug": "louvered-cottage-sepia",
+            "image": "/assets/Louvered-Cottage-FF-1280px-webp.webp"
+          }
+        ]
+      },
+      {
+        "name": "Colour Collection",
+        "items": [
+          {
+            "title": "Jill's Getaway Colour",
+            "href": "/jills-getaway-colour",
+            "slug": "jills-getaway-colour",
+            "image": "/assets/Jills-Getaway-Colour-1280px-webp.webp"
+          },
+          {
+            "title": "A Little Treasure Colour",
+            "href": "/a-little-treasure-colour",
+            "slug": "a-little-treasure-colour",
+            "image": "/assets/A-Little-Treasure-Colour-1280px-webp.webp"
+          },
+          {
+            "title": "Louvered Cottage Colour",
+            "href": "/louvered-cottage-colour",
+            "slug": "louvered-cottage-colour",
+            "image": "/assets/Louvered-Cottage-Colour-BA-1280px-webp.webp"
+          }
+        ]
+      }
+    ],
+    "intro": [
+      "Quality Reproductions on 240 gsm Premium Textured Cotton Rag Paper"
+    ]
+  },
+  "/painting-reproductions": {
+    "slug": "painting-reproductions",
+    "path": "/painting-reproductions",
+    "type": "collection",
+    "seo": {
+      "title": "Painting Reproductions | Alison Greenway Art",
+      "description": "Explore Alison Greenway's Painting Reproductions, where nature's beauty intertwines with artistic expression. Alison's brushwork brings to life the essence of botanical wonders, inviting you to elevate your space with these captivating artworks. Immerse yourself in the serene and lush atmosphere of gardens through Alison Greenway's creations that will add a touch of timeless beauty to your surroundings."
+    },
+    "heading": "Painting Reproductions",
+    "groups": [
+      {
+        "name": "Collection",
+        "items": [
+          {
+            "title": "Toucan in the Jungle",
+            "href": "/toucan-in-the-jungle",
+            "slug": "toucan-in-the-jungle",
+            "image": "/assets/Toucan-in-the-Jungle-Cropped-1280px-webp.webp"
+          },
+          {
+            "title": "Old Melbourne Inn",
+            "href": "/old-melbourne-inn",
+            "slug": "old-melbourne-inn",
+            "image": "/assets/Old-Melbourne-Inn-Cropped-1280px-webp.webp"
+          },
+          {
+            "title": "Celebrations of Spring",
+            "href": "/celebrations-of-spring",
+            "slug": "celebrations-of-spring",
+            "image": "/assets/Celebrations-of-spring-colour-cropped-1280px-webp.webp"
+          },
+          {
+            "title": "Quiet Time by the Pond",
+            "href": "/quiet-time-by-the-pond",
+            "slug": "quiet-time-by-the-pond",
+            "image": "/assets/Quiet-Time-By-The-Pond-Cropped-1280px-webp.webp"
+          },
+          {
+            "title": "Pine Haven Retreat",
+            "href": "/pine-haven-retreat",
+            "slug": "pine-haven-retreat",
+            "image": "/assets/Pine-Haven-Retreat-Cropped-1280px-webp.webp"
+          },
+          {
+            "title": "Wisteria Cottage",
+            "href": "/wisteria-cottage",
+            "slug": "wisteria-cottage",
+            "image": "/assets/Wisteria-Cottage-Cropped-1280px-webp.webp"
+          },
+          {
+            "title": "Black Cockatoo",
+            "href": "/black-cockatoo",
+            "slug": "black-cockatoo",
+            "image": "/assets/Black-Cockatoo-BA-1280px-webp.webp"
+          },
+          {
+            "title": "Weekend Retreat",
+            "href": "/weekend-retreat",
+            "slug": "weekend-retreat",
+            "image": "/assets/Weekend-Retreat-BA-1280px-webp.webp"
+          },
+          {
+            "title": "African Highlight",
+            "href": "/african-highlight",
+            "slug": "african-highlight",
+            "image": "/assets/African-Highlight-1280px-webp.webp"
+          },
+          {
+            "title": "Sunday Morning",
+            "href": "/sunday-morning",
+            "slug": "sunday-morning",
+            "image": "/assets/Sunday-Morning-BA-1280px-webp.webp"
+          },
+          {
+            "title": "Spring Garden",
+            "href": "/spring-garden",
+            "slug": "spring-garden",
+            "image": "/assets/Spring-Garden-BA-1280px-webp.webp"
+          },
+          {
+            "title": "Follow The Path",
+            "href": "/follow-the-path",
+            "slug": "follow-the-path",
+            "image": "/assets/Follow-the-Path-BA-1280px-webp.webp"
+          },
+          {
+            "title": "Spring Time",
+            "href": "/spring-time",
+            "slug": "spring-time",
+            "image": "/assets/Spring-Time-BA-1280px-webp.webp"
+          },
+          {
+            "title": "Relaxing In The Study",
+            "href": "/relaxing-in-the-study",
+            "slug": "relaxing-in-the-study",
+            "image": "/assets/Relaxing-in-the-Study-BA-1280px-webp.webp"
+          },
+          {
+            "title": "Amongst The Reeds",
+            "href": "/amongst-the-reeds",
+            "slug": "amongst-the-reeds",
+            "image": "/assets/Amongst-the-Reeds-BA-1280px-webp.webp"
+          },
+          {
+            "title": "Under Water",
+            "href": "/under-water",
+            "slug": "under-water",
+            "image": "/assets/Under-Water-BA-1280px-webp.webp"
+          }
+        ]
+      }
+    ],
+    "intro": [
+      "Quality Reproductions on 240 gsm Premium Textured Cotton Rag Paper"
+    ]
+  },
+  "/house-portrait-commissions": {
+    "slug": "house-portrait-commissions",
+    "path": "/house-portrait-commissions",
+    "type": "commissions",
+    "seo": {
+      "title": "Alison Greenway | House Portrait Art Commissions",
+      "description": "Commission a custom house portrait from Alison Greenway – beautifully hand-drawn or painted illustrations capturing the unique charm of your home. Perfect for gifts, keepsakes, or special occasions."
+    },
+    "heading": "Art Commissions - House Portraits",
+    "blocks": [
+      {
+        "type": "heading",
+        "text": "Alison Greenway Art Gift Vouchers"
+      },
+      {
+        "type": "paragraph",
+        "text": "Alison offers Gift Vouchers so you can pre purchase a lovely gift of a"
+      },
+      {
+        "type": "list",
+        "items": [
+          "High quality reproduction print, or",
+          "A House Portrait Commission for your loved ones"
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "Contact Alison on 0405 179 479",
+        "html": "Contact Alison on <a class=\"custom_link\" target=\"_self\" href=\"tel:0405 179 479\" class=\"text-link hover:underline\">0405 179 479</a>"
+      },
+      {
+        "type": "paragraph",
+        "text": "Gift Vouchers cannot be used when purchasing artworks online. To redeem your Gift Voucher contact Alison Greenway Art on 0405 179 479",
+        "html": "Gift Vouchers cannot be&nbsp;used when purchasing artworks online. To redeem your Gift Voucher contact&nbsp;Alison&nbsp;Greenway Art on&nbsp;<a href=\"tel:0405 179 479\" class=\"custom_link\" class=\"text-link hover:underline\">0405 179 479</a>"
+      },
+      {
+        "type": "heading",
+        "text": "House Portraits"
+      },
+      {
+        "type": "heading",
+        "text": "Recreate an Image of Your Well Loved Home"
+      },
+      {
+        "type": "paragraph",
+        "text": "Many people choose to commission a drawing of their favourite home or a property that holds years of family memories when they are downsizing, or relocating to another city or region."
+      },
+      {
+        "type": "paragraph",
+        "text": "A House Portrait can also be a wonderful gift for family members who live a long way from their family and the ‘family home’, it can help them to remember the great times they shared when they lived in the home - all together."
+      },
+      {
+        "type": "paragraph",
+        "text": "House Portraits also help to create a comfortable ambiance in offices and waiting rooms of organisations and private Practices, especially if you work long hours away from your family and much loved home."
+      },
+      {
+        "type": "paragraph",
+        "text": "A portrait of your Business premises may also work well as a form of marketing as it establishing an image for your business in the community."
+      },
+      {
+        "type": "paragraph",
+        "text": "Being a visual artist Alison understands the passion that we can have towards our homes, the efforts we put in to restore or modify them to suit our desires and lifestyle - she has renovated multiple homes over the years and has enjoyed the process from start to finish."
+      },
+      {
+        "type": "heading",
+        "text": "Contact Alison by phone or email to enquire about Commissioning an Artwork process"
+      },
+      {
+        "type": "paragraph",
+        "text": "Art commission means engaging an artist to create artwork specifically for you. Alison can create a personalised and unique drawing or painting of your house to hang in your home or to give to your loved ones. Call Alison to discuss timelines and options available."
+      },
+      {
+        "type": "paragraph",
+        "text": "Your commissioned artwork is guaranteed to be a ‘one of a kind’, and it will not only remind you of your beautiful home but the wonderful memories that have been created in the home over the years. You will also receive a Certificate of Authenticity on delivery of your personalised drawing.",
+        "html": "Your commissioned artwork is guaranteed to be a ‘one of a kind’, and it will not only remind you of your beautiful home but the wonderful memories that have been created in the home over the years. You will also receive a <strong>Certificate of Authenticity</strong>  on delivery of your personalised drawing."
+      },
+      {
+        "type": "paragraph",
+        "text": "Details of Drawing Sizes include:​",
+        "html": "<strong>Details of Drawing Sizes include:​&nbsp;&nbsp;</strong>"
+      },
+      {
+        "type": "list",
+        "items": [
+          "A5, A4 and A3 sized Black & White Ink Drawings ​(you can choose if a mat is added to drawing and the mat colour; also choose from black or white foam core)",
+          "Your completed drawing will be wrapped in protective cellophane – and packaging and postage is included."
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "Timeframe from ordering to receiving:",
+        "html": "<strong>Timeframe from ordering to receiving:&nbsp;&nbsp;</strong> &nbsp;&nbsp;"
+      },
+      {
+        "type": "paragraph",
+        "text": "Your completed House Portrait Drawing – usually will only take between 2 to 3 weeks in most cases – once suitable photos are received, and deposit is paid."
+      },
+      {
+        "type": "paragraph",
+        "text": "Drawing Commissions range in prices – from $250 to $730 depending on size; level of complexity and detail; timeframe i.e. if required a.s.a.p.; as well as final presentation i.e. mat included etc.",
+        "html": "<strong>Drawing Commissions range in prices</strong>  – from $250 to $730 depending on size;&nbsp;level of complexity and detail; timeframe i.e. if required a.s.a.p.; as well as final&nbsp;presentation i.e. mat included etc.&nbsp;&nbsp;&nbsp;"
+      },
+      {
+        "type": "paragraph",
+        "text": "You will be offered the opportunity for changes or edits throughout the pencil sketching process, and again before the final product is sent to you."
+      },
+      {
+        "type": "heading",
+        "text": "How to Order a Custom House Portrait"
+      },
+      {
+        "type": "heading",
+        "text": "In 4 easy steps, you can have your own commissioned artwork on display in your home forever. Alison Greenway’s custom portraits are individually drawn by hand and based on the photo you provide her."
+      },
+      {
+        "type": "paragraph",
+        "text": "See House Portrait Image Guidelines",
+        "html": "<a class=\"custom_link\" href=\"/house-portrait-commissions?anchorElement=group_21&amp;scrollMargin=100\" rel=\"nofollow\" data-samepage=\"true\" class=\"text-link hover:underline\">See House Portrait Image Guidelines</a>"
+      },
+      {
+        "type": "heading",
+        "text": "Step 1: Upload Your Photo"
+      },
+      {
+        "type": "paragraph",
+        "text": "Attach 3 or 4 quality photos of your house to your email so Alison can begin creating your personalised artwork. Please read the ‘image guidelines’ for tips to make your custom portrait picture perfect! If you have special decorative areas, stair cases and statues in the garden etc. take close up photos of these as well."
+      },
+      {
+        "type": "paragraph",
+        "text": "Email to – alisongreenwayart@gmail.com",
+        "html": "<strong>Email to</strong>  – <a class=\"custom_link\" target=\"_self\" href=\"mailto:alisongreenwayart@gmail.com\" class=\"text-link hover:underline\">alisongreenwayart@gmail.com</a>"
+      },
+      {
+        "type": "heading",
+        "text": "Step 2: Make it yours"
+      },
+      {
+        "type": "paragraph",
+        "text": "Alison’s custom portraits are offered with a mat, board and wrapped in celephane (you may choose to select your own frame after receiving your artwork)."
+      },
+      {
+        "type": "list",
+        "items": [
+          "Frame options (A4 or A3 in Black, White, Timber look or Silver frames – all will have matt borders). Alison will discuss options with you at the time of ordering your commission artwork."
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "Step 3: Arrange deposit and email order form"
+      },
+      {
+        "type": "list",
+        "items": [
+          "Attach signed Custom House Portrait Commission Contract to your email and make an agreed 50% of commission fee payment into Alison’s bank account.",
+          "Alison will confirm to you that she has received your payment, and provide your with an estimated completion date."
+        ]
+      },
+      {
+        "type": "heading",
+        "text": "Step 4: The Proof"
+      },
+      {
+        "type": "paragraph",
+        "text": "You will receive a picture of your artwork proof via email to review and approve in 14 days or less. Once approved, Alison will complete it and prepare your artwork for delivery. After your final 50% of commission fee has been paid and cleared in Alison’s bank account she will immediately arrange Framing (matboard etc.) and delivery to you."
+      },
+      {
+        "type": "paragraph",
+        "text": "Typically - You will receive your artwork 3 to 4 weeks – depending on your individual artworks, possible hold up at the Framers or extra steps for special pre – organised print processes, and the distance it needs to be freighted too."
+      },
+      {
+        "type": "heading",
+        "text": "House Portrait Image Guidelines"
+      },
+      {
+        "type": "paragraph",
+        "text": "The image you upload is the most important part of your order and crucial to the quality of the final house portrait. Download and read the following guidelines to make sure your artwork is picture suitable."
+      }
+    ],
+    "body": [
+      "Alison Greenway Art Gift Vouchers",
+      "Alison offers Gift Vouchers so you can pre purchase a lovely gift of a",
+      "Contact Alison on 0405 179 479",
+      "Gift Vouchers cannot be used when purchasing artworks online. To redeem your Gift Voucher contact Alison Greenway Art on 0405 179 479",
+      "House Portraits",
+      "Recreate an Image of Your Well Loved Home",
+      "Many people choose to commission a drawing of their favourite home or a property that holds years of family memories when they are downsizing, or relocating to another city or region.",
+      "A House Portrait can also be a wonderful gift for family members who live a long way from their family and the ‘family home’, it can help them to remember the great times they shared when they lived in the home - all together.",
+      "House Portraits also help to create a comfortable ambiance in offices and waiting rooms of organisations and private Practices, especially if you work long hours away from your family and much loved home.",
+      "A portrait of your Business premises may also work well as a form of marketing as it establishing an image for your business in the community.",
+      "Being a visual artist Alison understands the passion that we can have towards our homes, the efforts we put in to restore or modify them to suit our desires and lifestyle - she has renovated multiple homes over the years and has enjoyed the process from start to finish.",
+      "Contact Alison by phone or email to enquire about Commissioning an Artwork process",
+      "Art commission means engaging an artist to create artwork specifically for you. Alison can create a personalised and unique drawing or painting of your house to hang in your home or to give to your loved ones. Call Alison to discuss timelines and options available.",
+      "Your commissioned artwork is guaranteed to be a ‘one of a kind’, and it will not only remind you of your beautiful home but the wonderful memories that have been created in the home over the years. You will also receive a Certificate of Authenticity on delivery of your personalised drawing.",
+      "Details of Drawing Sizes include:​",
+      "Timeframe from ordering to receiving:",
+      "Your completed House Portrait Drawing – usually will only take between 2 to 3 weeks in most cases – once suitable photos are received, and deposit is paid.",
+      "Drawing Commissions range in prices – from $250 to $730 depending on size; level of complexity and detail; timeframe i.e. if required a.s.a.p.; as well as final presentation i.e. mat included etc.",
+      "You will be offered the opportunity for changes or edits throughout the pencil sketching process, and again before the final product is sent to you.",
+      "How to Order a Custom House Portrait",
+      "In 4 easy steps, you can have your own commissioned artwork on display in your home forever. Alison Greenway’s custom portraits are individually drawn by hand and based on the photo you provide her.",
+      "See House Portrait Image Guidelines",
+      "Step 1: Upload Your Photo",
+      "Attach 3 or 4 quality photos of your house to your email so Alison can begin creating your personalised artwork. Please read the ‘image guidelines’ for tips to make your custom portrait picture perfect! If you have special decorative areas, stair cases and statues in the garden etc. take close up photos of these as well.",
+      "Email to – alisongreenwayart@gmail.com",
+      "Step 2: Make it yours",
+      "Alison’s custom portraits are offered with a mat, board and wrapped in celephane (you may choose to select your own frame after receiving your artwork).",
+      "Step 3: Arrange deposit and email order form",
+      "Step 4: The Proof",
+      "You will receive a picture of your artwork proof via email to review and approve in 14 days or less. Once approved, Alison will complete it and prepare your artwork for delivery. After your final 50% of commission fee has been paid and cleared in Alison’s bank account she will immediately arrange Framing (matboard etc.) and delivery to you.",
+      "Typically - You will receive your artwork 3 to 4 weeks – depending on your individual artworks, possible hold up at the Framers or extra steps for special pre – organised print processes, and the distance it needs to be freighted too.",
+      "House Portrait Image Guidelines",
+      "The image you upload is the most important part of your order and crucial to the quality of the final house portrait. Download and read the following guidelines to make sure your artwork is picture suitable."
+    ],
+    "image": "/assets/Alison-Greenway-House-Portrait-Commissions-1.webp"
+  },
+  "/gift-vouchers": {
+    "slug": "gift-vouchers",
+    "path": "/gift-vouchers",
+    "type": "gift-vouchers",
+    "seo": {
+      "title": "Alison Greenway Art Gift Vouchers",
+      "description": "Alison Greenway Art offers Gift Vouchers so you can pre-purchase a lovely gift of a high quality Reproduction Print, or a House Portrait Commission for your loved ones."
+    },
+    "heading": "Gift Vouchers",
+    "image": "/assets/AGA-gift-voucher.webp",
+    "voucherTiers": [
+      {
+        "label": "Gift-75",
+        "price": "$75.00",
+        "category": "Artwork"
+      },
+      {
+        "label": "Gift-130",
+        "price": "$130.00",
+        "category": "Artwork"
+      },
+      {
+        "label": "Gift-200",
+        "price": "$200.00",
+        "category": "Artwork"
+      },
+      {
+        "label": "Gift-300",
+        "price": "$300.00",
+        "category": "Artwork"
+      },
+      {
+        "label": "Gift-400",
+        "price": "$400.00",
+        "category": "Artwork"
+      },
+      {
+        "label": "Gift-550",
+        "price": "$550.00",
+        "category": "Commission"
+      },
+      {
+        "label": "Gift-750",
+        "price": "$750.00",
+        "category": "Commission"
+      }
+    ],
+    "description": [
+      "Alison Greenway Art offers Gift Vouchers so you can pre-purchase a lovely gift of a high quality Reproduction Print, or a House Portrait Commission for your loved ones. Once purchased your Gift Voucher will be posted to you.",
+      "<span class=\"text-accent\">Gift Vouchers cannot be used when purchasing online. To redeem your Gift Voucher contact Alison Greenway Art on</span> <a href=\"tel:0405179479\" class=\"text-link hover:underline\">0405 179 479</a>"
+    ],
+    "infoBox": {
+      "pricing": "All prices include 10% GST",
+      "shipping": "Packaging and Freight is included in the price of all orders delivered within Australia. Expected Order Delivery Time is between 8 to 14 days depending on the delivery location. All orders are shipped via Australia Post with a premium, tracked service.",
+      "prints": "Quality reproductions on 240 gsm premium textured Cotton Rag paper."
+    }
+  },
+  "/alisons-blog": {
+    "slug": "alisons-blog",
+    "path": "/alisons-blog",
+    "type": "blog-list",
+    "seo": {
+      "title": "Alison Greenway Art » alisons-blog",
+      "description": null
+    },
+    "heading": "Alison's Blog",
+    "posts": [
+      {
+        "title": "The Bull and Barley Inn Cambooya",
+        "href": "/the-bull-and-barley-inn-cambooya"
+      },
+      {
+        "title": "So why are house portraits the perfect realtor gift?",
+        "href": "/so-why-are-house-portraits-the-perfect-realtor-gift"
+      },
+      {
+        "title": "Who Commissions a House Portrait Drawing?",
+        "href": "/who-commissions-a-house-portrait-drawing"
+      }
+    ]
+  },
+  "/about+alison+greenway": {
+    "slug": "about-alison-greenway",
+    "path": "/about+alison+greenway",
+    "type": "about",
+    "seo": {
+      "title": "About Alison Greenway | Queensland Artist",
+      "description": "Explore the story behind Queensland artist Alison Greenway. Dive into the inspirations that drive her artistic journey and the profound connection she holds with the design and architecture of Queensland homes and gardens.d culture. Join us on a visual journey through Alison's vision, and the captivating narratives that shape her remarkable body of work.\""
+    },
+    "heading": "About Alison Greenway Toowoomba Artist",
+    "blocks": [
+      {
+        "type": "heading",
+        "text": "Inspired by architectural design and historical heritage"
+      },
+      {
+        "type": "heading",
+        "text": "Alison Greenway"
+      },
+      {
+        "type": "paragraph",
+        "text": "Alison has resided in the Darling Downs region of Southern Queensland for almost 25 years, enjoying life as she mixes the peaceful countryside with her passion for drawing and showcasing the unique architectural buildings found throughout Queensland."
+      },
+      {
+        "type": "paragraph",
+        "text": "She is a Commission Artist who loves to draw homes for others, and those who also share her passion for charming and stylish buildings. Her skills initially developed when she did 4 years of Technical Drawing studies when at school, she has continued to refine these skills over many years and focussed on detailed drawings of quality properties."
+      },
+      {
+        "type": "paragraph",
+        "text": "Her motivation is to create drawings that celebrate and respect each homes heritage and presence, and associated memories for the families who commission a ‘one off individual piece’ of art."
+      },
+      {
+        "type": "paragraph",
+        "text": "Alison predominantly uses black and coloured inks, pencil, and watercolour; drawings are available in 3 sizes – A5, A4 and A3. She has a number of Limited Addition quality Giclee Prints on cotton rag paper available for sale on this website."
+      },
+      {
+        "type": "paragraph",
+        "text": "David Jones Store ‘Floriana Festival’ - both Sydney & Melbourne"
+      },
+      {
+        "type": "paragraph",
+        "text": "Broken Hill Regional Gallery - NSW"
+      },
+      {
+        "type": "paragraph",
+        "text": "Cobar Regional Gallery - NSW"
+      },
+      {
+        "type": "paragraph",
+        "text": "Greenhill Gallery – Adelaide – S.A."
+      },
+      {
+        "type": "paragraph",
+        "text": "Pro Hart Family Touring Exhibitions - Orange, Frankston, Toowoomba, Victor Harbour"
+      },
+      {
+        "type": "paragraph",
+        "text": "List of Galleries – and Selected Group Exhibitions",
+        "html": "<strong>List of Galleries – and Selected Group Exhibitions</strong>"
+      },
+      {
+        "type": "paragraph",
+        "text": "Miller & Hart Fine Arts Gallery (Adelaide), Anvil Gallery (Wodonga), Libby Edward’s Gallery (Melbourne), Hart Family Collection - Ant Hill Gallery (Broken Hill), Eastend Gallery, Tamworth Regional Gallery, Rosalie Shire Gallery (Goombungee), White Patch Gallery (Bribie Island), Greenhill Galleries (Adelaide) , Duke Gallery (Melbourne), & Gallery 631 (Brisbane)."
+      },
+      {
+        "type": "paragraph",
+        "text": "Association Memberships",
+        "html": "<strong>Association Memberships</strong>"
+      },
+      {
+        "type": "paragraph",
+        "text": "RQAS - Royal Queensland Arts Society - Brisbane"
+      },
+      {
+        "type": "paragraph",
+        "text": "NAVA - National Association for Visual Artists"
+      },
+      {
+        "type": "paragraph",
+        "text": "TAS – Toowoomba Art Society"
+      },
+      {
+        "type": "paragraph",
+        "text": "ACA - Australian Counsellors Association"
+      },
+      {
+        "type": "paragraph",
+        "text": "CDAA - Career Development Association of Australia"
+      },
+      {
+        "type": "paragraph",
+        "text": "Regional Arts Administration Training Course - College of Fine Arts (University of NSW)"
+      },
+      {
+        "type": "paragraph",
+        "text": "Cultural Heritage Studies- Bachelor of Arts - CSU"
+      },
+      {
+        "type": "paragraph",
+        "text": "Anthropology Studies- Humanities - CSU"
+      },
+      {
+        "type": "paragraph",
+        "text": "Diploma – Professional Counselling - Creative Therapies – AIPC"
+      },
+      {
+        "type": "paragraph",
+        "text": "\"Alison, you have done an amazing job! Greg and I are thrilled, Thank you sooooo much.\""
+      },
+      {
+        "type": "paragraph",
+        "text": "\"\"I love the drawing you did of my friends beautiful home in Brisbane."
+      },
+      {
+        "type": "paragraph",
+        "text": "I commisioned the drawing for a special gift for her to take with her when she"
+      },
+      {
+        "type": "paragraph",
+        "text": "moved back to Perth so she could remember her fun times we had when living here with us."
+      },
+      {
+        "type": "paragraph",
+        "text": "She was thrilled, and so was I, thank you for putting so much detail into it – we love it.\""
+      },
+      {
+        "type": "paragraph",
+        "text": "\"I have been following your art for many years and love your drawings, you are so talented\""
+      },
+      {
+        "type": "paragraph",
+        "text": "\" We missed our old house once we shifted across town, so thank you for the lovely drawing"
+      },
+      {
+        "type": "paragraph",
+        "text": "you did for us. All of our children were born in the older house so its very meaningful to us to"
+      },
+      {
+        "type": "paragraph",
+        "text": "have a drawing of it hanging in our family lounge room now. You captured its character and"
+      },
+      {
+        "type": "paragraph",
+        "text": "this helps bring back great memories. Great job Alison\""
+      },
+      {
+        "type": "paragraph",
+        "text": "\"Amazing drawings, I love the detail.\""
+      },
+      {
+        "type": "paragraph",
+        "text": "\"Thank you for putting a special effort into completing the drawing of our home so it"
+      },
+      {
+        "type": "paragraph",
+        "text": "could arrive to us before Christmas, I appreciate this. We love the drawing and are"
+      },
+      {
+        "type": "paragraph",
+        "text": "very happy to hang it in our new home.\""
+      }
+    ],
+    "body": [
+      "Inspired by architectural design and historical heritage",
+      "Alison Greenway",
+      "Alison has resided in the Darling Downs region of Southern Queensland for almost 25 years, enjoying life as she mixes the peaceful countryside with her passion for drawing and showcasing the unique architectural buildings found throughout Queensland.",
+      "She is a Commission Artist who loves to draw homes for others, and those who also share her passion for charming and stylish buildings. Her skills initially developed when she did 4 years of Technical Drawing studies when at school, she has continued to refine these skills over many years and focussed on detailed drawings of quality properties.",
+      "Her motivation is to create drawings that celebrate and respect each homes heritage and presence, and associated memories for the families who commission a ‘one off individual piece’ of art.",
+      "Alison predominantly uses black and coloured inks, pencil, and watercolour; drawings are available in 3 sizes – A5, A4 and A3. She has a number of Limited Addition quality Giclee Prints on cotton rag paper available for sale on this website.",
+      "David Jones Store ‘Floriana Festival’ - both Sydney & Melbourne",
+      "Broken Hill Regional Gallery - NSW",
+      "Cobar Regional Gallery - NSW",
+      "Greenhill Gallery – Adelaide – S.A.",
+      "Pro Hart Family Touring Exhibitions - Orange, Frankston, Toowoomba, Victor Harbour",
+      "List of Galleries – and Selected Group Exhibitions",
+      "Miller & Hart Fine Arts Gallery (Adelaide), Anvil Gallery (Wodonga), Libby Edward’s Gallery (Melbourne), Hart Family Collection - Ant Hill Gallery (Broken Hill), Eastend Gallery, Tamworth Regional Gallery, Rosalie Shire Gallery (Goombungee), White Patch Gallery (Bribie Island), Greenhill Galleries (Adelaide) , Duke Gallery (Melbourne), & Gallery 631 (Brisbane).",
+      "Association Memberships",
+      "RQAS - Royal Queensland Arts Society - Brisbane",
+      "NAVA - National Association for Visual Artists",
+      "TAS – Toowoomba Art Society",
+      "ACA - Australian Counsellors Association",
+      "CDAA - Career Development Association of Australia",
+      "Regional Arts Administration Training Course - College of Fine Arts (University of NSW)",
+      "Cultural Heritage Studies- Bachelor of Arts - CSU",
+      "Anthropology Studies- Humanities - CSU",
+      "Diploma – Professional Counselling - Creative Therapies – AIPC",
+      "\"Alison, you have done an amazing job! Greg and I are thrilled, Thank you sooooo much.\"",
+      "\"\"I love the drawing you did of my friends beautiful home in Brisbane.",
+      "I commisioned the drawing for a special gift for her to take with her when she",
+      "moved back to Perth so she could remember her fun times we had when living here with us.",
+      "She was thrilled, and so was I, thank you for putting so much detail into it – we love it.\"",
+      "\"I have been following your art for many years and love your drawings, you are so talented\"",
+      "\" We missed our old house once we shifted across town, so thank you for the lovely drawing",
+      "you did for us. All of our children were born in the older house so its very meaningful to us to",
+      "have a drawing of it hanging in our family lounge room now. You captured its character and",
+      "this helps bring back great memories. Great job Alison\"",
+      "\"Amazing drawings, I love the detail.\"",
+      "\"Thank you for putting a special effort into completing the drawing of our home so it",
+      "could arrive to us before Christmas, I appreciate this. We love the drawing and are",
+      "very happy to hang it in our new home.\""
+    ],
+    "image": "/assets/alison-greenway.webp"
+  },
+  "/contact+alison+greenway": {
+    "slug": "contact-alison-greenway",
+    "path": "/contact+alison+greenway",
+    "type": "contact",
+    "seo": {
+      "title": "Contact Alison Greenway | Queensland Artist",
+      "description": "Get in touch with local Toowoomba artist Alison Greenway to explore collaborations, discuss commissions, or simply share your thoughts on her inspiring work. Whether you're an art enthusiast, collector, or fellow creator, discover the various ways to engage with Alison. Reach out today and forge a connection with the artist behind the captivating Queensland Homes Collection."
+    },
+    "heading": "Contact Alison Greenway",
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "Your Enquiry Has Been Sent"
+      },
+      {
+        "type": "paragraph",
+        "text": "Please Complete all required fields!"
+      },
+      {
+        "type": "paragraph",
+        "text": "alisongreenwayart@gmail.com 0405 179 479",
+        "html": "<a target=\"_self\" href=\"mailto:alisongreenwayart@gmail.com\" class=\"ww_button_link\" class=\"text-link hover:underline\"> \nalisongreenwayart@gmail.com \n&nbsp; \n&nbsp; \n&nbsp; \n&nbsp; \n&nbsp; \n&nbsp; \n&nbsp; \n&nbsp; \n&nbsp; \n&nbsp; \n&nbsp; \n&nbsp; \n&nbsp; \n&nbsp; \n0405 179 479"
+      },
+      {
+        "type": "paragraph",
+        "text": "0405 179 479 0405 179 479",
+        "html": "<a target=\"_self\" href=\"tel:0405 179 479\" class=\"ww_button_link\" class=\"text-link hover:underline\"> \n0405 179 479 \n&nbsp; \n&nbsp; \n&nbsp; \n&nbsp; \n&nbsp; \n&nbsp; \n&nbsp; \n&nbsp; \n&nbsp; \n&nbsp; \n&nbsp; \n&nbsp; \n&nbsp; \n&nbsp; \n0405 179 479"
+      }
+    ],
+    "body": [
+      "Your Enquiry Has Been Sent",
+      "Please Complete all required fields!",
+      "alisongreenwayart@gmail.com 0405 179 479",
+      "0405 179 479 0405 179 479"
+    ]
+  },
+  "/terms-and-conditions": {
+    "slug": "terms-and-conditions",
+    "path": "/terms-and-conditions",
+    "type": "terms",
+    "seo": {
+      "title": "Alison Greenway Art | terms and Conditions",
+      "description": "Terms and Conditions."
+    },
+    "heading": "Terms and Conditions",
+    "blocks": [
+      {
+        "type": "list",
+        "items": [
+          "Acceptance of Terms: By accessing or using the online art shop (\"Website\"), you agree to comply with and be bound by these Terms and Conditions.",
+          "Eligibility: You must be at least 18 years old to use this Website. By using this Website, you warrant that you are at least 18 years old.",
+          "Intellectual Property: All content on this Website, including but not limited to text, graphics, logos, images, audio clips, digital downloads, and data compilations, is the property of the art shop or its content suppliers and is protected by Australian and international copyright laws.",
+          "Use of the Website: You may browse the Website and make purchases for personal, non-commercial use only. You agree not to use the Website for any unlawful purpose or in any way that could damage, disable, overburden, or impair the Website or interfere with any other party's use and enjoyment of the Website.",
+          "Product Descriptions: We strive to ensure that all product descriptions and images are accurate. However, we do not warrant that product descriptions or other content on the Website are accurate, complete, reliable, current, or error-free.",
+          "Pricing and Payment: Prices for products are listed in Australian dollars (AUD) and are inclusive of GST (Goods and Services Tax). We reserve the right to change prices at any time without notice. Payment must be made in full at the time of purchase, and we accept payment via credit/debit card or other methods specified on the Website.",
+          "Shipping and Delivery: We aim to ship orders within a reasonable timeframe after payment is received. Shipping costs and estimated delivery times are specified at the time of checkout. We are not responsible for any delays or issues with shipping once the order has been dispatched.",
+          "Returns and Refunds: We accept returns of undamaged and unused products within 30 days of purchase, subject to certain conditions. Please refer to our Returns and Refunds Policy for detailed information on how to initiate a return and the conditions for receiving a refund.",
+          "Privacy: Your privacy is important to us. Please refer to our Privacy Policy to understand how we collect, use, and disclose your personal information.",
+          "Governing Law: These Terms and Conditions are governed by the laws of Australia. Any dispute arising out of or in connection with these Terms and Conditions shall be subject to the exclusive jurisdiction of the courts of Australia.",
+          "Changes to Terms: We reserve the right to update or modify these Terms and Conditions at any time without prior notice. Your continued use of the Website after any such changes constitutes your acceptance of the new Terms and Conditions.",
+          "Contact Us: If you have any questions or concerns about these Terms and Conditions, please contact us at [contact email or phone number]."
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "By using this Website, you acknowledge that you have read, understood, and agree to be bound by these Terms and Conditions.",
+        "html": "<strong>By using this Website, you acknowledge that you have read, understood, and agree to be bound by these Terms and Conditions.</strong>"
+      }
+    ],
+    "body": [
+      "By using this Website, you acknowledge that you have read, understood, and agree to be bound by these Terms and Conditions."
+    ]
+  },
+  "/double-gabled-suburban-home-bw": {
+    "slug": "double-gabled-suburban-home-bw",
+    "path": "/double-gabled-suburban-home-bw",
+    "type": "product",
+    "seo": {
+      "title": "Alison Greenway Art | Double Gabled Suburban Home",
+      "description": "Once upon a time, nestled in the heart of a peaceful suburban neighbourhood, there stood a charming double-gabled home. This suburban haven was more than just a house; it was a place where love and memories intertwined and offered a real sense of belonging."
+    },
+    "heading": "Double Gabled Suburban Home B & W",
+    "image": "/assets/Double-Gabled-Suburban-Home-BW-1280px-webp.webp",
+    "prices": [
+      {
+        "label": "A4",
+        "price": 79,
+        "dimensions": "21cm x 30cm"
+      },
+      {
+        "label": "A3",
+        "price": 159,
+        "dimensions": "30cm x 42cm"
+      },
+      {
+        "label": "A2",
+        "price": 248,
+        "dimensions": "42cm x 60cm"
+      }
+    ],
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "Once upon a time, nestled in the heart of a peaceful suburban neighbourhood, there stood a charming double-gabled home. This suburban haven was more than just a house; it was a place where love and memories intertwined and offered a real sense of belonging."
+      },
+      {
+        "type": "paragraph",
+        "text": "Displaying a thriving colourful garden tended to by the loving hands of the family living within, the slatted balustrade and staircase leading to the front porch and the traditional timber fence."
+      },
+      {
+        "type": "paragraph",
+        "text": "Double gables cast gentle shadows on lazy afternoons as the children played, and the adults sipped cool drinks on the spacious porch, enjoying the fragrant blooms, butterflies, and greetings from neighbours passing by."
+      }
+    ],
+    "description": [
+      "Once upon a time, nestled in the heart of a peaceful suburban neighbourhood, there stood a charming double-gabled home. This suburban haven was more than just a house; it was a place where love and memories intertwined and offered a real sense of belonging.",
+      "Displaying a thriving colourful garden tended to by the loving hands of the family living within, the slatted balustrade and staircase leading to the front porch and the traditional timber fence.",
+      "Double gables cast gentle shadows on lazy afternoons as the children played, and the adults sipped cool drinks on the spacious porch, enjoying the fragrant blooms, butterflies, and greetings from neighbours passing by."
+    ],
+    "infoBox": {
+      "pricing": "All prices include 10% GST",
+      "shipping": "Packaging and Freight is included in the price of all orders delivered within Australia. The Expected Order Delivery Time is between 14 to 21 days depending on the delivery location. All orders are shipped via Australia Post with a premium, tracked service.",
+      "prints": "Quality reproductions on 240 gsm premium textured Cotton Rag paper."
+    }
+  },
+  "/bayrise-manor-bw": {
+    "slug": "bayrise-manor-bw",
+    "path": "/bayrise-manor-bw",
+    "type": "product",
+    "seo": {
+      "title": "Alison Greenway Art » Bayrise Manor B & W",
+      "description": "This stylish Queensland home provides character and allows you to reminisce about how others lived in the mid 1880’s when they were first created, you will find numerous other versions throughout Queensland neighbourhoods and suburbs. "
+    },
+    "heading": "Bayrise Manor B & W",
+    "image": "/assets/Bayrise-manor-BW-1280px-webp.webp",
+    "prices": [
+      {
+        "label": "A4",
+        "price": 79,
+        "dimensions": "21cm x 30cm"
+      },
+      {
+        "label": "A3",
+        "price": 159,
+        "dimensions": "30cm x 42cm"
+      },
+      {
+        "label": "A2",
+        "price": 248,
+        "dimensions": "42cm x 60cm"
+      }
+    ],
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "This stylish Queensland home provides character and allows you to reminisce about how others lived in the mid 1880’s when they were first created, you will find numerous other versions throughout Queensland neighbourhoods and suburbs. These traditional highset homes provide natural airflow beneath and around the house and via the decorative windows and generous verandas."
+      }
+    ],
+    "description": [
+      "This stylish Queensland home provides character and allows you to reminisce about how others lived in the mid 1880’s when they were first created, you will find numerous other versions throughout Queensland neighbourhoods and suburbs. These traditional highset homes provide natural airflow beneath and around the house and via the decorative windows and generous verandas."
+    ],
+    "infoBox": {
+      "pricing": "All prices include 10% GST",
+      "shipping": "Packaging and Freight is included in the price of all orders delivered within Australia. The Expected Order Delivery Time is between 14 to 21 days depending on the delivery location. All orders are shipped via Australia Post with a premium, tracked service.",
+      "prints": "Quality reproductions on 240 gsm premium textured Cotton Rag paper."
+    }
+  },
+  "/tudor-estate-bw": {
+    "slug": "tudor-estate-bw",
+    "path": "/tudor-estate-bw",
+    "type": "product",
+    "seo": {
+      "title": "Alison Greenway Art | Tudor Estate BW",
+      "description": "Contemporary façade reminiscent of the medieval Tudor homes with fascinating details and exuding character with an air of the mystique, whimsical and castle like features. Two story home suggesting a privileged lifestyle with a series of timber French doors opening up onto small balconies, allowing residents to view the formal gardens and long driveway. "
+    },
+    "heading": "Tudor Estate B & W",
+    "image": "/assets/Tudor-Estate-BW-BA-1280px-webp.webp",
+    "prices": [
+      {
+        "label": "A4",
+        "price": 79,
+        "dimensions": "21cm x 30cm"
+      },
+      {
+        "label": "A3",
+        "price": 159,
+        "dimensions": "30cm x 42cm"
+      },
+      {
+        "label": "A2",
+        "price": 248,
+        "dimensions": "42cm x 60cm"
+      }
+    ],
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "Contemporary façade reminiscent of the medieval Tudor homes with fascinating details and exuding character with an air of the mystique, whimsical and castle like features."
+      },
+      {
+        "type": "paragraph",
+        "text": "Two story home suggesting a privileged lifestyle with a series of timber French doors opening up onto small balconies, allowing residents to view the formal gardens and long driveway."
+      }
+    ],
+    "description": [
+      "Contemporary façade reminiscent of the medieval Tudor homes with fascinating details and exuding character with an air of the mystique, whimsical and castle like features.",
+      "Two story home suggesting a privileged lifestyle with a series of timber French doors opening up onto small balconies, allowing residents to view the formal gardens and long driveway."
+    ],
+    "infoBox": {
+      "pricing": "All prices include 10% GST",
+      "shipping": "Packaging and Freight is included in the price of all orders delivered within Australia. The Expected Order Delivery Time is between 14 to 21 days depending on the delivery location. All orders are shipped via Australia Post with a premium, tracked service.",
+      "prints": "Quality reproductions on 240 gsm premium textured Cotton Rag paper."
+    }
+  },
+  "/double-gabled-suburban-home-sepia": {
+    "slug": "double-gabled-suburban-home-sepia",
+    "path": "/double-gabled-suburban-home-sepia",
+    "type": "product",
+    "seo": {
+      "title": "Alison Greenway Art | Double Gabled Suburban Home Sepia",
+      "description": "Displaying a thriving colourful garden tended to by the loving hands of the family living within, the slatted balustrade and staircase leading to the front porch and the traditional timber fence."
+    },
+    "heading": "Double Gabled Suburban Home Sepia",
+    "image": "/assets/Double-Gabled-Suburban-Home-sepia-1280px-webp.webp",
+    "prices": [
+      {
+        "label": "A4",
+        "price": 79,
+        "dimensions": "21cm x 30cm"
+      },
+      {
+        "label": "A3",
+        "price": 159,
+        "dimensions": "30cm x 42cm"
+      },
+      {
+        "label": "A2",
+        "price": 248,
+        "dimensions": "42cm x 60cm"
+      }
+    ],
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "Once upon a time, nestled in the heart of a peaceful suburban neighbourhood, there stood a charming double-gabled home. This suburban haven was more than just a house; it was a place where love and memories intertwined and offered a real sense of belonging."
+      },
+      {
+        "type": "paragraph",
+        "text": "Displaying a thriving colourful garden tended to by the loving hands of the family living within, the slatted balustrade and staircase leading to the front porch and the traditional timber fence."
+      },
+      {
+        "type": "paragraph",
+        "text": "Double gables cast gentle shadows on lazy afternoons as the children played, and the adults sipped cool drinks on the spacious porch, enjoying the fragrant blooms, butterflies, and greetings from neighbours passing by."
+      }
+    ],
+    "description": [
+      "Once upon a time, nestled in the heart of a peaceful suburban neighbourhood, there stood a charming double-gabled home. This suburban haven was more than just a house; it was a place where love and memories intertwined and offered a real sense of belonging.",
+      "Displaying a thriving colourful garden tended to by the loving hands of the family living within, the slatted balustrade and staircase leading to the front porch and the traditional timber fence.",
+      "Double gables cast gentle shadows on lazy afternoons as the children played, and the adults sipped cool drinks on the spacious porch, enjoying the fragrant blooms, butterflies, and greetings from neighbours passing by."
+    ],
+    "infoBox": {
+      "pricing": "All prices include 10% GST",
+      "shipping": "Packaging and Freight is included in the price of all orders delivered within Australia. The Expected Order Delivery Time is between 14 to 21 days depending on the delivery location. All orders are shipped via Australia Post with a premium, tracked service.",
+      "prints": "Quality reproductions on 240 gsm premium textured Cotton Rag paper."
+    }
+  },
+  "/bayrise-manor-sepia": {
+    "slug": "bayrise-manor-sepia",
+    "path": "/bayrise-manor-sepia",
+    "type": "product",
+    "seo": {
+      "title": "Alison Greenway Art | Bayrise Manor Sepia",
+      "description": "This stylish Queensland home provides character and allows you to reminisce about how others lived in the mid 1880’s when they were first created, you will find numerous other versions throughout Queensland neighbourhoods and suburbs. These traditional highset homes provide natural airflow beneath and around the house and via the decorative windows and generous verandas."
+    },
+    "heading": "Bayrise Manor Sepia",
+    "image": "/assets/Bayrise-Manor-Sepia-1280px-webp.webp",
+    "prices": [
+      {
+        "label": "A4",
+        "price": 79,
+        "dimensions": "21cm x 30cm"
+      },
+      {
+        "label": "A3",
+        "price": 159,
+        "dimensions": "30cm x 42cm"
+      },
+      {
+        "label": "A2",
+        "price": 248,
+        "dimensions": "42cm x 60cm"
+      }
+    ],
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "This stylish Queensland home provides character and allows you to reminisce about how others lived in the mid 1880’s when they were first created, you will find numerous other versions throughout Queensland neighbourhoods and suburbs. These traditional highset homes provide natural airflow beneath and around the house and via the decorative windows and generous verandas."
+      }
+    ],
+    "description": [
+      "This stylish Queensland home provides character and allows you to reminisce about how others lived in the mid 1880’s when they were first created, you will find numerous other versions throughout Queensland neighbourhoods and suburbs. These traditional highset homes provide natural airflow beneath and around the house and via the decorative windows and generous verandas."
+    ],
+    "infoBox": {
+      "pricing": "All prices include 10% GST",
+      "shipping": "Packaging and Freight is included in the price of all orders delivered within Australia. The Expected Order Delivery Time is between 14 to 21 days depending on the delivery location. All orders are shipped via Australia Post with a premium, tracked service.",
+      "prints": "Quality reproductions on 240 gsm premium textured Cotton Rag paper."
+    }
+  },
+  "/tudor-estate-sepia": {
+    "slug": "tudor-estate-sepia",
+    "path": "/tudor-estate-sepia",
+    "type": "product",
+    "seo": {
+      "title": "Alison Greenway Art | Tudor Estate Sepia",
+      "description": "Contemporary façade reminiscent of medieval Tudor homes, showcasing captivating details and exuding distinctive character with an aura of mystique and whimsical charm, reminiscent of castle-like features. This two-story home embodies a lifestyle of privilege, featuring a series of timber French doors that open onto quaint balconies, offering residents enchanting views of formal gardens and a picturesque long driveway. "
+    },
+    "heading": "Tudor Estate Sepia",
+    "image": "/assets/Tudor-Estate-sepia-FF-1280px-webp.webp",
+    "prices": [
+      {
+        "label": "A4",
+        "price": 79,
+        "dimensions": "21cm x 30cm"
+      },
+      {
+        "label": "A3",
+        "price": 159,
+        "dimensions": "30cm x 42cm"
+      },
+      {
+        "label": "A2",
+        "price": 248,
+        "dimensions": "42cm x 60cm"
+      }
+    ],
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "Contemporary façade reminiscent of the medieval Tudor homes with fascinating details and exuding character with an air of the mystique, whimsical and castle like features."
+      },
+      {
+        "type": "paragraph",
+        "text": "Two story home suggesting a privileged lifestyle with a series of timber French doors opening up onto small balconies, allowing residents to view the formal gardens and long driveway."
+      }
+    ],
+    "description": [
+      "Contemporary façade reminiscent of the medieval Tudor homes with fascinating details and exuding character with an air of the mystique, whimsical and castle like features.",
+      "Two story home suggesting a privileged lifestyle with a series of timber French doors opening up onto small balconies, allowing residents to view the formal gardens and long driveway."
+    ],
+    "infoBox": {
+      "pricing": "All prices include 10% GST",
+      "shipping": "Packaging and Freight is included in the price of all orders delivered within Australia. The Expected Order Delivery Time is between 14 to 21 days depending on the delivery location. All orders are shipped via Australia Post with a premium, tracked service.",
+      "prints": "Quality reproductions on 240 gsm premium textured Cotton Rag paper."
+    }
+  },
+  "/home-among-the-gumtrees-colour": {
+    "slug": "home-among-the-gumtrees-colour",
+    "path": "/home-among-the-gumtrees-colour",
+    "type": "product",
+    "seo": {
+      "title": "Alison Greenway Art | Home Among the Gumtrees Colour",
+      "description": "This stately home providing shelter for a busy but active family, and possibly been passed down through the generations – sharing many secrets and wonderful experiences."
+    },
+    "heading": "Home Among the Gumtrees Colour",
+    "image": "/assets/Home-Among-the-Gumtrees-Colour-1280px-webp.webp",
+    "prices": [
+      {
+        "label": "A4",
+        "price": 79,
+        "dimensions": "21cm x 30cm"
+      },
+      {
+        "label": "A3",
+        "price": 159,
+        "dimensions": "30cm x 42cm"
+      },
+      {
+        "label": "A2",
+        "price": 248,
+        "dimensions": "42cm x 60cm"
+      }
+    ],
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "Living the Dream. This lovely home offers a unique and enriching lifestyle, blending the charm of traditional architecture with the tranquillity of spacious, natural surroundings."
+      },
+      {
+        "type": "paragraph",
+        "text": "The sprawling high set surround verandah providing a range of covered outdoor living spaces and becoming a favourite spot for morning coffees or evening gatherings."
+      },
+      {
+        "type": "paragraph",
+        "text": "The natural timber walls, balustrade and stairs, and large windows creating a warm and inviting atmosphere within the home and to all approaching visitors."
+      },
+      {
+        "type": "paragraph",
+        "text": "Imagine the joy of waking up to expansive views of your own land, surrounded by trees, gardens, or perhaps a creek running through the property."
+      },
+      {
+        "type": "paragraph",
+        "text": "Admire the horses or cattle peacefully grazing in the early morning daylight, and the birds greeting the new day. Yes this is my dream life."
+      }
+    ],
+    "description": [
+      "Living the Dream. This lovely home offers a unique and enriching lifestyle, blending the charm of traditional architecture with the tranquillity of spacious, natural surroundings.",
+      "The sprawling high set surround verandah providing a range of covered outdoor living spaces and becoming a favourite spot for morning coffees or evening gatherings.",
+      "The natural timber walls, balustrade and stairs, and large windows creating a warm and inviting atmosphere within the home and to all approaching visitors.",
+      "Imagine the joy of waking up to expansive views of your own land, surrounded by trees, gardens, or perhaps a creek running through the property.",
+      "Admire the horses or cattle peacefully grazing in the early morning daylight, and the birds greeting the new day. Yes this is my dream life."
+    ],
+    "infoBox": {
+      "pricing": "All prices include 10% GST",
+      "shipping": "Packaging and Freight is included in the price of all orders delivered within Australia. The Expected Order Delivery Time is between 14 to 21 days depending on the delivery location. All orders are shipped via Australia Post with a premium, tracked service.",
+      "prints": "Quality reproductions on 240 gsm premium textured Cotton Rag paper."
+    }
+  },
+  "/bayrise-manor-colour": {
+    "slug": "bayrise-manor-colour",
+    "path": "/bayrise-manor-colour",
+    "type": "product",
+    "seo": {
+      "title": "Alion Greenway Art | Bayrise Manor Colour",
+      "description": "Discover the allure of this Queensland home, steeped in history and character from the 1880s era. Reflect on the lifestyles of yesteryears while exploring its timeless charm. Traditional highset design ensures natural airflow beneath and around the house, complemented by ornate windows and spacious verandas. Experience a slice of Queensland's architectural heritage in this stylish abode."
+    },
+    "heading": "Bayrise Manor Colour",
+    "image": "/assets/Bayrise-Manor-Colour-BA-1280px-webp.webp",
+    "prices": [
+      {
+        "label": "A4",
+        "price": 79,
+        "dimensions": "21cm x 30cm"
+      },
+      {
+        "label": "A3",
+        "price": 159,
+        "dimensions": "30cm x 42cm"
+      },
+      {
+        "label": "A2",
+        "price": 248,
+        "dimensions": "42cm x 60cm"
+      }
+    ],
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "This stylish Queensland home provides character and allows you to reminisce about how others lived in the mid 1880’s when they were first created, you will find numerous other versions throughout Queensland neighbourhoods and suburbs. These traditional highset homes provide natural airflow beneath and around the house and via the decorative windows and generous verandas."
+      },
+      {
+        "type": "paragraph",
+        "text": "Additional living space on the decks and also under the home ensure ample storage, and locations for entertaining friends and family groups. You can imagine a large family enjoying the historical space as they attend to modern day activities, sharing of positive feelings and emotional responses, resonating with an appreciation for past generations style and tradition."
+      }
+    ],
+    "description": [
+      "This stylish Queensland home provides character and allows you to reminisce about how others lived in the mid 1880’s when they were first created, you will find numerous other versions throughout Queensland neighbourhoods and suburbs. These traditional highset homes provide natural airflow beneath and around the house and via the decorative windows and generous verandas.",
+      "Additional living space on the decks and also under the home ensure ample storage, and locations for entertaining friends and family groups. You can imagine a large family enjoying the historical space as they attend to modern day activities, sharing of positive feelings and emotional responses, resonating with an appreciation for past generations style and tradition."
+    ],
+    "infoBox": {
+      "pricing": "All prices include 10% GST",
+      "shipping": "Packaging and Freight is included in the price of all orders delivered within Australia. The Expected Order Delivery Time is between 14 to 21 days depending on the delivery location. All orders are shipped via Australia Post with a premium, tracked service.",
+      "prints": "Quality reproductions on 240 gsm premium textured Cotton Rag paper."
+    }
+  },
+  "/tudor-estate-colour": {
+    "slug": "tudor-estate-colour",
+    "path": "/tudor-estate-colour",
+    "type": "product",
+    "seo": {
+      "title": "Alison Greenway Art | Tudor Estate Colour",
+      "description": "Modern exterior inspired by classic Tudor architecture, showcasing captivating intricacies and a distinct charm, evoking a sense of enchantment and grandeur reminiscent of a castle. This two-story residence embodies luxury living, boasting timber French doors that lead to quaint balconies, offering picturesque views of the manicured gardens and expansive driveway."
+    },
+    "heading": "Tudor Estate Colour",
+    "image": "/assets/Stylish-Tudor-Estate-Colour-1280px-webp.webp",
+    "prices": [
+      {
+        "label": "A4",
+        "price": 79,
+        "dimensions": "21cm x 30cm"
+      },
+      {
+        "label": "A3",
+        "price": 159,
+        "dimensions": "30cm x 42cm"
+      },
+      {
+        "label": "A2",
+        "price": 248,
+        "dimensions": "42cm x 60cm"
+      }
+    ],
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "Contemporary façade reminiscent of the medieval Tudor homes with fascinating details and exuding character with an air of the mystique, whimsical and castle like features."
+      },
+      {
+        "type": "paragraph",
+        "text": "Two story home suggesting a privileged lifestyle with a series of timber French doors opening up onto small balconies, allowing residents to view the formal gardens and long driveway."
+      }
+    ],
+    "description": [
+      "Contemporary façade reminiscent of the medieval Tudor homes with fascinating details and exuding character with an air of the mystique, whimsical and castle like features.",
+      "Two story home suggesting a privileged lifestyle with a series of timber French doors opening up onto small balconies, allowing residents to view the formal gardens and long driveway."
+    ],
+    "infoBox": {
+      "pricing": "All prices include 10% GST",
+      "shipping": "Packaging and Freight is included in the price of all orders delivered within Australia. The Expected Order Delivery Time is between 14 to 21 days depending on the delivery location. All orders are shipped via Australia Post with a premium, tracked service.",
+      "prints": "Quality reproductions on 240 gsm premium textured Cotton Rag paper."
+    }
+  },
+  "/maple-grove-timber-vista-cottage-bw": {
+    "slug": "maple-grove-timber-vista-cottage-bw",
+    "path": "/maple-grove-timber-vista-cottage-bw",
+    "type": "product",
+    "seo": {
+      "title": "Alison Greenway Art | Maple Grove - Timber Vista Cottage BW",
+      "description": "You can just imagine the residents being a young family raising their children in this comfortable home, lots of laughter, love, fun, home cooked meals and action."
+    },
+    "heading": "Maple Grove - Timber Vista Cottage B & W",
+    "image": "/assets/Maple-Grove-BW-1280px-webp.webp",
+    "prices": [
+      {
+        "label": "A4",
+        "price": 79,
+        "dimensions": "21cm x 30cm"
+      },
+      {
+        "label": "A3",
+        "price": 159,
+        "dimensions": "30cm x 42cm"
+      },
+      {
+        "label": "A2",
+        "price": 248,
+        "dimensions": "42cm x 60cm"
+      }
+    ],
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "Life in this quaint Queensland timber low-set home with bay window and gable over the living room, offers timeless charm and a unique living experience for those who love to link style and old world together."
+      },
+      {
+        "type": "paragraph",
+        "text": "You can just imagine the residents being a young family raising their children in this comfortable home, lots of laughter, love, fun, home cooked meals and action."
+      },
+      {
+        "type": "paragraph",
+        "text": "The Bay window allowing the family to enjoy the changing seasons, admire their gardens and scenery, and perhaps even a glimpse of their neighbourhood beyond their fence."
+      },
+      {
+        "type": "paragraph",
+        "text": "So many beautiful homes throughout Queensland have been restored and provide a wonderful lifestyle to their occupants."
+      }
+    ],
+    "description": [
+      "Life in this quaint Queensland timber low-set home with bay window and gable over the living room, offers timeless charm and a unique living experience for those who love to link style and old world together.",
+      "You can just imagine the residents being a young family raising their children in this comfortable home, lots of laughter, love, fun, home cooked meals and action.",
+      "The Bay window allowing the family to enjoy the changing seasons, admire their gardens and scenery, and perhaps even a glimpse of their neighbourhood beyond their fence.",
+      "So many beautiful homes throughout Queensland have been restored and provide a wonderful lifestyle to their occupants."
+    ],
+    "infoBox": {
+      "pricing": "All prices include 10% GST",
+      "shipping": "Packaging and Freight is included in the price of all orders delivered within Australia. The Expected Order Delivery Time is between 14 to 21 days depending on the delivery location. All orders are shipped via Australia Post with a premium, tracked service.",
+      "prints": "Quality reproductions on 240 gsm premium textured Cotton Rag paper."
+    }
+  },
+  "/louvered-cottage-bw": {
+    "slug": "louvered-cottage-bw",
+    "path": "/louvered-cottage-bw",
+    "type": "product",
+    "seo": {
+      "title": "Alison Greenway Art | Louvered Cottage B & W",
+      "description": "Residing in a traditional highset Queenslander dwelling, John, the Fly-in Fly-out mine worker, values his privacy during his days off. Closed louvers offer the seclusion he seeks as he relaxes after enduring lengthy shifts at the mine site."
+    },
+    "heading": "Louvered Cottage B & W",
+    "image": "/assets/Louvered-Cottage-BW-BA-1280px-webp.webp",
+    "prices": [
+      {
+        "label": "A4",
+        "price": 79,
+        "dimensions": "21cm x 30cm"
+      },
+      {
+        "label": "A3",
+        "price": 159,
+        "dimensions": "30cm x 42cm"
+      },
+      {
+        "label": "A2",
+        "price": 248,
+        "dimensions": "42cm x 60cm"
+      }
+    ],
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "Living in a basic highset Queenslander home, resides John the Fly-in Fly-out mine worker. Looking for privacy as he rests on his days off – closed louvers providing the privacy he likes as he unwinds from long shifts on the mine site."
+      },
+      {
+        "type": "paragraph",
+        "text": "John rests a lot when he returns home from his 3 weeks of 12 hour shifts on the mine site, but once he has recuperated he enjoys opening the louvers on his highset covered deck and inviting his mates over for a drink and laugh. This Cottage overlooks a quiet rural town with sweeping valleys and a trickling river which can be heard from the verandah. Palms sway in the breeze and the birds gather around the seed pods that have fallen on the ground. A piece of heaven to be enjoyed, until the mine whistle beckons John back to work for another long set of shifts."
+      }
+    ],
+    "description": [
+      "Living in a basic highset Queenslander home, resides John the Fly-in Fly-out mine worker. Looking for privacy as he rests on his days off – closed louvers providing the privacy he likes as he unwinds from long shifts on the mine site.",
+      "John rests a lot when he returns home from his 3 weeks of 12 hour shifts on the mine site, but once he has recuperated he enjoys opening the louvers on his highset covered deck and inviting his mates over for a drink and laugh. This Cottage overlooks a quiet rural town with sweeping valleys and a trickling river which can be heard from the verandah. Palms sway in the breeze and the birds gather around the seed pods that have fallen on the ground. A piece of heaven to be enjoyed, until the mine whistle beckons John back to work for another long set of shifts."
+    ],
+    "infoBox": {
+      "pricing": "All prices include 10% GST",
+      "shipping": "Packaging and Freight is included in the price of all orders delivered within Australia. The Expected Order Delivery Time is between 14 to 21 days depending on the delivery location. All orders are shipped via Australia Post with a premium, tracked service.",
+      "prints": "Quality reproductions on 240 gsm premium textured Cotton Rag paper."
+    }
+  },
+  "/jills-getaway-bw": {
+    "slug": "jills-getaway-bw",
+    "path": "/jills-getaway-bw",
+    "type": "product",
+    "seo": {
+      "title": "Alison Greenway Art | Jills Getaway BW",
+      "description": "The house avails itself of cool breezes and ventilation beneath the floor, acting as a natural cooler on the hot summer days. A cosy cottage for Jill to reside in, as she tends to her hobbies of gardening and sitting on the verandah with a wine as she watches her neighbours passing by."
+    },
+    "heading": "Jill's Getaway B & W",
+    "image": "/assets/Jills-Getaway-BW-BA-1280px-webp.webp",
+    "prices": [
+      {
+        "label": "A4",
+        "price": 79,
+        "dimensions": "21cm x 30cm"
+      },
+      {
+        "label": "A3",
+        "price": 159,
+        "dimensions": "30cm x 42cm"
+      },
+      {
+        "label": "A2",
+        "price": 248,
+        "dimensions": "42cm x 60cm"
+      }
+    ],
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "Jill enjoys a wine and a good book when she sits on the verandah of this quaint cottage, it provides a peaceful atmosphere with its gardens and birds singing in the trees. Jill’s getaway is a modest version of the Queenslander with its timber-framed structure, elevated above the ground on stumps ideal for the sloping block in her street."
+      },
+      {
+        "type": "paragraph",
+        "text": "The house avails itself of cool breezes and ventilation beneath the floor, acting as a natural cooler on the hot summer days. A cosy cottage for Jill to reside in, as she tends to her hobbies of gardening and sitting on the verandah with a wine as she watches her neighbours passing by."
+      },
+      {
+        "type": "paragraph",
+        "text": "Jill enjoys a wine and a good book when she has time off from her busy job, and this quaint cottage provides the atmosphere with its gardens and birds singing in the trees"
+      }
+    ],
+    "description": [
+      "Jill enjoys a wine and a good book when she sits on the verandah of this quaint cottage, it provides a peaceful atmosphere with its gardens and birds singing in the trees. Jill’s getaway is a modest version of the Queenslander with its timber-framed structure, elevated above the ground on stumps ideal for the sloping block in her street.",
+      "The house avails itself of cool breezes and ventilation beneath the floor, acting as a natural cooler on the hot summer days. A cosy cottage for Jill to reside in, as she tends to her hobbies of gardening and sitting on the verandah with a wine as she watches her neighbours passing by.",
+      "Jill enjoys a wine and a good book when she has time off from her busy job, and this quaint cottage provides the atmosphere with its gardens and birds singing in the trees"
+    ],
+    "infoBox": {
+      "pricing": "All prices include 10% GST",
+      "shipping": "Packaging and Freight is included in the price of all orders delivered within Australia. The Expected Order Delivery Time is between 14 to 21 days depending on the delivery location. All orders are shipped via Australia Post with a premium, tracked service.",
+      "prints": "Quality reproductions on 240 gsm premium textured Cotton Rag paper."
+    }
+  },
+  "/maple-grove-timber-vista-cottage-sepia": {
+    "slug": "maple-grove-timber-vista-cottage-sepia",
+    "path": "/maple-grove-timber-vista-cottage-sepia",
+    "type": "product",
+    "seo": {
+      "title": "Alison Greenway Art | Maple Grove Cottage Sepia",
+      "description": "Life in this quaint Queensland timber low-set home with bay window and gable over the living room, offers timeless charm and a unique living experience for those who love to link style and old world together."
+    },
+    "heading": "Maple Grove – Timber Vista Cottage Sepia",
+    "image": "/assets/Maple-Grove-Sepia-1280px-webp.webp",
+    "prices": [
+      {
+        "label": "A4",
+        "price": 79,
+        "dimensions": "21cm x 30cm"
+      },
+      {
+        "label": "A3",
+        "price": 159,
+        "dimensions": "30cm x 42cm"
+      },
+      {
+        "label": "A2",
+        "price": 248,
+        "dimensions": "42cm x 60cm"
+      }
+    ],
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "Life in this quaint Queensland timber low-set home with bay window and gable over the living room, offers timeless charm and a unique living experience for those who love to link style and old world together."
+      },
+      {
+        "type": "paragraph",
+        "text": "You can just imagine the residents being a young family raising their children in this comfortable home, lots of laughter, love, fun, home cooked meals and action."
+      },
+      {
+        "type": "paragraph",
+        "text": "The Bay window allowing the family to enjoy the changing seasons, admire their gardens and scenery, and perhaps even a glimpse of their neighbourhood beyond their fence."
+      },
+      {
+        "type": "paragraph",
+        "text": "So many beautiful homes throughout Queensland have been restored and provide a wonderful lifestyle to their occupants."
+      }
+    ],
+    "description": [
+      "Life in this quaint Queensland timber low-set home with bay window and gable over the living room, offers timeless charm and a unique living experience for those who love to link style and old world together.",
+      "You can just imagine the residents being a young family raising their children in this comfortable home, lots of laughter, love, fun, home cooked meals and action.",
+      "The Bay window allowing the family to enjoy the changing seasons, admire their gardens and scenery, and perhaps even a glimpse of their neighbourhood beyond their fence.",
+      "So many beautiful homes throughout Queensland have been restored and provide a wonderful lifestyle to their occupants."
+    ],
+    "infoBox": {
+      "pricing": "All prices include 10% GST",
+      "shipping": "Packaging and Freight is included in the price of all orders delivered within Australia. The Expected Order Delivery Time is between 14 to 21 days depending on the delivery location. All orders are shipped via Australia Post with a premium, tracked service.",
+      "prints": "Quality reproductions on 240 gsm premium textured Cotton Rag paper."
+    }
+  },
+  "/jills-getaway-sepia": {
+    "slug": "jills-getaway-sepia",
+    "path": "/jills-getaway-sepia",
+    "type": "product",
+    "seo": {
+      "title": "Alison Greenway Art | Jills Getaway Sepia",
+      "description": "The dwelling harnesses refreshing breezes and airflow beneath its foundation, serving as a built-in cooling system during scorching summer days. It's a charming abode tailored for Jill's passions: nurturing her garden and unwinding on the veranda with a glass of wine, enjoying the sight of her neighbors strolling by."
+    },
+    "heading": "Jill's Getaway Sepia",
+    "image": "/assets/Jills-Getaway-Sepia-BA-1280px-webp.webp",
+    "prices": [
+      {
+        "label": "A4",
+        "price": 79,
+        "dimensions": "21cm x 30cm"
+      },
+      {
+        "label": "A3",
+        "price": 159,
+        "dimensions": "30cm x 42cm"
+      },
+      {
+        "label": "A2",
+        "price": 248,
+        "dimensions": "42cm x 60cm"
+      }
+    ],
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "Jill enjoys a wine and a good book when she sits on the verandah of this quaint cottage, it provides a peaceful atmosphere with its gardens and birds singing in the trees. Jill’s getaway is a modest version of the Queenslander with its timber-framed structure, elevated above the ground on stumps ideal for the sloping block in her street."
+      },
+      {
+        "type": "paragraph",
+        "text": "The house avails itself of cool breezes and ventilation beneath the floor, acting as a natural cooler on the hot summer days. A cosy cottage for Jill to reside in, as she tends to her hobbies of gardening and sitting on the verandah with a wine as she watches her neighbours passing by."
+      },
+      {
+        "type": "paragraph",
+        "text": "Jill enjoys a wine and a good book when she has time off from her busy job, and this quaint cottage provides the atmosphere with its gardens and birds singing in the trees"
+      }
+    ],
+    "description": [
+      "Jill enjoys a wine and a good book when she sits on the verandah of this quaint cottage, it provides a peaceful atmosphere with its gardens and birds singing in the trees. Jill’s getaway is a modest version of the Queenslander with its timber-framed structure, elevated above the ground on stumps ideal for the sloping block in her street.",
+      "The house avails itself of cool breezes and ventilation beneath the floor, acting as a natural cooler on the hot summer days. A cosy cottage for Jill to reside in, as she tends to her hobbies of gardening and sitting on the verandah with a wine as she watches her neighbours passing by.",
+      "Jill enjoys a wine and a good book when she has time off from her busy job, and this quaint cottage provides the atmosphere with its gardens and birds singing in the trees"
+    ],
+    "infoBox": {
+      "pricing": "All prices include 10% GST",
+      "shipping": "Packaging and Freight is included in the price of all orders delivered within Australia. The Expected Order Delivery Time is between 14 to 21 days depending on the delivery location. All orders are shipped via Australia Post with a premium, tracked service.",
+      "prints": "Quality reproductions on 240 gsm premium textured Cotton Rag paper."
+    }
+  },
+  "/louvered-cottage-sepia": {
+    "slug": "louvered-cottage-sepia",
+    "path": "/louvered-cottage-sepia",
+    "type": "product",
+    "seo": {
+      "title": "Alison Greenway Art | Louvered Cottage Sepia",
+      "description": "Living in a basic highset Queenslander home, resides John the Fly-in Fly-out mine worker. Looking for privacy as he rests on his days off – closed louvers providing the privacy he likes as he unwinds from long shifts on the mine site. "
+    },
+    "heading": "Louvered Cottage Sepia",
+    "image": "/assets/Louvered-Cottage-FF-1280px-webp.webp",
+    "prices": [
+      {
+        "label": "A4",
+        "price": 79,
+        "dimensions": "21cm x 30cm"
+      },
+      {
+        "label": "A3",
+        "price": 159,
+        "dimensions": "30cm x 42cm"
+      },
+      {
+        "label": "A2",
+        "price": 248,
+        "dimensions": "42cm x 60cm"
+      }
+    ],
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "Living in a basic highset Queenslander home, resides John the Fly-in Fly-out mine worker. Looking for privacy as he rests on his days off – closed louvers providing the privacy he likes as he unwinds from long shifts on the mine site."
+      },
+      {
+        "type": "paragraph",
+        "text": "John rests a lot when he returns home from his 3 weeks of 12 hour shifts on the mine site, but once he has recuperated he enjoys opening the louvers on his highset covered deck and inviting his mates over for a drink and laugh."
+      },
+      {
+        "type": "paragraph",
+        "text": "This Cottage overlooks a quiet rural town with sweeping valleys and a trickling river which can be heard from the verandah. Palms sway in the breeze and the birds gather around the seed pods that have fallen on the ground. A piece of heaven to be enjoyed, until the mine whistle beckons John back to work for another long set of shifts"
+      }
+    ],
+    "description": [
+      "Living in a basic highset Queenslander home, resides John the Fly-in Fly-out mine worker. Looking for privacy as he rests on his days off – closed louvers providing the privacy he likes as he unwinds from long shifts on the mine site.",
+      "John rests a lot when he returns home from his 3 weeks of 12 hour shifts on the mine site, but once he has recuperated he enjoys opening the louvers on his highset covered deck and inviting his mates over for a drink and laugh.",
+      "This Cottage overlooks a quiet rural town with sweeping valleys and a trickling river which can be heard from the verandah. Palms sway in the breeze and the birds gather around the seed pods that have fallen on the ground. A piece of heaven to be enjoyed, until the mine whistle beckons John back to work for another long set of shifts"
+    ],
+    "infoBox": {
+      "pricing": "All prices include 10% GST",
+      "shipping": "Packaging and Freight is included in the price of all orders delivered within Australia. The Expected Order Delivery Time is between 14 to 21 days depending on the delivery location. All orders are shipped via Australia Post with a premium, tracked service.",
+      "prints": "Quality reproductions on 240 gsm premium textured Cotton Rag paper."
+    }
+  },
+  "/jills-getaway-colour": {
+    "slug": "jills-getaway-colour",
+    "path": "/jills-getaway-colour",
+    "type": "product",
+    "seo": {
+      "title": "Alison Greenway Art | Jills Getaway Colour",
+      "description": "Jill enjoys a wine and a good book when she sits on the verandah of this quaint cottage, it provides a peaceful atmosphere with its gardens and birds singing in the trees. Jill’s getaway is a modest version of the Queenslander with its timber-framed structure, elevated above the ground on stumps ideal for the sloping block in her street."
+    },
+    "heading": "Jill's Getaway Colour",
+    "image": "/assets/Jills-Getaway-Colour-1280px-webp.webp",
+    "prices": [
+      {
+        "label": "A4",
+        "price": 79,
+        "dimensions": "21cm x 30cm"
+      },
+      {
+        "label": "A3",
+        "price": 159,
+        "dimensions": "30cm x 42cm"
+      },
+      {
+        "label": "A2",
+        "price": 248,
+        "dimensions": "42cm x 60cm"
+      }
+    ],
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "Jill enjoys a wine and a good book when she sits on the verandah of this quaint cottage, it provides a peaceful atmosphere with its gardens and birds singing in the trees. Jill’s getaway is a modest version of the Queenslander with its timber-framed structure, elevated above the ground on stumps ideal for the sloping block in her street."
+      },
+      {
+        "type": "paragraph",
+        "text": "The house avails itself of cool breezes and ventilation beneath the floor, acting as a natural cooler on the hot summer days. A cosy cottage for Jill to reside in, as she tends to her hobbies of gardening and sitting on the verandah with a wine as she watches her neighbours passing by."
+      },
+      {
+        "type": "paragraph",
+        "text": "Jill enjoys a wine and a good book when she has time off from her busy job, and this quaint cottage provides the atmosphere with its gardens and birds singing in the trees"
+      }
+    ],
+    "description": [
+      "Jill enjoys a wine and a good book when she sits on the verandah of this quaint cottage, it provides a peaceful atmosphere with its gardens and birds singing in the trees. Jill’s getaway is a modest version of the Queenslander with its timber-framed structure, elevated above the ground on stumps ideal for the sloping block in her street.",
+      "The house avails itself of cool breezes and ventilation beneath the floor, acting as a natural cooler on the hot summer days. A cosy cottage for Jill to reside in, as she tends to her hobbies of gardening and sitting on the verandah with a wine as she watches her neighbours passing by.",
+      "Jill enjoys a wine and a good book when she has time off from her busy job, and this quaint cottage provides the atmosphere with its gardens and birds singing in the trees"
+    ],
+    "infoBox": {
+      "pricing": "All prices include 10% GST",
+      "shipping": "Packaging and Freight is included in the price of all orders delivered within Australia. The Expected Order Delivery Time is between 14 to 21 days depending on the delivery location. All orders are shipped via Australia Post with a premium, tracked service.",
+      "prints": "Quality reproductions on 240 gsm premium textured Cotton Rag paper."
+    }
+  },
+  "/a-little-treasure-colour": {
+    "slug": "a-little-treasure-colour",
+    "path": "/a-little-treasure-colour",
+    "type": "product",
+    "seo": {
+      "title": "Alison Greenway Art | A Little Treasure Colour",
+      "description": "A Little Treasure."
+    },
+    "heading": "A Little Treasure Colour",
+    "image": "/assets/A-Little-Treasure-Colour-1280px-webp.webp",
+    "prices": [
+      {
+        "label": "A4",
+        "price": 79,
+        "dimensions": "21cm x 30cm"
+      },
+      {
+        "label": "A3",
+        "price": 159,
+        "dimensions": "30cm x 42cm"
+      },
+      {
+        "label": "A2",
+        "price": 248,
+        "dimensions": "42cm x 60cm"
+      }
+    ],
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "Nestled at the bottom of a lush, slightly overgrown blooming garden, a small cottage stood as a hidden gem, its presence known only to those who ventured past the vibrant array of flowers and foliage from shady trees."
+      },
+      {
+        "type": "paragraph",
+        "text": "A wide path leading to the cottage steps was lined with cobbled stones, inviting visitors to follow through and step up to the small private verandah."
+      },
+      {
+        "type": "paragraph",
+        "text": "This mauve coloured cottage has a timeless appeal, with a pitched roof, wooden rails, and charming casement windows that allowed the soft glow of natural light to filter through."
+      },
+      {
+        "type": "paragraph",
+        "text": "Even though this cottage appears small, it is a gathering spot for friendly conversations, craft sessions, and lots of laughter that regularly echo within its walls during gatherings of friends and family."
+      }
+    ],
+    "description": [
+      "Nestled at the bottom of a lush, slightly overgrown blooming garden, a small cottage stood as a hidden gem, its presence known only to those who ventured past the vibrant array of flowers and foliage from shady trees.",
+      "A wide path leading to the cottage steps was lined with cobbled stones, inviting visitors to follow through and step up to the small private verandah.",
+      "This mauve coloured cottage has a timeless appeal, with a pitched roof, wooden rails, and charming casement windows that allowed the soft glow of natural light to filter through.",
+      "Even though this cottage appears small, it is a gathering spot for friendly conversations, craft sessions, and lots of laughter that regularly echo within its walls during gatherings of friends and family."
+    ],
+    "infoBox": {
+      "pricing": "All prices include 10% GST",
+      "shipping": "Packaging and Freight is included in the price of all orders delivered within Australia. The Expected Order Delivery Time is between 14 to 21 days depending on the delivery location. All orders are shipped via Australia Post with a premium, tracked service.",
+      "prints": "Quality reproductions on 240 gsm premium textured Cotton Rag paper."
+    }
+  },
+  "/louvered-cottage-colour": {
+    "slug": "louvered-cottage-colour",
+    "path": "/louvered-cottage-colour",
+    "type": "product",
+    "seo": {
+      "title": "Alison Greenway Art | Louvered Cottage Colour",
+      "description": "In a traditional highset Queenslander residence, you'll find John, a Fly-in Fly-out mine worker. Seeking solace during his downtime, he appreciates the seclusion offered by closed louvers, allowing him to relax after arduous shifts on the mine site."
+    },
+    "heading": "Louvered Cottage Colour",
+    "image": "/assets/Louvered-Cottage-Colour-BA-1280px-webp.webp",
+    "prices": [
+      {
+        "label": "A4",
+        "price": 79,
+        "dimensions": "21cm x 30cm"
+      },
+      {
+        "label": "A3",
+        "price": 159,
+        "dimensions": "30cm x 42cm"
+      },
+      {
+        "label": "A2",
+        "price": 248,
+        "dimensions": "42cm x 60cm"
+      }
+    ],
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "Living in a basic highset Queenslander home, resides John the Fly-in Fly-out mine worker. Looking for privacy as he rests on his days off – closed louvers providing the privacy he likes as he unwinds from long shifts on the mine site. John rests a lot when he returns home from his 3 weeks of 12 hour shifts on the mine site, but once he has recuperated he enjoys opening the louvers on his highset covered deck and inviting his mates over for a drink and laugh. This Cottage overlooks a quiet rural town with sweeping valleys and a trickling river which can be heard from the verandah. Palms sway in the breeze and the birds gather around the seed pods that have fallen on the ground. A piece of heaven to be enjoyed, until the mine whistle beckons John back to work for another long set of shifts."
+      }
+    ],
+    "description": [
+      "Living in a basic highset Queenslander home, resides John the Fly-in Fly-out mine worker. Looking for privacy as he rests on his days off – closed louvers providing the privacy he likes as he unwinds from long shifts on the mine site. John rests a lot when he returns home from his 3 weeks of 12 hour shifts on the mine site, but once he has recuperated he enjoys opening the louvers on his highset covered deck and inviting his mates over for a drink and laugh. This Cottage overlooks a quiet rural town with sweeping valleys and a trickling river which can be heard from the verandah. Palms sway in the breeze and the birds gather around the seed pods that have fallen on the ground. A piece of heaven to be enjoyed, until the mine whistle beckons John back to work for another long set of shifts."
+    ],
+    "infoBox": {
+      "pricing": "All prices include 10% GST",
+      "shipping": "Packaging and Freight is included in the price of all orders delivered within Australia. The Expected Order Delivery Time is between 14 to 21 days depending on the delivery location. All orders are shipped via Australia Post with a premium, tracked service.",
+      "prints": "Quality reproductions on 240 gsm premium textured Cotton Rag paper."
+    }
+  },
+  "/toucan-in-the-jungle": {
+    "slug": "toucan-in-the-jungle",
+    "path": "/toucan-in-the-jungle",
+    "type": "product",
+    "seo": {
+      "title": "Alison Greenway Art | Toucan in the Jungle",
+      "description": "The toucan, with its strikingly large and vividly coloured beak, perches gracefully on a sturdy branch, surrounded by an array of vivid green leaves and tropical flowers. The jungle, alive with the hum of insects and the calls of unseen creatures."
+    },
+    "heading": "Toucan in the Jungle",
+    "image": "/assets/Toucan-in-the-Jungle-Cropped-1280px-webp.webp",
+    "prices": [
+      {
+        "label": "A4",
+        "price": 79,
+        "dimensions": "21cm x 30cm"
+      }
+    ],
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "We experience the lush and thriving jungle coming to life as the magnificent toucan takes centre stage of this artwork, painted in acrylic on canvas."
+      },
+      {
+        "type": "paragraph",
+        "text": "The toucan, with its strikingly large and vividly coloured beak, perches gracefully on a sturdy branch, surrounded by an array of vivid green leaves and tropical flowers. The jungle, alive with the hum of insects and the calls of unseen creatures."
+      },
+      {
+        "type": "paragraph",
+        "text": "An explosion of colours on a dark background allows the viewer to immerse themselves in the beauty of the tropical paradise and the majesty of the toucan within it."
+      }
+    ],
+    "description": [
+      "We experience the lush and thriving jungle coming to life as the magnificent toucan takes centre stage of this artwork, painted in acrylic on canvas.",
+      "The toucan, with its strikingly large and vividly coloured beak, perches gracefully on a sturdy branch, surrounded by an array of vivid green leaves and tropical flowers. The jungle, alive with the hum of insects and the calls of unseen creatures.",
+      "An explosion of colours on a dark background allows the viewer to immerse themselves in the beauty of the tropical paradise and the majesty of the toucan within it."
+    ],
+    "infoBox": {
+      "pricing": "All prices include 10% GST",
+      "shipping": "Packaging and Freight is included in the price of all orders delivered within Australia. The Expected Order Delivery Time is between 14 to 21 days depending on the delivery location. All orders are shipped via Australia Post with a premium, tracked service.",
+      "prints": "Quality reproductions on 240 gsm premium textured Cotton Rag paper."
+    }
+  },
+  "/old-melbourne-inn": {
+    "slug": "old-melbourne-inn",
+    "path": "/old-melbourne-inn",
+    "type": "product",
+    "seo": {
+      "title": "Alison Greenway Art | Old Melbourne Inn",
+      "description": "The Rustic Rendition of a holiday of long ago. This acrylic painting depicts a charming brown brick wall and the staircase of the Old Melbourne Inn, a picturesque setting where well known singers and entertainers stayed when on tour."
+    },
+    "heading": "Old Melbourne Inn",
+    "image": "/assets/Old-Melbourne-Inn-Cropped-1280px-webp.webp",
+    "prices": [
+      {
+        "label": "A4",
+        "price": 135,
+        "dimensions": "21cm x 30cm"
+      }
+    ],
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "The Rustic Rendition of a holiday of long ago. This acrylic painting depicts a charming brown brick wall and the staircase of the Old Melbourne Inn, a picturesque setting where well known singers and entertainers stayed when on tour."
+      },
+      {
+        "type": "paragraph",
+        "text": "Suzy Quatro, Elton John and many others chose this architectural gem to hide away from their admiring fans."
+      },
+      {
+        "type": "paragraph",
+        "text": "I was inspired and have tried to capture the essence of part of this historical Hotel, and the joys of using a warm and earthy colour palette to bring the scene to life."
+      }
+    ],
+    "description": [
+      "The Rustic Rendition of a holiday of long ago. This acrylic painting depicts a charming brown brick wall and the staircase of the Old Melbourne Inn, a picturesque setting where well known singers and entertainers stayed when on tour.",
+      "Suzy Quatro, Elton John and many others chose this architectural gem to hide away from their admiring fans.",
+      "I was inspired and have tried to capture the essence of part of this historical Hotel, and the joys of using a warm and earthy colour palette to bring the scene to life."
+    ],
+    "infoBox": {
+      "pricing": "All prices include 10% GST",
+      "shipping": "Packaging and Freight is included in the price of all orders delivered within Australia. The Expected Order Delivery Time is between 14 to 21 days depending on the delivery location. All orders are shipped via Australia Post with a premium, tracked service.",
+      "prints": "Quality reproductions on 240 gsm premium textured Cotton Rag paper."
+    }
+  },
+  "/celebrations-of-spring": {
+    "slug": "celebrations-of-spring",
+    "path": "/celebrations-of-spring",
+    "type": "product",
+    "seo": {
+      "title": "Alison Greenway Art | Celebrations of Spring",
+      "description": "Spring flowers grace the garden with an exquisite palette of colours. Petals unfold in shades of pastel pinks and yellows, vibrant oranges and lush greens."
+    },
+    "heading": "Celebrations of Spring",
+    "image": "/assets/Celebrations-of-spring-colour-cropped-1280px-webp.webp",
+    "prices": [
+      {
+        "label": "A4",
+        "price": 135,
+        "dimensions": "21cm x 30cm"
+      }
+    ],
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "In the garden, the arrival of spring heralds a breathtaking display of nature's renewal, as vibrant and delicate flowers burst forth in a riot of colours, captivating the nature lover."
+      },
+      {
+        "type": "paragraph",
+        "text": "Spring flowers grace the garden with an exquisite palette of colours. Petals unfold in shades of pastel pinks and yellows, vibrant oranges and lush greens."
+      },
+      {
+        "type": "paragraph",
+        "text": "The diversity of spring flowers and foliage extends beyond colours, presenting an array of shapes and sizes, and their varied forms creating a harmonious symphony that enchants every onlooker."
+      }
+    ],
+    "description": [
+      "In the garden, the arrival of spring heralds a breathtaking display of nature's renewal, as vibrant and delicate flowers burst forth in a riot of colours, captivating the nature lover.",
+      "Spring flowers grace the garden with an exquisite palette of colours. Petals unfold in shades of pastel pinks and yellows, vibrant oranges and lush greens.",
+      "The diversity of spring flowers and foliage extends beyond colours, presenting an array of shapes and sizes, and their varied forms creating a harmonious symphony that enchants every onlooker."
+    ],
+    "infoBox": {
+      "pricing": "All prices include 10% GST",
+      "shipping": "Packaging and Freight is included in the price of all orders delivered within Australia. The Expected Order Delivery Time is between 14 to 21 days depending on the delivery location. All orders are shipped via Australia Post with a premium, tracked service.",
+      "prints": "Quality reproductions on 240 gsm premium textured Cotton Rag paper."
+    }
+  },
+  "/quiet-time-by-the-pond": {
+    "slug": "quiet-time-by-the-pond",
+    "path": "/quiet-time-by-the-pond",
+    "type": "product",
+    "seo": {
+      "title": "Alison Greenway Art | Quiet Time by the Pond",
+      "description": "Sitting by a quiet, secluded pond is an enchanting experience that engages the senses and offers a tranquil escape from the bustle of daily life."
+    },
+    "heading": "Quiet Time by the Pond",
+    "image": "/assets/Quiet-Time-By-The-Pond-Cropped-1280px-webp.webp",
+    "prices": [
+      {
+        "label": "A4",
+        "price": 79,
+        "dimensions": "21cm x 30cm"
+      }
+    ],
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "Sitting by a quiet, secluded pond is an enchanting experience that engages the senses and offers a tranquil escape from the bustle of daily life."
+      },
+      {
+        "type": "paragraph",
+        "text": "You experience a soft symphony of rustling leaves, butterflies flittering by, frogs cracking and distant bird songs that welcomes you to a special place."
+      },
+      {
+        "type": "paragraph",
+        "text": "Your gaze is drawn to the water, where aquatic plants sway gracefully in the current. Small fish dart between the submerged waterlilies and leaves, creating delicate patterns on the pond's surface."
+      },
+      {
+        "type": "paragraph",
+        "text": "Occasionally, the surface tension is broken by the subtle movements of water insects, leaving behind concentric rings that expand and disappear. A wonderful environment for meditation and peaceful thoughts."
+      }
+    ],
+    "description": [
+      "Sitting by a quiet, secluded pond is an enchanting experience that engages the senses and offers a tranquil escape from the bustle of daily life.",
+      "You experience a soft symphony of rustling leaves, butterflies flittering by, frogs cracking and distant bird songs that welcomes you to a special place.",
+      "Your gaze is drawn to the water, where aquatic plants sway gracefully in the current. Small fish dart between the submerged waterlilies and leaves, creating delicate patterns on the pond's surface.",
+      "Occasionally, the surface tension is broken by the subtle movements of water insects, leaving behind concentric rings that expand and disappear. A wonderful environment for meditation and peaceful thoughts."
+    ],
+    "infoBox": {
+      "pricing": "All prices include 10% GST",
+      "shipping": "Packaging and Freight is included in the price of all orders delivered within Australia. The Expected Order Delivery Time is between 14 to 21 days depending on the delivery location. All orders are shipped via Australia Post with a premium, tracked service.",
+      "prints": "Quality reproductions on 240 gsm premium textured Cotton Rag paper."
+    }
+  },
+  "/pine-haven-retreat": {
+    "slug": "pine-haven-retreat",
+    "path": "/pine-haven-retreat",
+    "type": "product",
+    "seo": {
+      "title": "Alison Greenway Art | Pine Haven Retreat",
+      "description": "Towering pine trees stand proudly, their emerald green needles reaching towards the sky, casting a comforting shade over the landscape."
+    },
+    "heading": "Pine Haven Retreat",
+    "image": "/assets/Pine-Haven-Retreat-Cropped-1280px-webp.webp",
+    "prices": [
+      {
+        "label": "A4",
+        "price": 79,
+        "dimensions": "21cm x 30cm"
+      }
+    ],
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "Capturing the soothing allure of the coastal waters with the tranquil presence of majestic pine trees, and opulent properties which are perfectly integrated into these natural surroundings."
+      },
+      {
+        "type": "paragraph",
+        "text": "Towering pine trees stand proudly, their emerald green needles reaching towards the sky, casting a comforting shade over the landscape."
+      },
+      {
+        "type": "paragraph",
+        "text": "\"Pine Haven Retreat\" captures the essence of a coastal paradise where nature and opulence coexist in perfect harmony, inviting viewers to immerse themselves in a world of beauty, privacy and relaxation. The perfect holiday."
+      }
+    ],
+    "description": [
+      "Capturing the soothing allure of the coastal waters with the tranquil presence of majestic pine trees, and opulent properties which are perfectly integrated into these natural surroundings.",
+      "Towering pine trees stand proudly, their emerald green needles reaching towards the sky, casting a comforting shade over the landscape.",
+      "\"Pine Haven Retreat\" captures the essence of a coastal paradise where nature and opulence coexist in perfect harmony, inviting viewers to immerse themselves in a world of beauty, privacy and relaxation. The perfect holiday."
+    ],
+    "infoBox": {
+      "pricing": "All prices include 10% GST",
+      "shipping": "Packaging and Freight is included in the price of all orders delivered within Australia. The Expected Order Delivery Time is between 14 to 21 days depending on the delivery location. All orders are shipped via Australia Post with a premium, tracked service.",
+      "prints": "Quality reproductions on 240 gsm premium textured Cotton Rag paper."
+    }
+  },
+  "/wisteria-cottage": {
+    "slug": "wisteria-cottage",
+    "path": "/wisteria-cottage",
+    "type": "product",
+    "seo": {
+      "title": "Alison Greenway Art | Wisteria Cottage",
+      "description": "Wisteria plants, their cascading lavender blossoms hanging delicately from the trellis, lending a touch of enchantment to the scene. The sweet fragrance of the wisteria drifts through the air, creating an atmosphere of serenity and nostalgia."
+    },
+    "heading": "Wisteria Cottage",
+    "image": "/assets/Wisteria-Cottage-Cropped-1280px-webp.webp",
+    "prices": [
+      {
+        "label": "A4",
+        "price": 79,
+        "dimensions": "21cm x 30cm"
+      }
+    ],
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "Grandma’s county cottage beckons with its timeless charm and memories. A white picket fence encircles the property, framing the quaint cottage like in a children’s storybook."
+      },
+      {
+        "type": "paragraph",
+        "text": "Wisteria plants, their cascading lavender blossoms hanging delicately from the trellis, lending a touch of enchantment to the scene. The sweet fragrance of the wisteria drifts through the air, creating an atmosphere of serenity and nostalgia."
+      },
+      {
+        "type": "paragraph",
+        "text": "A hint of freshly cooked biscuits and tea linger as you approach the picket gate. Pots and garden beds of colourful as daisies and wildflowers welcome you as you look forward to visiting Gran."
+      }
+    ],
+    "description": [
+      "Grandma’s county cottage beckons with its timeless charm and memories. A white picket fence encircles the property, framing the quaint cottage like in a children’s storybook.",
+      "Wisteria plants, their cascading lavender blossoms hanging delicately from the trellis, lending a touch of enchantment to the scene. The sweet fragrance of the wisteria drifts through the air, creating an atmosphere of serenity and nostalgia.",
+      "A hint of freshly cooked biscuits and tea linger as you approach the picket gate. Pots and garden beds of colourful as daisies and wildflowers welcome you as you look forward to visiting Gran."
+    ],
+    "infoBox": {
+      "pricing": "All prices include 10% GST",
+      "shipping": "Packaging and Freight is included in the price of all orders delivered within Australia. The Expected Order Delivery Time is between 14 to 21 days depending on the delivery location. All orders are shipped via Australia Post with a premium, tracked service.",
+      "prints": "Quality reproductions on 240 gsm premium textured Cotton Rag paper."
+    }
+  },
+  "/black-cockatoo": {
+    "slug": "black-cockatoo",
+    "path": "/black-cockatoo",
+    "type": "product",
+    "seo": {
+      "title": "Alison Greenway Art | Black Cockatoo",
+      "description": "Being a nature lover which includes having an interest in all native animals and birds I felt a desire to paint this beautiful black Cockatoo when after I found one hiding in amongst the foliage of the Gum Tree in my local park. An unusual sighting as they tend to live in Central and Western Australia – not Queensland. "
+    },
+    "heading": "Black Cockatoo",
+    "image": "/assets/Black-Cockatoo-BA-1280px-webp.webp",
+    "prices": [
+      {
+        "label": "A4",
+        "price": 105,
+        "dimensions": "21cm x 30cm"
+      }
+    ],
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "Being a nature lover which includes having an interest in all native animals and birds I felt a desire to paint this beautiful black Cockatoo when after I found one hiding in amongst the foliage of the Gum Tree in my local park. An unusual sighting as they tend to live in Central and Western Australia – not Queensland."
+      },
+      {
+        "type": "paragraph",
+        "text": "The red-tailed black cockatoos are true icons of Australia, they usually hide away high in the gum trees feeding on delicious gumnuts. Their cawing is loud and distinct, once heard you will never forget it. These birds tend to live by inland rivers and are less obvious than the pink galahs and white cookies which can be found throughout all states of Australia."
+      },
+      {
+        "type": "paragraph",
+        "text": "I felt a desire to paint this beautiful black Cockatoo when after I found one hiding in amongst the foliage of the Gum Tree in my local park. An unusual sighting as they tend to live in Central and Western Australia – not Queensland"
+      }
+    ],
+    "description": [
+      "Being a nature lover which includes having an interest in all native animals and birds I felt a desire to paint this beautiful black Cockatoo when after I found one hiding in amongst the foliage of the Gum Tree in my local park. An unusual sighting as they tend to live in Central and Western Australia – not Queensland.",
+      "The red-tailed black cockatoos are true icons of Australia, they usually hide away high in the gum trees feeding on delicious gumnuts. Their cawing is loud and distinct, once heard you will never forget it. These birds tend to live by inland rivers and are less obvious than the pink galahs and white cookies which can be found throughout all states of Australia.",
+      "I felt a desire to paint this beautiful black Cockatoo when after I found one hiding in amongst the foliage of the Gum Tree in my local park. An unusual sighting as they tend to live in Central and Western Australia – not Queensland"
+    ],
+    "infoBox": {
+      "pricing": "All prices include 10% GST",
+      "shipping": "Packaging and Freight is included in the price of all orders delivered within Australia. The Expected Order Delivery Time is between 14 to 21 days depending on the delivery location. All orders are shipped via Australia Post with a premium, tracked service.",
+      "prints": "Quality reproductions on 240 gsm premium textured Cotton Rag paper."
+    }
+  },
+  "/weekend-retreat": {
+    "slug": "weekend-retreat",
+    "path": "/weekend-retreat",
+    "type": "product",
+    "seo": {
+      "title": "Alison Greenway At | Weekend Retreat",
+      "description": "Dreaming of your time to relax and unwind after a long week, all you need now is a tall cold drink. How many times during summer do you day dream whilst at work, thinking of the weekend and relaxing by the pool with your friends or possibly a good book. The bright yellow umbrellas and bright day beds are calling you, the aqua coloured water enticing you to dive in and wash away all the stress from the past week."
+    },
+    "heading": "Weekend Retreat",
+    "image": "/assets/Weekend-Retreat-BA-1280px-webp.webp",
+    "prices": [
+      {
+        "label": "A4",
+        "price": 79,
+        "dimensions": "21cm x 30cm"
+      }
+    ],
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "Ahhh . . . Vacation Time. Dreaming of your time to relax and unwind after a long week, all you need now is a tall cold drink."
+      },
+      {
+        "type": "paragraph",
+        "text": "How many times during summer do you day dream whilst at work, thinking of the weekend and relaxing by the pool with your friends or possibly a good book."
+      },
+      {
+        "type": "paragraph",
+        "text": "The bright yellow umbrellas and bright day beds are calling you, the aqua coloured water enticing you to dive in and wash away all the stress from the past week. Arrrr ‘the weekend retreat"
+      }
+    ],
+    "description": [
+      "Ahhh . . . Vacation Time. Dreaming of your time to relax and unwind after a long week, all you need now is a tall cold drink.",
+      "How many times during summer do you day dream whilst at work, thinking of the weekend and relaxing by the pool with your friends or possibly a good book.",
+      "The bright yellow umbrellas and bright day beds are calling you, the aqua coloured water enticing you to dive in and wash away all the stress from the past week. Arrrr ‘the weekend retreat"
+    ],
+    "infoBox": {
+      "pricing": "All prices include 10% GST",
+      "shipping": "Packaging and Freight is included in the price of all orders delivered within Australia. The Expected Order Delivery Time is between 14 to 21 days depending on the delivery location. All orders are shipped via Australia Post with a premium, tracked service.",
+      "prints": "Quality reproductions on 240 gsm premium textured Cotton Rag paper."
+    }
+  },
+  "/african-highlight": {
+    "slug": "african-highlight",
+    "path": "/african-highlight",
+    "type": "product",
+    "seo": {
+      "title": "Alison Greenway Art | African Highlight",
+      "description": "Exotic bold glimpse of African culture. This artwork blends the beauty of the zebra stripes with a tale from African culture. A tale were single tribal women dress in exotic woven gowns to attend the annual ‘coming out’ ceremony and ritual. An event were young women hopefully find their mate for ongoing support and eventually marriage."
+    },
+    "heading": "African Highlight",
+    "image": "/assets/African-Highlight-1280px-webp.webp",
+    "prices": [
+      {
+        "label": "A4",
+        "price": 149,
+        "dimensions": "21cm x 30cm"
+      }
+    ],
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "Exotic bold glimpse of African culture. This artwork blends the beauty of the zebra stripes with a tale from African culture. A tale were single tribal women dress in exotic woven gowns to attend the annual ‘coming out’ ceremony and ritual. An event were young women hopefully find their mate for ongoing support and eventually marriage."
+      }
+    ],
+    "description": [
+      "Exotic bold glimpse of African culture. This artwork blends the beauty of the zebra stripes with a tale from African culture. A tale were single tribal women dress in exotic woven gowns to attend the annual ‘coming out’ ceremony and ritual. An event were young women hopefully find their mate for ongoing support and eventually marriage."
+    ],
+    "infoBox": {
+      "pricing": "All prices include 10% GST",
+      "shipping": "Packaging and Freight is included in the price of all orders delivered within Australia. The Expected Order Delivery Time is between 14 to 21 days depending on the delivery location. All orders are shipped via Australia Post with a premium, tracked service.",
+      "prints": "Quality reproductions on 240 gsm premium textured Cotton Rag paper."
+    }
+  },
+  "/sunday-morning": {
+    "slug": "sunday-morning",
+    "path": "/sunday-morning",
+    "type": "product",
+    "seo": {
+      "title": "Alison Greenway Art | Sunday Morning",
+      "description": "A restful morning on a rainy Sunday in Queensland. Wondering bare footed along the wooden veranda overlooking the tropical gardens. Not a care in the world as you listen to the birds and feel the misty rain on your skin on this quiet Sunday morning."
+    },
+    "heading": "Sunday Morning",
+    "image": "/assets/Sunday-Morning-BA-1280px-webp.webp",
+    "prices": [
+      {
+        "label": "A4",
+        "price": 79,
+        "dimensions": "21cm x 30cm"
+      }
+    ],
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "A restful morning on a rainy Sunday in Queensland. Wondering bare footed along the wooden veranda overlooking the tropical gardens. Not a care in the world as you listen to the birds and feel the misty rain on your skin on this quiet Sunday morning."
+      }
+    ],
+    "description": [
+      "A restful morning on a rainy Sunday in Queensland. Wondering bare footed along the wooden veranda overlooking the tropical gardens. Not a care in the world as you listen to the birds and feel the misty rain on your skin on this quiet Sunday morning."
+    ],
+    "infoBox": {
+      "pricing": "All prices include 10% GST",
+      "shipping": "Packaging and Freight is included in the price of all orders delivered within Australia. The Expected Order Delivery Time is between 14 to 21 days depending on the delivery location. All orders are shipped via Australia Post with a premium, tracked service.",
+      "prints": "Quality reproductions on 240 gsm premium textured Cotton Rag paper."
+    }
+  },
+  "/spring-garden": {
+    "slug": "spring-garden",
+    "path": "/spring-garden",
+    "type": "product",
+    "seo": {
+      "title": "Alison Greenway Art | Spring Garden",
+      "description": "A spring garden with staircase leading to nowhere. A painting that can transport you from hectic daily routine to a relaxed and whimsical frame of mind, as you relax with your wine and ponder on where the staircase might take you.  You can also  loose yourself in the spring garden as you wonder along the pathway and imagine what lays beyond. Vivid colours with flowering wisteria plants dangling across the frame allow you to create your own retreat - a place to loose yourself in."
+    },
+    "heading": "Spring Garden",
+    "image": "/assets/Spring-Garden-BA-1280px-webp.webp",
+    "prices": [
+      {
+        "label": "A4",
+        "price": 135,
+        "dimensions": "21cm x 30cm"
+      }
+    ],
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "A spring garden with staircase leading to nowhere. A painting that can transport you from hectic daily routine to a relaxed and whimsical frame of mind, as you relax with your wine and ponder on where the staircase might take you."
+      },
+      {
+        "type": "paragraph",
+        "text": "You can also loose yourself in the spring garden as you wonder along the pathway and imagine what lays beyond. Vivid colours with flowering wisteria plants dangling across the frame allow you to create your own retreat - a place to loose yourself in."
+      }
+    ],
+    "description": [
+      "A spring garden with staircase leading to nowhere. A painting that can transport you from hectic daily routine to a relaxed and whimsical frame of mind, as you relax with your wine and ponder on where the staircase might take you.",
+      "You can also loose yourself in the spring garden as you wonder along the pathway and imagine what lays beyond. Vivid colours with flowering wisteria plants dangling across the frame allow you to create your own retreat - a place to loose yourself in."
+    ],
+    "infoBox": {
+      "pricing": "All prices include 10% GST",
+      "shipping": "Packaging and Freight is included in the price of all orders delivered within Australia. The Expected Order Delivery Time is between 14 to 21 days depending on the delivery location. All orders are shipped via Australia Post with a premium, tracked service.",
+      "prints": "Quality reproductions on 240 gsm premium textured Cotton Rag paper."
+    }
+  },
+  "/follow-the-path": {
+    "slug": "follow-the-path",
+    "path": "/follow-the-path",
+    "type": "product",
+    "seo": {
+      "title": "Alison Greenway Art | Follow The Path",
+      "description": "Loose yourself as you imagine what is beyond the dark pathway. Enjoy the spring colours in the garden, vivid oranges pinks and yellows. A happy time to spend with friends and family as you wonder through and smell the blossoms."
+    },
+    "heading": "Follow The Path",
+    "image": "/assets/Follow-the-Path-BA-1280px-webp.webp",
+    "prices": [
+      {
+        "label": "A4",
+        "price": 79,
+        "dimensions": "21cm x 30cm"
+      }
+    ],
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "Loose yourself as you imagine what is beyond the dark pathway. Enjoy the spring colours in the garden, vivid oranges pinks and yellows. A happy time to spend with friends and family as you wonder through and smell the blossoms."
+      }
+    ],
+    "description": [
+      "Loose yourself as you imagine what is beyond the dark pathway. Enjoy the spring colours in the garden, vivid oranges pinks and yellows. A happy time to spend with friends and family as you wonder through and smell the blossoms."
+    ],
+    "infoBox": {
+      "pricing": "All prices include 10% GST",
+      "shipping": "Packaging and Freight is included in the price of all orders delivered within Australia. The Expected Order Delivery Time is between 14 to 21 days depending on the delivery location. All orders are shipped via Australia Post with a premium, tracked service.",
+      "prints": "Quality reproductions on 240 gsm premium textured Cotton Rag paper."
+    }
+  },
+  "/spring-time": {
+    "slug": "spring-time",
+    "path": "/spring-time",
+    "type": "product",
+    "seo": {
+      "title": "Alison Greenway Art | Spring Time",
+      "description": "Bold coloured flowers depicting the freshness of Spring. A perfect day when you take time to enjoy the bright flowers and multiple green leaves of Spring."
+    },
+    "heading": "Spring Time",
+    "image": "/assets/Spring-Time-BA-1280px-webp.webp",
+    "prices": [
+      {
+        "label": "A4",
+        "price": 79,
+        "dimensions": "21cm x 30cm"
+      }
+    ],
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "Bold coloured flowers depicting the freshness of Spring. A perfect day when you take time to enjoy the bright flowers and multiple green leaves of Spring."
+      }
+    ],
+    "description": [
+      "Bold coloured flowers depicting the freshness of Spring. A perfect day when you take time to enjoy the bright flowers and multiple green leaves of Spring."
+    ],
+    "infoBox": {
+      "pricing": "All prices include 10% GST",
+      "shipping": "Packaging and Freight is included in the price of all orders delivered within Australia. The Expected Order Delivery Time is between 14 to 21 days depending on the delivery location. All orders are shipped via Australia Post with a premium, tracked service.",
+      "prints": "Quality reproductions on 240 gsm premium textured Cotton Rag paper."
+    }
+  },
+  "/relaxing-in-the-study": {
+    "slug": "relaxing-in-the-study",
+    "path": "/relaxing-in-the-study",
+    "type": "product",
+    "seo": {
+      "title": "Alison Greenway Art | Relaxing In The Study",
+      "description": "Looking through the window of the home study. A place where you can escape the usual daily routine, and spend a rainy day reading and relaxing. The home study is creates a comfortable place to loose yourself in between the pages of a good book."
+    },
+    "heading": "Relaxing In The Study",
+    "image": "/assets/Relaxing-in-the-Study-BA-1280px-webp.webp",
+    "prices": [
+      {
+        "label": "A4",
+        "price": 79,
+        "dimensions": "21cm x 30cm"
+      }
+    ],
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "Looking through the window of the home study. A place where you can escape the usual daily routine, and spend a rainy day reading and relaxing. The home study is creates a comfortable place to loose yourself in between the pages of a good book."
+      }
+    ],
+    "description": [
+      "Looking through the window of the home study. A place where you can escape the usual daily routine, and spend a rainy day reading and relaxing. The home study is creates a comfortable place to loose yourself in between the pages of a good book."
+    ],
+    "infoBox": {
+      "pricing": "All prices include 10% GST",
+      "shipping": "Packaging and Freight is included in the price of all orders delivered within Australia. The Expected Order Delivery Time is between 14 to 21 days depending on the delivery location. All orders are shipped via Australia Post with a premium, tracked service.",
+      "prints": "Quality reproductions on 240 gsm premium textured Cotton Rag paper."
+    }
+  },
+  "/amongst-the-reeds": {
+    "slug": "amongst-the-reeds",
+    "path": "/amongst-the-reeds",
+    "type": "product",
+    "seo": {
+      "title": "Alison Greenway Art | Amongst The Reeds",
+      "description": "Peace and tranquility, as the fish swim by. Colourful and happy painting depicting clown fish peacefully swimming by, through the cool lime green colour reeds and the water with aqua tones."
+    },
+    "heading": "Amongst The Reeds",
+    "image": "/assets/Amongst-the-Reeds-BA-1280px-webp.webp",
+    "prices": [
+      {
+        "label": "A4",
+        "price": 79,
+        "dimensions": "21cm x 30cm"
+      }
+    ],
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "Peace and tranquility, as the fish swim by. Colourful and happy painting depicting clown fish peacefully swimming by, through the cool lime green colour reeds and the water with aqua tones."
+      }
+    ],
+    "description": [
+      "Peace and tranquility, as the fish swim by. Colourful and happy painting depicting clown fish peacefully swimming by, through the cool lime green colour reeds and the water with aqua tones."
+    ],
+    "infoBox": {
+      "pricing": "All prices include 10% GST",
+      "shipping": "Packaging and Freight is included in the price of all orders delivered within Australia. The Expected Order Delivery Time is between 14 to 21 days depending on the delivery location. All orders are shipped via Australia Post with a premium, tracked service.",
+      "prints": "Quality reproductions on 240 gsm premium textured Cotton Rag paper."
+    }
+  },
+  "/under-water": {
+    "slug": "under-water",
+    "path": "/under-water",
+    "type": "product",
+    "seo": {
+      "title": "Alison Greenway At | Underwater",
+      "description": "Going with the Flow in a Tropical World. Busy life as the fish travel along in their groups, in this colourful tropical underworld."
+    },
+    "heading": "Under Water",
+    "image": "/assets/Under-Water-BA-1280px-webp.webp",
+    "prices": [
+      {
+        "label": "A4",
+        "price": 79,
+        "dimensions": "21cm x 30cm"
+      }
+    ],
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "Going with the Flow in a Tropical World. Busy life as the fish travel along in their groups, in this colourful tropical underworld."
+      }
+    ],
+    "description": [
+      "Going with the Flow in a Tropical World. Busy life as the fish travel along in their groups, in this colourful tropical underworld."
+    ],
+    "infoBox": {
+      "pricing": "All prices include 10% GST",
+      "shipping": "Packaging and Freight is included in the price of all orders delivered within Australia. The Expected Order Delivery Time is between 14 to 21 days depending on the delivery location. All orders are shipped via Australia Post with a premium, tracked service.",
+      "prints": "Quality reproductions on 240 gsm premium textured Cotton Rag paper."
+    }
+  },
+  "/the-bull-and-barley-inn-cambooya": {
+    "slug": "the-bull-and-barley-inn-cambooya",
+    "path": "/the-bull-and-barley-inn-cambooya",
+    "type": "blog-post",
+    "seo": {
+      "title": "Bull and Barley Inn Drawing | Historic Cambooya Pub Art",
+      "description": "Discover the hand-drawn portrait of the Bull and Barley Inn in Cambooya, QLD by Alison Greenway. A historic country pub rich in charm, heritage, and architectural beauty."
+    },
+    "heading": "The Bull and Barley Inn Cambooya",
+    "lead": "As an artist who is both passionate and motivated to recreate the details of unique architectural buildings found throughout Queensland, I was challenged to draw this beautiful and historical building especially as it is found on ‘my doorstep’ being so close to Toowoomba my home city.",
+    "image": "/assets/Bull--Barley-1024.webp",
+    "imageAlt": "Toowoomba Artist Alison Greenway was commissioned to create a portrait of The Bull and Barley Inn Cambooya.",
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "The Bull and Barley Inn is in the picturesque township of Cambooya which is part of the Darling Downs in Southern Queensland. This stunning building has a rich history dating back to 1902, when it was originally established as the Cambooya Railway Hotel."
+      },
+      {
+        "type": "paragraph",
+        "text": "Initially one of three hotels in the town, it became the sole remaining hotel and was renamed the Bull and Barley Inn in 1978. This two-story building with a restaurant and accommodation, is known for its historic charm and is a popular destination for both locals and tourists."
+      },
+      {
+        "type": "paragraph",
+        "text": "Some interesting facts about this Classic Country Inn",
+        "html": "<strong>Some interesting facts about this Classic Country Inn</strong>"
+      },
+      {
+        "type": "list",
+        "items": [
+          "1902: The Inn opens as the Cambooya Railway Hotel, serving as a railway station and general store.",
+          "Early Years: It was one of three pubs in Cambooya but eventually became the only one remaining.",
+          "1978: The name was changed to the Bull and Barley Inn.",
+          "2017: The Inn was restored immaculately when it underwent major restorations which included a new roof, electrical rewiring and upgraded plumbing.",
+          "The Bull and Barley Inn is known throughout the region for its decorative two-story building, wide verandahs, and historic charm. It features an old-world atmosphere, with displays of original photographs and memorabilia adorning its walls – paying tribute to the hotel’s local history",
+          "Cambooya is located in the region of the late author Steele Rudd, creator of the well-known Australian characters, Dad ‘n’ Dave.",
+          "A local treasure and well patronised waterhole receive visitors from far and wide; it is a thriving business and provides over 1,000 meals a week, being so popular that it is wise to book to get a table."
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "The Bull and Barley Inn features the prominent Union Jack balustrade with inner square frame diagonals; double hung sash windows with hood protectors over the street facing windows; also two attractive rectangle Bay windows and gutter corners reaching out from the central and end gables. This building showing much style and character to those who appreciate the finer historical features."
+      },
+      {
+        "type": "image",
+        "src": "/assets/Bull-and-Barley-Image-for-Blog-bottom-of-article-mdzdqcef.jpg",
+        "alt": "Sketch of Bull and Barley Inn"
+      }
+    ],
+    "body": [
+      "The Bull and Barley Inn is in the picturesque township of Cambooya which is part of the Darling Downs in Southern Queensland. This stunning building has a rich history dating back to 1902, when it was originally established as the Cambooya Railway Hotel.",
+      "Initially one of three hotels in the town, it became the sole remaining hotel and was renamed the Bull and Barley Inn in 1978. This two-story building with a restaurant and accommodation, is known for its historic charm and is a popular destination for both locals and tourists.",
+      "Some interesting facts about this Classic Country Inn",
+      "The Bull and Barley Inn features the prominent Union Jack balustrade with inner square frame diagonals; double hung sash windows with hood protectors over the street facing windows; also two attractive rectangle Bay windows and gutter corners reaching out from the central and end gables. This building showing much style and character to those who appreciate the finer historical features."
+    ]
+  },
+  "/so-why-are-house-portraits-the-perfect-realtor-gift": {
+    "slug": "so-why-are-house-portraits-the-perfect-realtor-gift",
+    "path": "/so-why-are-house-portraits-the-perfect-realtor-gift",
+    "type": "blog-post",
+    "seo": {
+      "title": "Unique Realtor Closing Gifts – Custom House Portraits",
+      "description": "Impress clients with a hand-drawn house portrait—a meaningful realtor closing gift that builds emotional connection, loyalty, referrals, and lasting memories."
+    },
+    "heading": "So why are house portraits the perfect realtor gift?",
+    "lead": "Realtor closing gifts are more than just gifts. They reflect the service that you provided and relationships that have been built throughout the process.",
+    "image": "/assets/blog-2-Female-artist-red-shirt-1024x768.webp",
+    "imageAlt": "Client hanging her custom house portrait on the wall of her home.",
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "Most Agents will present a thoughtfully selected gift to their clients as a contract settlement gift or a housewarming gift. This act demonstrates the thought, effort, and sincerity behind the gift and leaves a lasting impression. This appreciation might lead to future business opportunities, referrals, and ongoing relationships."
+      },
+      {
+        "type": "paragraph",
+        "text": "Agents’ clients who have sold their home using their realty services will express positive sentiments about receiving a unique gift of a house portrait after settlement goes through. A House Portrait gift often is considered a cherished and meaningful keepsake, with recipients appreciating the individual and personalised gesture. This gift helps the seller to capture the beauty and memories associated with their home, and the positive experience they had when working with you."
+      },
+      {
+        "type": "heading",
+        "text": "Some reasons to commission a House Portrait for your Settlement Gifts"
+      },
+      {
+        "type": "paragraph",
+        "text": "Personal Touch: A house portrait is deeply personal and reflects the most significant purchase many people will ever make. It’s a unique way to commemorate a new home, making the gift feel thoughtful and special.",
+        "html": "<strong>Personal Touch:</strong>  A house portrait is deeply personal and reflects the most&nbsp;significant purchase many people will ever make. It’s a unique way to&nbsp;commemorate a new home, making the gift feel thoughtful and special.&nbsp;"
+      },
+      {
+        "type": "paragraph",
+        "text": "Lasting Keepsake: Unlike other gifts that might be forgotten or used once, a house portrait is something that can be displayed proudly in the home for years. It’s a timeless reminder of the client’s journey to homeownership, and it could serve as a constant reminder of the realtor’s role in that experience.",
+        "html": "<strong>Lasting Keepsake:</strong>  Unlike other gifts that might be forgotten or used once, a&nbsp;house portrait is something that can be displayed proudly in the home for&nbsp;years. It’s a timeless reminder of the client’s journey to homeownership, and it&nbsp;could serve as a constant reminder of the realtor’s role in that experience."
+      },
+      {
+        "type": "paragraph",
+        "text": "Memorable Gesture: Realtors often give gifts at closing, but a house portrait stands out from the typical bottle of wine or generic gift basket. It’s more meaningful and can help cement the realtor’s place in the client’s memory.",
+        "html": "<strong>Memorable Gesture:</strong>  Realtors often give gifts at closing, but a house portrait&nbsp;stands out from the typical bottle of wine or generic gift basket. It’s more&nbsp;meaningful and can help cement the realtor’s place in the client’s memory.&nbsp;&nbsp;"
+      },
+      {
+        "type": "paragraph",
+        "text": "Branding Opportunity: An original house portrait is a subtle form of branding. A special note on the back of the painting along with the realtor’s contact info, can serve as a reminder to the client whenever they look at the piece. It’s a soft yet effective form of marketing.",
+        "html": "<strong>Branding Opportunity:</strong>  An original house portrait is a subtle form of&nbsp;branding.&nbsp; A special note on the back of the painting along with the realtor’s&nbsp;contact info, can serve as a reminder to the client whenever they look at the&nbsp;piece. It’s a soft yet effective form of marketing."
+      },
+      {
+        "type": "paragraph",
+        "text": "Emotional Connection: Moving into a new home is a huge life event, and a house portrait taps into that emotion. It celebrates the new chapter in the client’s life and strengthens the emotional bond between the realtor and the client.",
+        "html": "<strong>Emotional Connection:</strong>  Moving into a new home is a huge life event, and a&nbsp;house portrait taps into that emotion. It celebrates the new chapter in the&nbsp;client’s life and strengthens the emotional bond between the realtor and the&nbsp;client.&nbsp;&nbsp;"
+      },
+      {
+        "type": "paragraph",
+        "text": "Word-of-Mouth Marketing: A unique and beautiful portrait of their home could spark conversation among friends, family, and visitors. This natural form of word-of-mouth marketing can help a realtor gain more clients down the road.",
+        "html": "<strong>Word-of-Mouth Marketing:</strong>  A unique and beautiful portrait of their home&nbsp;could spark conversation among friends, family, and visitors. This natural form&nbsp;of word-of-mouth marketing can help a realtor gain more clients down the&nbsp;road."
+      },
+      {
+        "type": "paragraph",
+        "text": "Customisation: Realtors can personalize the gift even further by including specific details, like the year of purchase, street address, or special landmarks nearby, which adds an extra layer of thoughtfulness. Overall, a house portrait is a memorable and meaningful gift that has long-term value, both for the client and the realtor’s brand.",
+        "html": "<strong>Customisation: </strong> Realtors can personalize the gift even further by including&nbsp;specific details, like the year of purchase, street address, or special landmarks&nbsp;nearby, which adds an extra layer of thoughtfulness.&nbsp;Overall, a house portrait is a memorable and meaningful gift that has long-term value, both for the client and the realtor’s brand.&nbsp;&nbsp;"
+      },
+      {
+        "type": "heading",
+        "text": "What Agents who gift House Portraits to their Customers say"
+      },
+      {
+        "type": "paragraph",
+        "text": "A custom house portrait is an artistic rendering of the customer’s home and is easily drawn by Alison, working from a range of suitable photos of the property. It only takes a couple of weeks as she creates an accurate and beautiful portrait of the house in pencil and ink, but it has a lasting and joyous effect on my customers."
+      },
+      {
+        "type": "paragraph",
+        "text": "The House portraits can also be customised to fit a client’s tastes, such as adjust the amount of foliage in the drawing, close a garage door, add a fence or even rearrange the garden if desired. These changes enhance the portrait and create a special piece of artwork specifically for my customers."
+      },
+      {
+        "type": "paragraph",
+        "text": "Typically, a house portrait is of the front or angled corner exterior of the house, but any space or room can be turned into a portrait, such as an elaborate doorway or patio and garden area."
+      },
+      {
+        "type": "paragraph",
+        "text": "As you can see, house portraits are the perfect way to showcase a home’s beauty in an attractive, 100% original work of art, which also has a Certificate of Authenticity for the customers to keep."
+      },
+      {
+        "type": "paragraph",
+        "text": "Homeowners can proudly display the portrait and enjoy it every day throughout the coming years and decades and remember the Agent that gifted it to them as they show their family and friends. A wonderful experience for all."
+      },
+      {
+        "type": "image",
+        "src": "/assets/Tudor-Estate-BW-BA-600px-webp-lsny1m5c.webp",
+        "alt": "tudor house portrait"
+      },
+      {
+        "type": "image",
+        "src": "/assets/Bayrise-manor-BW-600px-webp-lscthqhg.webp",
+        "alt": "Queensland House Portrait"
+      }
+    ],
+    "body": [
+      "Most Agents will present a thoughtfully selected gift to their clients as a contract settlement gift or a housewarming gift. This act demonstrates the thought, effort, and sincerity behind the gift and leaves a lasting impression. This appreciation might lead to future business opportunities, referrals, and ongoing relationships."
+    ]
+  },
+  "/who-commissions-a-house-portrait-drawing": {
+    "slug": "who-commissions-a-house-portrait-drawing",
+    "path": "/who-commissions-a-house-portrait-drawing",
+    "type": "blog-post",
+    "seo": {
+      "title": "Custom House Portraits – Personalised Home Drawings for Gifts & Memories",
+      "description": "Moving or relocating in Queensland? Capture your old home or business with a hand-drawn house portrait—personalised art that preserves local memories."
+    },
+    "heading": "Who Commissions a House Portrait Drawing?",
+    "lead": "There’s something special about home. It’s not just a structure - it’s where memories are made, milestones are celebrated, and stories unfold. That’s why more and more people are contacting me to draw their home.",
+    "image": "/assets/Artist-Canvas1024-x-576-px.webp",
+    "imageAlt": "Custom House Portraits can be a great gift for friends and family.",
+    "blocks": [
+      {
+        "type": "heading",
+        "text": "A custom house portrait captures more than walls and windows, it preserves emotion, history, memories and pride in a deeply personal way."
+      },
+      {
+        "type": "paragraph",
+        "text": "Whether it's a first home, a forever home, or one that’s part of your family legacy, a hand-drawn house portrait offers a tangible way to celebrate it. It tells a story. Every line drawn in ink represents the character, detail, and feeling that photos often miss. It's a keepsake that holds meaning, and it only becomes more valuable with time."
+      },
+      {
+        "type": "paragraph",
+        "text": "A personalised House Portrait Drawing is ideal for so many reasons; clients have commissioned me to do drawings for many purposes, events and gift ideas including:"
+      },
+      {
+        "type": "list",
+        "items": [
+          "Christmas – Surprise a loved one on Christmas morning with a thoughtful gift.",
+          "Father’s Day / Mother’s Day – A special gift for those who have ‘everything’.",
+          "Weddings – A beautiful way to celebrate the first home a couple shares.",
+          "Anniversaries – A lasting tribute to decades of shared memories.",
+          "New Home Purchases – Love and thoughtful unexpected housewarming gift",
+          "Downsizing – A way to take a lifetime of memories when you relocate.",
+          "Retirement Gift – A loving reminder and keepsake from work colleagues."
+        ]
+      },
+      {
+        "type": "paragraph",
+        "text": "Here is a list of why some people have contacted me from all over Queensland, and why they commissioned a hand drawn House Portrait especially for them."
+      },
+      {
+        "type": "heading",
+        "text": "Fred and Dorothy moved their old business to new premises."
+      },
+      {
+        "type": "paragraph",
+        "text": "This lovely couple have operated their business from a heritage listed property for over 20 years, and they were in the process of building a purpose built complex and relocating their old business to it. They both shared a lot of sentimental feelings, along with their many long term and loyal customers for the older building. As a nod of respect, they commissioned me to draw the ‘old building’, and it now hangs proudly in their new business showroom for all to see."
+      },
+      {
+        "type": "heading",
+        "text": "Dylan’s gift for his Partner’s Birthday"
+      },
+      {
+        "type": "paragraph",
+        "text": "Dylan and Sussan have lived in North Queensland for the past 10 years in a rented Queenslander home, recently they have decided to relocate to Brisbane for employment opportunities for Dylan and to be close to their family members. Sussan was a little reluctant and sad to move from her home as she loved the character of the home and the many memories that had been made there. Dylan decided to have this beautiful property drawn so contacted me by text to commission a House Portrait Drawing to give it to Sussan for a Birthday gift just before they were to leave for Brisbane. Sussan was delighted and has framed the drawing and hangs it affectionately on their dining room wall so all the family and friends can see it."
+      },
+      {
+        "type": "heading",
+        "text": "Jackie misses her First Home"
+      },
+      {
+        "type": "paragraph",
+        "text": "After having several very successful years Jackie and her Husband decided to upscale and purchase a new home that offered more space for their growing family. Although they really loved their modest Queensland cottage, and it had so many memories as their children were growing they felt a need to sell and buy a larger and more centrally located home that suited their changing needs better. Jackie and her family love their new home but wanted to have a memento of their first home to remember the early fun years as their family grew. Jackie contacted me to do a House Portrait Drawing to keep these treasured memories alive."
+      },
+      {
+        "type": "heading",
+        "text": "Trevor uses a House Portrait to lift business profile."
+      },
+      {
+        "type": "paragraph",
+        "text": "Trevor runs an accounting business which he operates from a stunning stately building that is a landmark in the region. Trevor contacted me and asked me to draw the façade of his business, he was very happy with the results and asked about my Corporate Package Deal so he could include the drawing in his business marketing program. Trevor now has a large Building Portrait hanging in his reception area for customers to see. I also provided him with a quality image that he could use to put on his business letterheads, business cards and other merchandise that he gifts to his customers. Trevor is very pleased with the results.",
+        "html": "Trevor runs an accounting business which he operates from a stunning stately&nbsp;building that is a landmark in the region. Trevor contacted me and asked me to&nbsp;draw the façade of his business, he was very happy with the results and asked&nbsp;about my <strong>Corporate Package Deal</strong>  so he could include the drawing in his&nbsp;business marketing program. Trevor now has a large Building Portrait hanging&nbsp;in his reception area for customers to see. I also provided him with a quality&nbsp;image that he could use to put on his business letterheads, business cards and&nbsp;other merchandise that he gifts to his customers. Trevor is very pleased with&nbsp;the results.&nbsp;&nbsp;"
+      },
+      {
+        "type": "heading",
+        "text": "Jessie and Sam’s Coffee House and Tourist Business"
+      },
+      {
+        "type": "paragraph",
+        "text": "Jessie and Sam run a small tourism business in a medium sized country town in Southern Queensland. They called me and asked me to do a commissioned drawing of their quaint ‘country cottage’ so they could feature it in their recently renovated indoor garden room at the back of their coffee house. Since falling in love with their completed drawing they worked with me further to organise a professionally photographed image of the drawing – they now sell quality print reproductions and postcards of their Coffee House to tourists in their region."
+      },
+      {
+        "type": "heading",
+        "text": "Amanda receives a beloved Housewarming Gift from her Family"
+      },
+      {
+        "type": "paragraph",
+        "text": "Amanda has been travelling and living overseas for many years, earlier this year to her families delight she decided to move back to Toowoomba her hometown to resettle. After purchasing her very first home, a cute cottage hidden behind an established garden her family wanted to commemorate this new stage in Amanda’s life. They commissioned me to do a House Portrait Drawing of Amanda’s home so they could surprise her at her housewarming party, they felt it was the perfect way to express their love and excitement that she is now settling down and back home with them."
+      },
+      {
+        "type": "heading",
+        "text": "Looking to surprise someone with a truly meaningful gift? Or maybe you'd like a custom drawing of your own home? Just call or text me and send a photo to start the process today."
+      },
+      {
+        "type": "image",
+        "src": "/assets/Image-for-Blog--mdzd3w0m.jpg",
+        "alt": ""
+      },
+      {
+        "type": "image",
+        "src": "/assets/Chandler-House-1024-mdwrqarp.webp",
+        "alt": "custom home portraits are a great gift for friends and family"
+      }
+    ],
+    "body": [
+      "Whether it's a first home, a forever home, or one that’s part of your family legacy, a hand-drawn house portrait offers a tangible way to celebrate it. It tells a story. Every line drawn in ink represents the character, detail, and feeling that photos often miss. It's a keepsake that holds meaning, and it only becomes more valuable with time.",
+      "A personalised House Portrait Drawing is ideal for so many reasons; clients have commissioned me to do drawings for many purposes, events and gift ideas including:",
+      "Here is a list of why some people have contacted me from all over Queensland, and why they commissioned a hand drawn House Portrait especially for them.",
+      "This lovely couple have operated their business from a heritage listed property for over 20 years, and they were in the process of building a purpose built complex and relocating their old business to it. They both shared a lot of sentimental feelings, along with their many long term and loyal customers for the older building. As a nod of respect, they commissioned me to draw the ‘old building’, and it now hangs proudly in their new business showroom for all to see.",
+      "Dylan and Sussan have lived in North Queensland for the past 10 years in a rented Queenslander home, recently they have decided to relocate to Brisbane for employment opportunities for Dylan and to be close to their family members. Sussan was a little reluctant and sad to move from her home as she loved the character of the home and the many memories that had been made there. Dylan decided to have this beautiful property drawn so contacted me by text to commission a House Portrait Drawing to give it to Sussan for a Birthday gift just before they were to leave for Brisbane. Sussan was delighted and has framed the drawing and hangs it affectionately on their dining room wall so all the family and friends can see it.",
+      "After having several very successful years Jackie and her Husband decided to upscale and purchase a new home that offered more space for their growing family. Although they really loved their modest Queensland cottage, and it had so many memories as their children were growing they felt a need to sell and buy a larger and more centrally located home that suited their changing needs better. Jackie and her family love their new home but wanted to have a memento of their first home to remember the early fun years as their family grew. Jackie contacted me to do a House Portrait Drawing to keep these treasured memories alive.",
+      "Trevor runs an accounting business which he operates from a stunning stately building that is a landmark in the region. Trevor contacted me and asked me to draw the façade of his business, he was very happy with the results and asked about my Corporate Package Deal so he could include the drawing in his business marketing program. Trevor now has a large Building Portrait hanging in his reception area for customers to see. I also provided him with a quality image that he could use to put on his business letterheads, business cards and other merchandise that he gifts to his customers. Trevor is very pleased with the results.",
+      "Jessie and Sam run a small tourism business in a medium sized country town in Southern Queensland. They called me and asked me to do a commissioned drawing of their quaint ‘country cottage’ so they could feature it in their recently renovated indoor garden room at the back of their coffee house. Since falling in love with their completed drawing they worked with me further to organise a professionally photographed image of the drawing – they now sell quality print reproductions and postcards of their Coffee House to tourists in their region.",
+      "Amanda has been travelling and living overseas for many years, earlier this year to her families delight she decided to move back to Toowoomba her hometown to resettle. After purchasing her very first home, a cute cottage hidden behind an established garden her family wanted to commemorate this new stage in Amanda’s life. They commissioned me to do a House Portrait Drawing of Amanda’s home so they could surprise her at her housewarming party, they felt it was the perfect way to express their love and excitement that she is now settling down and back home with them."
+    ]
+  }
+}

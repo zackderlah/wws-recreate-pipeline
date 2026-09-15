@@ -1,0 +1,23 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Poppins", ui-sans-serif, system-ui, sans-serif;
+  --font-display: "Playfair Display", Georgia, serif;
+  --color-brand: #2e701f;
+  --color-brand-dark: #1f4d15;
+  --color-accent: #ab3232;
+  --color-accent-hover: #8f2828;
+  --color-muted: #c4bfba;
+  --color-text: #333333;
+  --color-link: #038f26;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: var(--font-sans);
+  color: var(--color-text);
+  background: #fff;
+}

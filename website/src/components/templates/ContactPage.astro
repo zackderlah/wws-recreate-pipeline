@@ -1,0 +1,43 @@
+---
+import { site } from "../../lib/cms";
+
+const { page } = Astro.props;
+---
+
+<section class="px-4 py-12">
+  <div class="mx-auto max-w-xl text-center">
+    <h1 class="mb-8 text-2xl font-semibold text-text">{page.heading}</h1>
+    <p class="mb-6 leading-relaxed text-text">
+      Get in touch with Alison Greenway to discuss commissions, collaborations, or enquiries about her artwork.
+    </p>
+    <div class="mb-8 space-y-2">
+      <p>
+        <a href={`mailto:${site.email}`} class="text-link hover:underline">{site.email}</a>
+      </p>
+      <p>
+        <a href={`tel:${site.phone}`} class="text-link hover:underline">{site.phone}</a>
+      </p>
+    </div>
+
+    <form class="space-y-4 text-left" action={`mailto:${site.email}`} method="post" enctype="text/plain">
+      <div>
+        <label class="mb-1 block text-sm font-medium" for="name">Name</label>
+        <input id="name" name="name" type="text" required class="w-full border border-gray-300 px-3 py-2" />
+      </div>
+      <div>
+        <label class="mb-1 block text-sm font-medium" for="email">Email</label>
+        <input id="email" name="email" type="email" required class="w-full border border-gray-300 px-3 py-2" />
+      </div>
+      <div>
+        <label class="mb-1 block text-sm font-medium" for="message">Message</label>
+        <textarea id="message" name="message" rows="5" required class="w-full border border-gray-300 px-3 py-2"></textarea>
+      </div>
+      <button type="submit" class="w-full bg-brand px-6 py-3 font-semibold text-white hover:bg-brand-dark">
+        Send Message
+      </button>
+    </form>
+    <p class="mt-4 text-xs text-gray-500">
+      Form uses mailto fallback. Connect to WWS form handler for production submissions.
+    </p>
+  </div>
+</section>

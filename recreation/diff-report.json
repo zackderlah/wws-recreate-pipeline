@@ -1,0 +1,707 @@
+[
+  {
+    "file": "a-little-treasure-colour/desktop.png",
+    "status": "compared",
+    "diffRatio": 0.15248363965469228
+  },
+  {
+    "file": "a-little-treasure-colour/mobile.png",
+    "status": "compared",
+    "diffRatio": 0.19087094907407406
+  },
+  {
+    "file": "a-little-treasure-colour/tablet.png",
+    "status": "compared",
+    "diffRatio": 0.14057769045305024
+  },
+  {
+    "file": "about-alison-greenway/desktop.png",
+    "status": "compared",
+    "diffRatio": 0.1639597463874963
+  },
+  {
+    "file": "about-alison-greenway/mobile.png",
+    "status": "compared",
+    "diffRatio": 0.15812968453619639
+  },
+  {
+    "file": "about-alison-greenway/tablet.png",
+    "status": "compared",
+    "diffRatio": 0.19459512542391624
+  },
+  {
+    "file": "alisons-blog/desktop.png",
+    "status": "compared",
+    "diffRatio": 0.3503271128271128
+  },
+  {
+    "file": "alisons-blog/mobile.png",
+    "status": "compared",
+    "diffRatio": 0.35028617216117214
+  },
+  {
+    "file": "alisons-blog/tablet.png",
+    "status": "compared",
+    "diffRatio": 0.2627009682673745
+  },
+  {
+    "file": "african-highlight/desktop.png",
+    "status": "compared",
+    "diffRatio": 0.290417080026455
+  },
+  {
+    "file": "african-highlight/mobile.png",
+    "status": "compared",
+    "diffRatio": 0.29109901143033673
+  },
+  {
+    "file": "african-highlight/tablet.png",
+    "status": "compared",
+    "diffRatio": 0.2245324100513992
+  },
+  {
+    "file": "amongst-the-reeds/desktop.png",
+    "status": "compared",
+    "diffRatio": 0.17693947743289848
+  },
+  {
+    "file": "amongst-the-reeds/mobile.png",
+    "status": "compared",
+    "diffRatio": 0.264346697148018
+  },
+  {
+    "file": "amongst-the-reeds/tablet.png",
+    "status": "compared",
+    "diffRatio": 0.23092222642733565
+  },
+  {
+    "file": "bayrise-manor-colour/desktop.png",
+    "status": "compared",
+    "diffRatio": 0.15890496315561334
+  },
+  {
+    "file": "bayrise-manor-colour/mobile.png",
+    "status": "compared",
+    "diffRatio": 0.19690745335906626
+  },
+  {
+    "file": "bayrise-manor-colour/tablet.png",
+    "status": "compared",
+    "diffRatio": 0.13993825995198264
+  },
+  {
+    "file": "bayrise-manor-bw/desktop.png",
+    "status": "compared",
+    "diffRatio": 0.14737750172532782
+  },
+  {
+    "file": "bayrise-manor-bw/mobile.png",
+    "status": "compared",
+    "diffRatio": 0.1711755541934825
+  },
+  {
+    "file": "bayrise-manor-bw/tablet.png",
+    "status": "compared",
+    "diffRatio": 0.12791175626765536
+  },
+  {
+    "file": "bayrise-manor-sepia/desktop.png",
+    "status": "compared",
+    "diffRatio": 0.14792768959435626
+  },
+  {
+    "file": "bayrise-manor-sepia/mobile.png",
+    "status": "compared",
+    "diffRatio": 0.172142200429053
+  },
+  {
+    "file": "bayrise-manor-sepia/tablet.png",
+    "status": "compared",
+    "diffRatio": 0.1296669480490819
+  },
+  {
+    "file": "black-cockatoo/desktop.png",
+    "status": "compared",
+    "diffRatio": 0.1970838506103869
+  },
+  {
+    "file": "black-cockatoo/mobile.png",
+    "status": "compared",
+    "diffRatio": 0.26754862201290774
+  },
+  {
+    "file": "black-cockatoo/tablet.png",
+    "status": "compared",
+    "diffRatio": 0.23213539264298894
+  },
+  {
+    "file": "celebrations-of-spring/desktop.png",
+    "status": "compared",
+    "diffRatio": 0.3049570105820106
+  },
+  {
+    "file": "celebrations-of-spring/mobile.png",
+    "status": "compared",
+    "diffRatio": 0.3267802266397772
+  },
+  {
+    "file": "celebrations-of-spring/tablet.png",
+    "status": "compared",
+    "diffRatio": 0.2627818290387956
+  },
+  {
+    "file": "contact-alison-greenway/desktop.png",
+    "status": "compared",
+    "diffRatio": 0.14750967223091635
+  },
+  {
+    "file": "contact-alison-greenway/mobile.png",
+    "status": "compared",
+    "diffRatio": 0.17330137715894392
+  },
+  {
+    "file": "contact-alison-greenway/tablet.png",
+    "status": "compared",
+    "diffRatio": 0.1289612676056338
+  },
+  {
+    "file": "double-gabled-suburban-home-bw/desktop.png",
+    "status": "compared",
+    "diffRatio": 0.15158717679944095
+  },
+  {
+    "file": "double-gabled-suburban-home-bw/mobile.png",
+    "status": "compared",
+    "diffRatio": 0.18111620535461595
+  },
+  {
+    "file": "double-gabled-suburban-home-bw/tablet.png",
+    "status": "compared",
+    "diffRatio": 0.12073230278201219
+  },
+  {
+    "file": "double-gabled-suburban-home-sepia/desktop.png",
+    "status": "compared",
+    "diffRatio": 0.15211827393431168
+  },
+  {
+    "file": "double-gabled-suburban-home-sepia/mobile.png",
+    "status": "compared",
+    "diffRatio": 0.18236146487802116
+  },
+  {
+    "file": "double-gabled-suburban-home-sepia/tablet.png",
+    "status": "compared",
+    "diffRatio": 0.12266696836890244
+  },
+  {
+    "file": "follow-the-path/desktop.png",
+    "status": "compared",
+    "diffRatio": 0.26252893518518516
+  },
+  {
+    "file": "follow-the-path/mobile.png",
+    "status": "compared",
+    "diffRatio": 0.3481744921744922
+  },
+  {
+    "file": "follow-the-path/tablet.png",
+    "status": "compared",
+    "diffRatio": 0.3019156053635548
+  },
+  {
+    "file": "gift-vouchers/desktop.png",
+    "status": "compared",
+    "diffRatio": 0.13066913963653093
+  },
+  {
+    "file": "gift-vouchers/mobile.png",
+    "status": "compared",
+    "diffRatio": 0.1612026862026862
+  },
+  {
+    "file": "gift-vouchers/tablet.png",
+    "status": "compared",
+    "diffRatio": 0.09904699144647697
+  },
+  {
+    "file": "home/desktop.png",
+    "status": "compared",
+    "diffRatio": 0.3033896704956616
+  },
+  {
+    "file": "home/mobile.png",
+    "status": "compared",
+    "diffRatio": 0.4197726985950302
+  },
+  {
+    "file": "home/tablet.png",
+    "status": "compared",
+    "diffRatio": 0.38829123898109913
+  },
+  {
+    "file": "home-among-the-gumtrees-colour/desktop.png",
+    "status": "compared",
+    "diffRatio": 0.14794212406517093
+  },
+  {
+    "file": "home-among-the-gumtrees-colour/mobile.png",
+    "status": "compared",
+    "diffRatio": 0.1871622856528517
+  },
+  {
+    "file": "home-among-the-gumtrees-colour/tablet.png",
+    "status": "compared",
+    "diffRatio": 0.1308666294642857
+  },
+  {
+    "file": "jills-getaway-bw/desktop.png",
+    "status": "compared",
+    "diffRatio": 0.15797746298602464
+  },
+  {
+    "file": "jills-getaway-bw/mobile.png",
+    "status": "compared",
+    "diffRatio": 0.20416777955840457
+  },
+  {
+    "file": "jills-getaway-bw/tablet.png",
+    "status": "compared",
+    "diffRatio": 0.15168209352355072
+  },
+  {
+    "file": "house-portrait-commissions/desktop.png",
+    "status": "compared",
+    "diffRatio": 0.17695981288252582
+  },
+  {
+    "file": "house-portrait-commissions/mobile.png",
+    "status": "compared",
+    "diffRatio": 0.3116508097768137
+  },
+  {
+    "file": "house-portrait-commissions/tablet.png",
+    "status": "compared",
+    "diffRatio": 0.1942866472791798
+  },
+  {
+    "file": "jills-getaway-colour/desktop.png",
+    "status": "compared",
+    "diffRatio": 0.15370269475577694
+  },
+  {
+    "file": "jills-getaway-colour/mobile.png",
+    "status": "compared",
+    "diffRatio": 0.19855435363247864
+  },
+  {
+    "file": "jills-getaway-colour/tablet.png",
+    "status": "compared",
+    "diffRatio": 0.14171124886775363
+  },
+  {
+    "file": "jills-getaway-sepia/desktop.png",
+    "status": "compared",
+    "diffRatio": 0.1657720181264702
+  },
+  {
+    "file": "jills-getaway-sepia/mobile.png",
+    "status": "compared",
+    "diffRatio": 0.20736511752136752
+  },
+  {
+    "file": "jills-getaway-sepia/tablet.png",
+    "status": "compared",
+    "diffRatio": 0.16226093089522947
+  },
+  {
+    "file": "louvered-cottage-bw/desktop.png",
+    "status": "compared",
+    "diffRatio": 0.14338945723216823
+  },
+  {
+    "file": "louvered-cottage-bw/mobile.png",
+    "status": "compared",
+    "diffRatio": 0.18481072342718577
+  },
+  {
+    "file": "louvered-cottage-bw/tablet.png",
+    "status": "compared",
+    "diffRatio": 0.13698800050340768
+  },
+  {
+    "file": "louvered-cottage-colour/desktop.png",
+    "status": "compared",
+    "diffRatio": 0.15383769528398306
+  },
+  {
+    "file": "louvered-cottage-colour/mobile.png",
+    "status": "compared",
+    "diffRatio": 0.1910439397058487
+  },
+  {
+    "file": "louvered-cottage-colour/tablet.png",
+    "status": "compared",
+    "diffRatio": 0.14124222661138924
+  },
+  {
+    "file": "louvered-cottage-sepia/desktop.png",
+    "status": "compared",
+    "diffRatio": 0.1568982946554149
+  },
+  {
+    "file": "louvered-cottage-sepia/mobile.png",
+    "status": "compared",
+    "diffRatio": 0.19189480947293447
+  },
+  {
+    "file": "louvered-cottage-sepia/tablet.png",
+    "status": "compared",
+    "diffRatio": 0.13868984854294478
+  },
+  {
+    "file": "maple-grove-timber-vista-cottage-bw/desktop.png",
+    "status": "compared",
+    "diffRatio": 0.1456798291130483
+  },
+  {
+    "file": "maple-grove-timber-vista-cottage-bw/mobile.png",
+    "status": "compared",
+    "diffRatio": 0.16084491132949283
+  },
+  {
+    "file": "maple-grove-timber-vista-cottage-bw/tablet.png",
+    "status": "compared",
+    "diffRatio": 0.11718808971165459
+  },
+  {
+    "file": "painting-reproductions/desktop.png",
+    "status": "compared",
+    "diffRatio": 0.4732164026295937
+  },
+  {
+    "file": "painting-reproductions/mobile.png",
+    "status": "compared",
+    "diffRatio": 0.6991097032744201
+  },
+  {
+    "file": "painting-reproductions/tablet.png",
+    "status": "compared",
+    "diffRatio": 0.5893977155679812
+  },
+  {
+    "file": "maple-grove-timber-vista-cottage-sepia/desktop.png",
+    "status": "compared",
+    "diffRatio": 0.14637600318251004
+  },
+  {
+    "file": "maple-grove-timber-vista-cottage-sepia/mobile.png",
+    "status": "compared",
+    "diffRatio": 0.16262735795775443
+  },
+  {
+    "file": "maple-grove-timber-vista-cottage-sepia/tablet.png",
+    "status": "compared",
+    "diffRatio": 0.11940599524456522
+  },
+  {
+    "file": "old-melbourne-inn/desktop.png",
+    "status": "compared",
+    "diffRatio": 0.2270043816137566
+  },
+  {
+    "file": "old-melbourne-inn/mobile.png",
+    "status": "compared",
+    "diffRatio": 0.29520431191779506
+  },
+  {
+    "file": "old-melbourne-inn/tablet.png",
+    "status": "compared",
+    "diffRatio": 0.22516191958794587
+  },
+  {
+    "file": "queensland-cottage-art-collection/desktop.png",
+    "status": "compared",
+    "diffRatio": 0.3258307372793354
+  },
+  {
+    "file": "queensland-cottage-art-collection/mobile.png",
+    "status": "compared",
+    "diffRatio": 0.3755731804427457
+  },
+  {
+    "file": "queensland-cottage-art-collection/tablet.png",
+    "status": "compared",
+    "diffRatio": 0.30880901104090674
+  },
+  {
+    "file": "pine-haven-retreat/desktop.png",
+    "status": "compared",
+    "diffRatio": 0.18641285211267605
+  },
+  {
+    "file": "pine-haven-retreat/mobile.png",
+    "status": "compared",
+    "diffRatio": 0.21751240795609397
+  },
+  {
+    "file": "pine-haven-retreat/tablet.png",
+    "status": "compared",
+    "diffRatio": 0.2257825786564626
+  },
+  {
+    "file": "queensland-homes/desktop.png",
+    "status": "compared",
+    "diffRatio": 0.3189189096777723
+  },
+  {
+    "file": "queensland-homes/mobile.png",
+    "status": "compared",
+    "diffRatio": 0.35864024285468815
+  },
+  {
+    "file": "queensland-homes/tablet.png",
+    "status": "compared",
+    "diffRatio": 0.2938632955138237
+  },
+  {
+    "file": "quiet-time-by-the-pond/desktop.png",
+    "status": "compared",
+    "diffRatio": 0.22909102613621732
+  },
+  {
+    "file": "quiet-time-by-the-pond/mobile.png",
+    "status": "compared",
+    "diffRatio": 0.2987418240774672
+  },
+  {
+    "file": "quiet-time-by-the-pond/tablet.png",
+    "status": "compared",
+    "diffRatio": 0.24745881197097944
+  },
+  {
+    "file": "relaxing-in-the-study/desktop.png",
+    "status": "compared",
+    "diffRatio": 0.24353257275132276
+  },
+  {
+    "file": "relaxing-in-the-study/mobile.png",
+    "status": "compared",
+    "diffRatio": 0.32905895199379037
+  },
+  {
+    "file": "relaxing-in-the-study/tablet.png",
+    "status": "compared",
+    "diffRatio": 0.27266314897990257
+  },
+  {
+    "file": "spring-garden/desktop.png",
+    "status": "compared",
+    "diffRatio": 0.18656252373357637
+  },
+  {
+    "file": "spring-garden/mobile.png",
+    "status": "compared",
+    "diffRatio": 0.25617983281488027
+  },
+  {
+    "file": "spring-garden/tablet.png",
+    "status": "compared",
+    "diffRatio": 0.2416141368526942
+  },
+  {
+    "file": "so-why-are-house-portraits-the-perfect-realtor-gift/desktop.png",
+    "status": "compared",
+    "diffRatio": 0.1269249036530424
+  },
+  {
+    "file": "so-why-are-house-portraits-the-perfect-realtor-gift/mobile.png",
+    "status": "compared",
+    "diffRatio": 0.21030360232814221
+  },
+  {
+    "file": "so-why-are-house-portraits-the-perfect-realtor-gift/tablet.png",
+    "status": "compared",
+    "diffRatio": 0.18032796661272593
+  },
+  {
+    "file": "spring-time/desktop.png",
+    "status": "compared",
+    "diffRatio": 0.1679899535162693
+  },
+  {
+    "file": "spring-time/mobile.png",
+    "status": "compared",
+    "diffRatio": 0.2684376297441624
+  },
+  {
+    "file": "spring-time/tablet.png",
+    "status": "compared",
+    "diffRatio": 0.22392679498269896
+  },
+  {
+    "file": "the-bull-and-barley-inn-cambooya/desktop.png",
+    "status": "compared",
+    "diffRatio": 0.17892220024771266
+  },
+  {
+    "file": "the-bull-and-barley-inn-cambooya/mobile.png",
+    "status": "compared",
+    "diffRatio": 0.23628358097884058
+  },
+  {
+    "file": "the-bull-and-barley-inn-cambooya/tablet.png",
+    "status": "compared",
+    "diffRatio": 0.24029478461292095
+  },
+  {
+    "file": "sunday-morning/desktop.png",
+    "status": "compared",
+    "diffRatio": 0.23636450066137565
+  },
+  {
+    "file": "sunday-morning/mobile.png",
+    "status": "compared",
+    "diffRatio": 0.31813684861401637
+  },
+  {
+    "file": "sunday-morning/tablet.png",
+    "status": "compared",
+    "diffRatio": 0.2526041666666667
+  },
+  {
+    "file": "toucan-in-the-jungle/desktop.png",
+    "status": "compared",
+    "diffRatio": 0.22935717076983198
+  },
+  {
+    "file": "toucan-in-the-jungle/mobile.png",
+    "status": "compared",
+    "diffRatio": 0.30139157325086974
+  },
+  {
+    "file": "toucan-in-the-jungle/tablet.png",
+    "status": "compared",
+    "diffRatio": 0.23960823656648453
+  },
+  {
+    "file": "terms-and-conditions/desktop.png",
+    "status": "compared",
+    "diffRatio": 0.21086266012252855
+  },
+  {
+    "file": "terms-and-conditions/mobile.png",
+    "status": "compared",
+    "diffRatio": 0.18092667566351778
+  },
+  {
+    "file": "terms-and-conditions/tablet.png",
+    "status": "compared",
+    "diffRatio": 0.13611063019390582
+  },
+  {
+    "file": "tudor-estate-colour/desktop.png",
+    "status": "compared",
+    "diffRatio": 0.15606979909516142
+  },
+  {
+    "file": "tudor-estate-colour/mobile.png",
+    "status": "compared",
+    "diffRatio": 0.1975236568986569
+  },
+  {
+    "file": "tudor-estate-colour/tablet.png",
+    "status": "compared",
+    "diffRatio": 0.15547802461592178
+  },
+  {
+    "file": "under-water/desktop.png",
+    "status": "compared",
+    "diffRatio": 0.2639459325396825
+  },
+  {
+    "file": "under-water/mobile.png",
+    "status": "compared",
+    "diffRatio": 0.34235208939524336
+  },
+  {
+    "file": "under-water/tablet.png",
+    "status": "compared",
+    "diffRatio": 0.27192176332638474
+  },
+  {
+    "file": "tudor-estate-bw/desktop.png",
+    "status": "compared",
+    "diffRatio": 0.1600138888888889
+  },
+  {
+    "file": "tudor-estate-bw/mobile.png",
+    "status": "compared",
+    "diffRatio": 0.1958931115181115
+  },
+  {
+    "file": "tudor-estate-bw/tablet.png",
+    "status": "compared",
+    "diffRatio": 0.15088163407821228
+  },
+  {
+    "file": "tudor-estate-sepia/desktop.png",
+    "status": "compared",
+    "diffRatio": 0.15707384403036576
+  },
+  {
+    "file": "tudor-estate-sepia/mobile.png",
+    "status": "compared",
+    "diffRatio": 0.19896342083842083
+  },
+  {
+    "file": "tudor-estate-sepia/tablet.png",
+    "status": "compared",
+    "diffRatio": 0.15862048271648044
+  },
+  {
+    "file": "weekend-retreat/desktop.png",
+    "status": "compared",
+    "diffRatio": 0.18019993279569893
+  },
+  {
+    "file": "weekend-retreat/mobile.png",
+    "status": "compared",
+    "diffRatio": 0.25996093996093994
+  },
+  {
+    "file": "weekend-retreat/tablet.png",
+    "status": "compared",
+    "diffRatio": 0.2361058728448276
+  },
+  {
+    "file": "wisteria-cottage/desktop.png",
+    "status": "compared",
+    "diffRatio": 0.18760123239436619
+  },
+  {
+    "file": "wisteria-cottage/mobile.png",
+    "status": "compared",
+    "diffRatio": 0.22892723823511413
+  },
+  {
+    "file": "wisteria-cottage/tablet.png",
+    "status": "compared",
+    "diffRatio": 0.21432210393396847
+  },
+  {
+    "file": "who-commissions-a-house-portrait-drawing/desktop.png",
+    "status": "compared",
+    "diffRatio": 0.13865534617243044
+  },
+  {
+    "file": "who-commissions-a-house-portrait-drawing/mobile.png",
+    "status": "compared",
+    "diffRatio": 0.235722303019186
+  },
+  {
+    "file": "who-commissions-a-house-portrait-drawing/tablet.png",
+    "status": "compared",
+    "diffRatio": 0.20418103838786497
+  }
+]

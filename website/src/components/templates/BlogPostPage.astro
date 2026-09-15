@@ -1,0 +1,27 @@
+---
+import ArticleBlocks from "../ArticleBlocks.astro";
+
+const { page } = Astro.props;
+const blocks = page.blocks || [];
+const lead = page.lead;
+---
+
+<article class="px-4 py-8">
+  <div class="mx-auto max-w-3xl">
+    <h1 class="mb-6 text-center text-2xl font-semibold text-text md:text-3xl">{page.heading}</h1>
+
+    {page.image && (
+      <img
+        src={page.image}
+        alt={page.imageAlt || page.heading}
+        class="mx-auto mb-8 w-full max-w-4xl"
+      />
+    )}
+
+    {lead && (
+      <p class="mb-6 text-lg font-semibold leading-relaxed text-text md:text-xl">{lead}</p>
+    )}
+
+    <ArticleBlocks blocks={blocks} />
+  </div>
+</article>
