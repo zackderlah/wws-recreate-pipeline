@@ -7,11 +7,11 @@
     "capture": "tsx src/capture.ts",
     "compare": "tsx src/compare.ts",
     "recreate": "tsx src/recreate.ts",
-    "prepare:site": "tsx scripts/prepare-site.ts",
-    "build:site": "npm run prepare:site && cd website && npm run build",
-    "preview:site": "cd website && npm run preview -- --host",
+    "prepare:site": "tsx scripts/prepare-site.ts --config=sites/alisongreenwayart.json --website-dir=../alisongreenwayart-recreation-wws",
+    "build:site": "npm run prepare:site && npm --prefix ../alisongreenwayart-recreation-wws run build",
+    "preview:site": "npm --prefix ../alisongreenwayart-recreation-wws run preview -- --host",
     "screenshot": "tsx src/screenshot.ts",
-    "qa": "npm run build:site && cd website && npm run preview -- --host --port 4321",
+    "qa": "npm run build:site && npm --prefix ../alisongreenwayart-recreation-wws run preview -- --host --port 4321",
     "install:browsers": "playwright install chromium"
   },
   "dependencies": {

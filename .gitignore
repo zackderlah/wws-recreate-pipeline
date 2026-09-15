@@ -1,5 +1,8 @@
 node_modules
 dist
 .env
+website/
+recreation/source
 recreation/generated
 recreation/diff
+RECREATION_REPORT.md

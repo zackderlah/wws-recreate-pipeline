@@ -1,0 +1,23 @@
+{
+  "id": "alisongreenwayart",
+  "sourceUrl": "https://alisongreenwayart.com",
+  "collectionSlugs": [
+    "queensland-homes",
+    "queensland-cottage-art-collection",
+    "painting-reproductions"
+  ],
+  "blogPostSlugs": [
+    "the-bull-and-barley-inn-cambooya",
+    "so-why-are-house-portraits-the-perfect-realtor-gift",
+    "who-commissions-a-house-portrait-drawing"
+  ],
+  "staticTypes": {
+    "home": "home",
+    "house-portrait-commissions": "commissions",
+    "gift-vouchers": "gift-vouchers",
+    "alisons-blog": "blog-list",
+    "about-alison-greenway": "about",
+    "contact-alison-greenway": "contact",
+    "terms-and-conditions": "terms"
+  }
+}

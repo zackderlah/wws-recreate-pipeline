@@ -2,9 +2,37 @@ import fs from "node:fs";
 import path from "node:path";
 import fg from "fast-glob";
 
+type SiteConfig = {
+  id: string;
+  sourceUrl: string;
+  collectionSlugs: string[];
+  blogPostSlugs: string[];
+  staticTypes: Record<string, string>;
+};
+
+function readArg(name: string) {
+  const prefix = `--${name}=`;
+  return process.argv.find((arg) => arg.startsWith(prefix))?.slice(prefix.length);
+}
+
+function resolveWebsiteDir() {
+  const fromArg = readArg("website-dir");
+  if (fromArg) return path.resolve(fromArg);
+  const sibling = path.resolve("../alisongreenwayart-recreation-wws");
+  if (fs.existsSync(path.join(sibling, "package.json"))) return sibling;
+  return path.resolve("website");
+}
+
+function loadSiteConfig() {
+  const configPath = path.resolve(readArg("config") || "sites/alisongreenwayart.json");
+  return JSON.parse(fs.readFileSync(configPath, "utf8")) as SiteConfig;
+}
+
+const siteConfig = loadSiteConfig();
+const websiteDir = resolveWebsiteDir();
 const sourceRoot = path.resolve("recreation/source");
-const cmsRoot = path.resolve("website/src/cms");
-const assetsRoot = path.resolve("website/public/assets");
+const cmsRoot = path.resolve(websiteDir, "src/cms");
+const assetsRoot = path.resolve(websiteDir, "public/assets");
 const sitemap = JSON.parse(fs.readFileSync(path.join(sourceRoot, "sitemap.json"), "utf8")) as Array<{
   url: string;
   slug: string;
@@ -12,25 +40,9 @@ const sitemap = JSON.parse(fs.readFileSync(path.join(sourceRoot, "sitemap.json")
   description: string | null;
 }>;
 
-const COLLECTION_SLUGS = new Set([
-  "queensland-homes",
-  "queensland-cottage-art-collection",
-  "painting-reproductions"
-]);
-const BLOG_POST_SLUGS = new Set([
-  "the-bull-and-barley-inn-cambooya",
-  "so-why-are-house-portraits-the-perfect-realtor-gift",
-  "who-commissions-a-house-portrait-drawing"
-]);
-const STATIC_TYPES: Record<string, string> = {
-  home: "home",
-  "house-portrait-commissions": "commissions",
-  "gift-vouchers": "gift-vouchers",
-  "alisons-blog": "blog-list",
-  "about-alison-greenway": "about",
-  "contact-alison-greenway": "contact",
-  "terms-and-conditions": "terms"
-};
+const COLLECTION_SLUGS = new Set(siteConfig.collectionSlugs);
+const BLOG_POST_SLUGS = new Set(siteConfig.blogPostSlugs);
+const STATIC_TYPES = siteConfig.staticTypes;
 
 const assetMap = new Map<string, string>();
 
@@ -681,7 +693,9 @@ async function main() {
   fs.writeFileSync(path.join(cmsRoot, "site.json"), JSON.stringify(site, null, 2));
   fs.writeFileSync(path.join(cmsRoot, "pages.json"), JSON.stringify(pages, null, 2));
   fs.writeFileSync(path.join(cmsRoot, "asset-map.json"), JSON.stringify(Object.fromEntries(assetMap), null, 2));
-  console.log(`Prepared ${Object.keys(pages).length} pages and ${assetMap.size} assets.`);
+  console.log(
+    `Prepared ${Object.keys(pages).length} pages and ${assetMap.size} assets into ${websiteDir}.`
+  );
 }
 
 main().catch((err) => {

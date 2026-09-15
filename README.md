@@ -1,84 +1,58 @@
 # WWS Recreation Pipeline
 
-Reusable capture + recreation workflow for migrating WebWave sites into WWS.
+Reusable capture + QA tooling for migrating WebWave sites into WWS-native Astro sites.
+
+Each **client website** lives in its own repository. This repo holds only the pipeline.
+
+## Layout
+
+Clone site repos as siblings of this pipeline:
+
+```text
+wws-recreate-pipeline/              # this repo (tooling)
+alisongreenwayart-recreation-wws/ # site repo (deployable Astro project)
+```
 
 ## Setup
 
 ```bash
 npm install
 npm run install:browsers
+cd ../alisongreenwayart-recreation-wws && npm install
 ```
 
-## Capture + start recreation
+## Capture a site
 
 ```bash
 npm run recreate -- https://example.com
 ```
 
-This automatically:
+Output is written to `recreation/source/` (local only, not committed).
 
-1. crawls same-origin pages
-2. auto-scrolls lazy content
-3. captures desktop/tablet/mobile full-page screenshots
-4. saves rendered HTML
-5. extracts headings, links, images, forms, metadata and section geometry
-6. downloads accessible image assets
-7. creates a structured site manifest
-8. prints the master Cursor/Codex recreation prompt
+## Generate CMS + build site
 
-## Output
+```bash
+npm run prepare:site   # writes to ../alisongreenwayart-recreation-wws
+npm run build:site
+```
 
-```text
-recreation/
-  source/
-    sitemap.json
-    site-data.json
-    assets/
-    pages/
-      home/
-        desktop.png
-        tablet.png
-        mobile.png
-        dom.html
-        structure.json
-  generated/
-  diff/
-  diff-report.json
+Site config: `sites/alisongreenwayart.json`. Add a new JSON file per client and pass `--config=sites/<client>.json --website-dir=../<client-repo>`.
+
+## Visual QA
+
+```bash
+npm run qa
+npm run screenshot
+npm run compare
 ```
 
 ## Cursor workflow
 
-Open the repository in Cursor and paste:
+Paste `prompts/recreate-site.md` after capture. Rules: `.cursor/rules/wws-recreation.mdc`.
 
-`prompts/recreate-site.md`
+## Adding another site
 
-The global recreation rules live in:
-
-`.cursor/rules/wws-recreation.mdc`
-
-## Visual comparison
-
-Once the recreated website's QA screenshots exist in
-`recreation/generated/pages/...` run:
-
-```bash
-npm run compare
-```
-
-This creates pixel diffs and `recreation/diff-report.json`.
-
-## Recommended production additions
-
-Before using this for all 60+ sites, add:
-
-- robots/rate-limit controls
-- sitemap.xml parsing before link crawling
-- font/background-image downloading
-- carousel interaction capture
-- iframe/integration inventory
-- screenshot masking for dynamic content
-- a WWS CMS schema generator
-- GitHub repo creation via `gh`
-- WWS API registration after migration approval
-
-Start with 3 representative WebWave sites and improve the pipeline before batch migration.
+1. Copy `sites/alisongreenwayart.json` → `sites/<new-client>.json`
+2. Create a new Astro site repo (or use a scaffold from an existing recreation)
+3. Run capture + `prepare:site` with `--config` and `--website-dir`
+4. Commit and push the **site repo** only
