@@ -1,0 +1,39 @@
+---
+description: File contract so a recreated site imports into Working Websites Studio from GitHub
+alwaysApply: true
+---
+
+# WWS GitHub import
+
+Recreate the live site. Match its pages, copy, images, and layout. Do not redesign it or invent marketing copy.
+
+Stack: Astro, or plain HTML, CSS, and JS. Another framework is allowed only if each page still ends as static HTML in src/pages. index.html must not be an empty Vite root.
+
+- One page file per URL under src/pages. Home is src/pages/index.astro or index.html.
+- Copy and image paths go in src/cms/content.json as { "pageContent": { "/": {}, "/about": {} } }, keyed by path.
+- Image files live in the repo and are referenced as /assets/.... No hotlinks. No CSS-background heroes.
+- Do not add src/cms/pages.json. Do not add a wws/ folder.
+
+Templates print content.json. Allowed expressions: property paths, literals, .map(), .filter(), &&, ||, ===, ternaries, and optional chaining including list?.[0].
+
+- Render repeating lists in the template with .map(). Do not build them in a script or with innerHTML.
+- A catch-all route is only: for (const [path, page] of Object.entries(cms.pageContent)).
+- Pass the page object into the component that renders it. Do not hardcode another client's copy.
+
+Layout: wrap every visible region in <section>, including the hero. The hero is an <img> inside that section with a real src. Use headings, paragraphs, links, images, and simple flex. Do not use CSS grid, position:fixed chrome, or a widget that only appears after JavaScript runs for anything that must survive import.
+
+Source structure is complete when every live URL has a page file and a content.json entry, every image src points at a file in the repo, lists render without a script, and there is no pages.json and no wws/ folder.
+
+
+## Required ingestion acceptance gate
+
+A successful source build is never evidence that WWS can import it. Before calling any recreation import-ready:
+
+1. Run the real WWS converter offline using `npm run check:ingestion -- --wws-dir=/path/to/ww-studio --website-dir=../client-recreation-wws --config=sites/client.json`.
+2. Keep `report.json` and `canvas.json` plus the generated native WWS renderer preview in `recreation/ingestion/<client>/`. Record importer commit, source hash, route count and blocker count in the client report.
+3. Missing routes, CMS copy, navigation or assets, unresolved templates, and incomplete snapshots are failures. Correct the converter/source and rerun. Never accept these as successful imports.
+4. `needs-review` exits 2 and means native layouts are unverified. `--allow-review=true` produces review artifacts; it does not grant approval or establish fidelity.
+5. Compare the **native WWS preview**, not just Astro, at WWS device widths 1280, 768 and 390 (content columns 1024, 640 and 390), plus the original capture widths. Check full-page heights, navigation and image crops. Static offline previews do not verify forms/menu interaction; separately test those on a disposable WWS site after the reviewed importer is deployed.
+6. Custom fonts, unsupported CSS and viewport/content-width differences must be resolved or documented as remaining failures. Do not claim pixel-perfect or import-ready while these findings are open.
+
+If the actual WWS checkout/checker is unavailable, status is **ingestion not verified**, even if the source build and file validation pass. Never import directly from the public source URL.

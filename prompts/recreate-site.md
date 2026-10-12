@@ -10,7 +10,7 @@ Do not ask me to manually provide screenshots or page content unless extraction 
 
 ## Process
 
-1. Read `.cursor/rules/wws-recreation.mdc`.
+1. Read `AGENTS.md` and `.cursor/rules/wws-recreation.mdc`.
 2. Inspect:
    - `recreation/source/sitemap.json`
    - every `structure.json`
@@ -42,3 +42,15 @@ Important:
 - Do not reproduce WebWave's generated implementation.
 - Rebuild cleanly while matching the rendered result.
 - Do not claim completion until the project builds and QA has run.
+
+When using CopyAnything/Pingfusi:
+- Read `docs/pingfusi.md` and use the existing WWS build as an adopted target.
+- Run `npm run review:prepare -- --config=sites/<client>.json` after local QA.
+- Once client publishing/review is authorized, publish the built client output
+  and request source-vs-draft review with explicit page and viewport scopes.
+- Fix pinned fidelity/interaction findings while keeping WWS CMS integration.
+- Keep the total QA/fix cycle within the three-pass limit above.
+- Include the human verdict or pending review status in `RECREATION_REPORT.md`.
+
+
+WWS ingestion is a separate required gate. Run `npm run check:ingestion -- --wws-dir=/path/to/ww-studio --website-dir=../client-recreation-wws --config=sites/client.json` against the actual reviewed WWS converter. Read [the ingestion acceptance rules](.cursor/rules/wws-github-import.mdc). Source builds and CMS/file checks alone do not establish import readiness. A `needs-review` result must remain unverified until the native WWS layout and interactions have been compared.

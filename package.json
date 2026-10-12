@@ -12,7 +12,14 @@
     "preview:site": "npm --prefix ../alisongreenwayart-recreation-wws run preview -- --host",
     "screenshot": "tsx src/screenshot.ts",
     "qa": "npm run build:site && npm --prefix ../alisongreenwayart-recreation-wws run preview -- --host --port 4321",
-    "install:browsers": "playwright install chromium"
+    "install:browsers": "playwright install chromium",
+    "pingfusi": "pingfusi",
+    "pingfusi:setup": "pingfusi setup codex",
+    "pingfusi:doctor": "pingfusi doctor",
+    "review:prepare": "node scripts/prepare-review.mjs",
+    "typecheck": "tsc --noEmit",
+    "check:ingestion": "node scripts/check-wws-ingestion.mjs",
+    "screenshot:ingestion": "node scripts/capture-wws-ingestion.mjs"
   },
   "dependencies": {
     "chalk": "^5.4.1",
@@ -24,6 +31,7 @@
   "devDependencies": {
     "@types/node": "^24.3.0",
     "@types/pngjs": "^6.0.5",
+    "pingfusi": "0.18.0",
     "tsx": "^4.20.5",
     "typescript": "^5.9.2"
   }

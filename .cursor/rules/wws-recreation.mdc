@@ -78,3 +78,13 @@ Before declaring completion:
 3. compare against source
 4. fix meaningful differences
 5. produce `RECREATION_REPORT.md`
+
+## CopyAnything / Pingfusi review
+- Read `docs/pingfusi.md` when using CopyAnything/Pingfusi.
+- Use `adopt` for WWS builds; preserve the clean Astro implementation and CMS boundaries.
+- Prepare local evidence with `npm run review:prepare -- --config=sites/<client>.json`.
+- Obtain authorization for publishing the client draft and submitting human review.
+- Scope review by page and viewport; include responsive behavior and interactions.
+- Human review supplements local build/screenshots/diffs; it does not replace them.
+- Check full-page dimensions separately when image sizes differ.
+- Limit the entire QA/fix cycle to three passes and report unresolved findings.
