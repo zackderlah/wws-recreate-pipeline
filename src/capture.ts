@@ -100,7 +100,11 @@ async function settle(page: Page) {
 }
 
 async function extract(page: Page) {
-  return await page.evaluate(`(${EXTRACT_SCRIPT})()`);
+  return await page.evaluate<{
+    metadata: { title: string; description: string | null };
+    images: Array<{ src: string | null }>;
+    links: Array<{ href: string | null }>;
+  }>(`(${EXTRACT_SCRIPT})()`);
 }
 
 async function downloadAsset(url: string, destDir: string) {
@@ -130,6 +134,7 @@ const queue = [new URL(startUrl).toString()];
 const seen = new Set<string>();
 const siteManifest: any[] = [];
 const allAssets = new Set<string>();
+const measurements: Record<string, Record<string, unknown>> = {};
 
 while (queue.length && seen.size < MAX_PAGES) {
   const url = queue.shift()!;
@@ -138,6 +143,7 @@ while (queue.length && seen.size < MAX_PAGES) {
   console.log(`Capturing ${url}`);
 
   try {
+    await page.setViewportSize(VIEWPORTS.desktop);
     await page.goto(url, { waitUntil: "domcontentloaded" });
     await settle(page);
 
@@ -148,16 +154,28 @@ while (queue.length && seen.size < MAX_PAGES) {
 
     fs.writeFileSync(path.join(pageDir, "dom.html"), await page.content());
     writeJson(path.join(pageDir, "structure.json"), data);
+    measurements[slug] = {};
 
     for (const [name, viewport] of Object.entries(VIEWPORTS)) {
       await page.setViewportSize(viewport);
       await page.goto(url, { waitUntil: "domcontentloaded" });
       await settle(page);
+      // Keep the rendered asset variants and SVG backgrounds alongside each screenshot.
+      // Site adapters use these as evidence, never as editable layout fields.
+      measurements[slug][name] = await page.evaluate(`(() => ({
+        height: document.documentElement.scrollHeight,
+        rows: [...document.querySelectorAll('img[id^="element_"]')].map(img => ({
+          id: img.id,
+          src: img.currentSrc || img.src,
+          css: { backgroundImage: getComputedStyle(img).backgroundImage }
+        }))
+      }))()`);
       await page.screenshot({
         path: path.join(pageDir, `${name}.png`),
         fullPage: true
       });
     }
+    writeJson(path.join(outRoot, "measurements.json"), measurements);
 
     siteManifest.push({
       url,

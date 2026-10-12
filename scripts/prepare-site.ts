@@ -1,6 +1,7 @@
 import fs from "node:fs";
 import path from "node:path";
 import fg from "fast-glob";
+import { spawnSync } from "node:child_process";
 
 type SiteConfig = {
   id: string;
@@ -8,11 +9,12 @@ type SiteConfig = {
   collectionSlugs: string[];
   blogPostSlugs: string[];
   staticTypes: Record<string, string>;
+  adapter?: string;
 };
 
 function readArg(name: string) {
   const prefix = `--${name}=`;
-  return process.argv.find((arg) => arg.startsWith(prefix))?.slice(prefix.length);
+  return process.argv.findLast((arg) => arg.startsWith(prefix))?.slice(prefix.length);
 }
 
 function resolveWebsiteDir() {
@@ -30,6 +32,11 @@ function loadSiteConfig() {
 
 const siteConfig = loadSiteConfig();
 const websiteDir = resolveWebsiteDir();
+if (siteConfig.adapter) {
+  if (siteConfig.adapter !== "beyondbooks") throw new Error(`Unknown site adapter: ${siteConfig.adapter}`);
+  const result = spawnSync(process.execPath, [path.resolve("scripts/prepare-beyondbooks.mjs"), `--website-dir=${websiteDir}`], { stdio: "inherit" });
+  process.exit(result.status ?? 1);
+}
 const sourceRoot = path.resolve("recreation/source");
 const cmsRoot = path.resolve(websiteDir, "src/cms");
 const assetsRoot = path.resolve(websiteDir, "public/assets");

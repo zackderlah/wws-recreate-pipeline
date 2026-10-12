@@ -6,3 +6,8 @@ recreation/source
 recreation/generated
 recreation/diff
 RECREATION_REPORT.md
+recreation/review
+targets/
+.pingfusi/
+
+recreation/ingestion/
